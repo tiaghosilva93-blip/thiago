@@ -1,0 +1,30 @@
+{
+  "ad_account_id": "act_SEU_ID",
+  "page_id": "<PAGE_ID>",
+  "whatsapp_number": "<NUMERO_WHATSAPP_55DDDNUMERO>",
+  "daily_budget": 10,
+  "countries": ["BR"],
+  "age_min": 25,
+  "age_max": 55,
+  "name_prefix": "[29.05] | - [TESTE DE CRIATIVOS] - [Cliente_A]",
+  "creatives": [
+    {
+      "label": "C01",
+      "image": "~/Desktop/artes/arte01.jpg",
+      "primary_text": "Texto principal do anúncio 01 (a copy que aparece em cima).",
+      "headline": "Headline curta 01"
+    },
+    {
+      "label": "C02",
+      "image": "~/Desktop/artes/arte02.jpg",
+      "primary_text": "Texto principal do anúncio 02.",
+      "headline": "Headline curta 02"
+    },
+    {
+      "label": "C03",
+      "image": "~/Desktop/artes/arte03.jpg",
+      "primary_text": "Texto principal do anúncio 03.",
+      "headline": "Headline curta 03"
+    }
+  ]
+}

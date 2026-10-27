@@ -1,0 +1,4 @@
+secrets.env
+*.env
+.claude/trafego/scripts/lateralizar_config.json
+__pycache__/
