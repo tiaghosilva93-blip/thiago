@@ -109,5 +109,7 @@ returning (select slug from p);
 
 ## Observações
 
-- O perfil público do autor está como "tiaghosilva93" (`profiles.display_name`). O usuário pode querer trocar para "Thiago Silva" — não altere sem ordem.
+- O nome público do autor é **Thiago Silva** (`profiles.display_name`, alterado a pedido do usuário em 28/10/2026).
+- Se o WebFetch falhar num domínio liberado, leia a página com `curl -sSL -A "Mozilla/5.0" <url>` pelo Bash e extraia os `<p>` com Python.
+- Primeiro post feito com este padrão: https://deunatela.com/artigo/serie-de-harry-potter-tiago-e-lilian-potter
 - As prévias em redes sociais (WhatsApp/Facebook/X) não leem o SEO por post, porque o site é renderizado no navegador. Melhoria possível no Lovable (pré-renderização), fora da rotina.
