@@ -1,0 +1,10 @@
+name = "deunatela-preview"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+LOVABLE_ORIGIN = "https://deunatelanews.lovable.app"
+
+# Domínios: depois de testar no workers.dev, ligue o Worker ao domínio
+# (Workers & Pages → deunatela-preview → Settings → Domains & Routes → Add → Custom domain):
+# deunatela.com e www.deunatela.com
