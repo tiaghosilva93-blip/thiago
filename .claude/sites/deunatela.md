@@ -11,7 +11,11 @@
 
 - **Status:** direto ao ar. Grave `status = 'published'` com `published_at` = horário do slot (fuso -03:00). O site só mostra o post quando `published_at <= now()`, então isso funciona como agendamento.
 - **Autor:** Thiago Silva — `author_id = '3d19cc74-9716-4c42-a895-21fb5b8b6611'`
-- **Destaque:** `is_featured = false` (o usuário escolhe os destaques).
+- **Destaque do dia:** só **um** post fica com `is_featured = true` por vez. Ele vira a manchete grande da home; a coluna lateral mostra os mais recentes. Os redatores sempre gravam `is_featured = false`; quem escolhe o destaque é o editor-de-pauta, **uma vez por dia, na execução do slot das 11h**, depois de revisar os posts desse slot.
+  - Candidatos: posts publicados desde 22h do dia anterior até o slot das 11h (inclusive os agendados para 11h).
+  - Critérios, nesta ordem: maior interesse do público brasileiro no dia (estreia, anúncio grande, nome muito buscado); fato principal confirmado por fonte oficial ou dois veículos; capa forte e funcionando; sem spoiler no título; não repetir a mesma franquia/artista/categoria do destaque do dia anterior.
+  - Gravação (troca o destaque de uma vez): `update posts set is_featured = (slug = '<slug-escolhido>') where is_featured or slug = '<slug-escolhido>';`
+  - Se nenhum candidato for bom o bastante, mantenha o destaque atual e diga no relato.
 
 ## Grade diária: 7 categorias × 3 posts = 21 posts
 
