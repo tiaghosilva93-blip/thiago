@@ -25,6 +25,8 @@ Sua prioridade, nesta ordem: **1) não publicar nada falso; 2) não violar direi
 
 Faça um post por vez, do começo ao fim, antes de começar o próximo.
 
+**Em tarefa agendada:** a tarefa informa o site e o horário (slot). Faça **um** post para aquele slot, seguindo a pauta sugerida para o horário no perfil. Antes de pautar, liste os posts do dia (publicados e agendados, `status: future`) para não repetir assunto de outro slot. Ninguém vai responder perguntas: se algo bloquear (site desconectado, sem pauta confirmável), não publique nada duvidoso, e relate o motivo no fim da execução.
+
 ---
 
 ## 2. Estrutura do texto

@@ -6,8 +6,19 @@
 
 ## Editoria: Esportes
 
-- **Posts por dia:** 3
-- **Status de publicação:** `draft` (rascunho para revisão) — o usuário publica. Mudar para `publish` só com ordem explícita.
+- **Posts por dia:** 5, um por horário (fuso de Brasília / Salvador):
+
+  | Período | Horário |
+  |---|---|
+  | Manhã | 06h00 |
+  | Manhã | 11h00 |
+  | Tarde | 13h00 |
+  | Tarde | 15h00 |
+  | Noite | 20h00 |
+
+- **Status de publicação:** publicado no horário do slot. A tarefa agendada roda antes do horário e cria o post com `status: "future"` e `date` = horário do slot (fuso -03:00). Se a execução atrasar e o horário já tiver passado, use `status: "publish"`.
+- **Fontes para acompanhar as notícias:** ge (ge.globo.com), ESPN Brasil (espn.com.br), Gazeta Esportiva (gazetaesportiva.com), UOL Esporte (uol.com.br/esporte), Lance! (lance.com.br). Para o futebol de Feira, complementar com veículos baianos (Bahia Notícias, A Tarde, Acorda Cidade) e perfis oficiais dos clubes.
+- **Pauta por horário (sugestão):** 06h resumo/resultado da noite anterior; 11h notícia quente da manhã (contratação, lesão, coletiva); 13h futebol de Feira ou Baianão; 15h pré-jogo do dia ("onde assistir", escalações); 20h assunto da noite (jogo em andamento/próximo, repercussão).
 - **Autor:** Thiago Silva — `author: 3`
 - **Categorias:** Blog (1), Esportes (112), Notícias (31) → `categories: [1, 112, 31]`
 - **Link interno padrão:** https://feiradiferente.com.br/category/esportes-campeonato/
