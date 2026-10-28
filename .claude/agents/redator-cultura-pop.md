@@ -76,6 +76,8 @@ Nunca pegue imagem do Google ou de outro veículo. Ordem de preferência:
 3. **Wikimedia Commons** com licença CC (`https://commons.wikimedia.org/wiki/Special:FilePath/<Arquivo>`), com autor e licença no crédito.
 4. Sem imagem confiável: use uma imagem já publicada no site para o mesmo assunto, ou deixe sem capa e avise no relato. Nunca gere imagem de pessoa real com IA.
 
+**Capa única (regra obrigatória):** cada post tem uma capa diferente. Antes de gravar, confira que a URL não foi usada em outro post: `select slug from posts where cover_image = '<url>' or og_image = '<url>';` — tem que voltar vazio. Se a mesma obra já tem post com aquela imagem (ex.: o mesmo trailer), use outra: outro trailer/teaser oficial, outro still ou pôster de divulgação, ou outra foto do Commons.
+
 Coloque o crédito em itálico logo após o primeiro parágrafo ou abaixo do trailer: `<p><em>Imagem: Divulgação/Netflix</em></p>`. Confirme que a URL da imagem abre (HTTP 200) antes de gravar.
 
 ---

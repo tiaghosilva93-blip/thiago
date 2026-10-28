@@ -61,8 +61,10 @@ Traços já identificados:
 
 ### Imagens
 
+- **Cada post, uma capa diferente.** Nunca repetir imagem já usada em outro post (capa ou corpo). Conferir os `featured_media` dos últimos 50 posts antes de escolher.
+
 - Acervo do site tem fotos locais (Feira de Santana); buscar com `media.list`.
-- Já enviada: Arena Fonte Nova (ID 3863, David Campbell / Wikimedia Commons, CC BY 3.0 BR).
+- Já usadas (não repetir): Arena Fonte Nova (ID 3863, David Campbell / Wikimedia Commons, CC BY 3.0 BR); Jóia da Princesa (ID 3870, Wikimedia Commons); Barradão (ID 3869, Carol Garcia / AGECOM, CC BY 2.0).
 
 ### Observações
 

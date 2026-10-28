@@ -81,6 +81,13 @@ Ordem de preferência — e **nunca** pegue imagem do Google ou de outro veícul
 4. **Bancos livres** (Unsplash, Pexels) para imagens genéricas.
 5. **IA (`media.generate`)** só para ilustração genérica (bola, campo, ringue). **Nunca** gere imagem que pareça foto de pessoa real, jogo real ou fato real.
 
+### Capa única (regra obrigatória)
+
+**Cada post tem uma capa diferente.** Nunca repita como `featured_media` (nem como imagem do corpo) uma imagem já usada em outro post. Antes de escolher a imagem:
+1. Liste os últimos 50 posts do site (`posts.list`, `include_fields: ["id","featured_media"]`, status publish e future) e anote os IDs de mídia já usados.
+2. A imagem escolhida não pode estar nessa lista. Se a melhor opção do acervo já foi usada, procure outra: outra foto do mesmo clube/estádio/atleta no Wikimedia Commons, outra foto oficial, outro ângulo.
+3. Se não houver nenhuma imagem nova com licença, use uma ilustração genérica nova (IA ou banco livre) — nunca a mesma de outro post.
+
 Toda imagem leva:
 - `alt_text` descritivo com a frase-chave;
 - legenda com crédito: "Foto: Autor / Fonte (Licença)", com link para a página de origem;

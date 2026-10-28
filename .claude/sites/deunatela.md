@@ -66,6 +66,10 @@ Repercussão da crítica (como a crítica recebeu um filme/série/álbum, com cr
 
 Sempre que possível, confirme na fonte oficial (Netflix, Prime Video, Disney+, HBO Max, Globoplay, Globo, estúdios, gravadoras, perfis dos artistas) e cite veículos internacionais de origem (Variety, Deadline, The Hollywood Reporter, Billboard) quando a notícia nasceu lá.
 
+## Imagens
+
+- **Cada post, uma capa diferente.** Nunca repetir `cover_image` de outro post. Conferir com `select slug from posts where cover_image = '<url>';` antes de gravar.
+
 ## Formato do conteúdo
 
 HTML simples (o site renderiza o HTML direto): `<p>`, `<h2>`, `<h3>`, `<strong>`, `<em>`, `<ul><li>`, `<blockquote>`, `<a href>`, `<img src alt>`, `<iframe>` do YouTube (`<iframe width="560" height="315" src="https://www.youtube.com/embed/ID" title="Trailer …" allowfullscreen></iframe>`). Sem `<h1>` (o título já é o H1). A capa (`cover_image`) aparece acima do texto; não repita a capa dentro do conteúdo.
