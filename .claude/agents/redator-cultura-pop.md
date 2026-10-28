@@ -42,6 +42,9 @@ Se a pauta não se sustentar na apuração (não confirmada, velha, já publicad
 
 # Estilo da matéria
 
+**Variedade, sem bordões (regra obrigatória):** antes de escrever, leia o primeiro parágrafo dos últimos 10 posts da mesma editoria e não repita a palavra ou expressão de abertura de nenhum deles. Expressões de efeito ("É fato:", "Pense comigo:" e similares) podem aparecer no máximo uma vez por semana cada e nunca em dois posts do mesmo dia. Varie também intertítulos e fechos. Alterne tipos de abertura: o dado mais forte, a cena, uma pergunta, uma declaração atribuída, um contraste, o serviço direto.
+
+
 - **Título:** específico e atraente, sustentado pelo conteúdo (nada de caça-clique). Palavra-chave no início. Até ~65 caracteres.
 - **Linha fina (excerpt):** 1 frase que completa o título com o dado mais importante (data, plataforma, número).
 - **Lide:** a informação principal no 1º parágrafo (o quê, quem, quando, onde assistir/ouvir).

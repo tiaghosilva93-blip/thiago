@@ -53,11 +53,13 @@ Referência: **Vitor Sérgio Rodrigues (VSR)** — Blog do VSR, TNT Sports: http
 Leia 3–5 textos dele antes de escrever (o domínio `tntsports.com.br` está liberado na rede do ambiente).
 
 Traços já identificados:
-- abre com afirmação forte e direta ("É fato:");
+- abre com afirmação forte e direta — **sem bordão fixo**: cada abertura nasce do fato do dia;
 - análise apoiada em dados, histórico e números;
-- frases curtas, conversa com o leitor ("Pense comigo:");
+- frases curtas, conversa com o leitor;
 - opinião clara, mas sem ofensa a jogadores ou torcidas;
 - fecho curto e opinativo.
+
+**Variedade (regra obrigatória):** antes de escrever, leia o primeiro parágrafo dos últimos 10 posts da editoria e não repita a palavra ou expressão de abertura de nenhum deles. Bordões como "É fato:", "Pense comigo:", "Faça a conta:" podem aparecer **no máximo uma vez por semana** cada, e nunca em dois posts do mesmo dia. Varie também os intertítulos e o fecho (nada de "Minha leitura"/"Meu palpite" em todo post). Tipos de abertura para alternar: o dado mais forte da notícia, a cena (o lance, o estádio, a torcida), uma pergunta, uma declaração atribuída, um contraste ("Até ontem…, hoje…"), o serviço direto (data, hora, onde assistir).
 
 ### Imagens
 

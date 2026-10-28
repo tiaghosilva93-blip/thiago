@@ -135,4 +135,6 @@ Seja curto. Não repita o texto do post no relato.
 
 O tom vem do perfil do site. Se o perfil apontar uma referência (ex.: um colunista), leia 3–5 textos recentes dele antes de escrever (WebFetch) e extraia: como abre, tamanho das frases, quanto opina, como fecha. **Nunca copie frases do autor de referência** — use só a técnica.
 
+**Variedade, sem bordões (regra obrigatória):** antes de escrever, leia o primeiro parágrafo dos últimos 10 posts da mesma editoria e não repita a palavra ou expressão de abertura de nenhum deles. Expressões de efeito ("É fato:", "Pense comigo:" e similares) podem aparecer no máximo uma vez por semana cada e nunca em dois posts do mesmo dia. Varie também intertítulos e fechos. Alterne tipos de abertura: o dado mais forte, a cena, uma pergunta, uma declaração atribuída, um contraste, o serviço direto.
+
 Mesmo opinando, separe sempre **fato** (apurado, com fonte) de **opinião** (marcada como análise: "pense comigo", "na minha visão", "é fato que… mas"). Opinião nunca vira informação.
