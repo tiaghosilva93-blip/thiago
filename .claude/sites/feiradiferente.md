@@ -17,20 +17,39 @@
   | Noite | 20h00 |
 
 - **Status de publicação:** publicado no horário do slot. A tarefa agendada roda antes do horário e cria o post com `status: "future"` e `date` = horário do slot (fuso -03:00). Se a execução atrasar e o horário já tiver passado, use `status: "publish"`.
-- **Fontes para acompanhar as notícias:** ge (ge.globo.com), ESPN Brasil (espn.com.br), Gazeta Esportiva (gazetaesportiva.com), UOL Esporte (uol.com.br/esporte), Lance! (lance.com.br). Para o futebol de Feira, complementar com veículos baianos (Bahia Notícias, A Tarde, Acorda Cidade) e perfis oficiais dos clubes.
-- **Pauta por horário (sugestão):** 06h resumo/resultado da noite anterior; 11h notícia quente da manhã (contratação, lesão, coletiva); 13h futebol de Feira ou Baianão; 15h pré-jogo do dia ("onde assistir", escalações); 20h assunto da noite (jogo em andamento/próximo, repercussão).
+- **Fontes para acompanhar as notícias:** ge (ge.globo.com, inclusive ge Bahia e ge dos estados do Nordeste), ESPN Brasil (espn.com.br), Gazeta Esportiva (gazetaesportiva.com), UOL Esporte (uol.com.br/esporte), Lance! (lance.com.br). Para o futebol de Feira e da Bahia, complementar com veículos baianos (Bahia Notícias, A Tarde, Acorda Cidade) e perfis/canais oficiais dos clubes (coletivas, entrevistas, bastidores no YouTube e nas redes).
+- **Pauta por horário (sugestão, sempre respeitando o mix abaixo):** 06h resultado da noite anterior contado pelos lances, números e curiosidades do jogo; 11h o que jogadores e técnicos disseram (coletiva, entrevista, rede social oficial) ou lesões/departamento médico; 13h futebol de Feira (Fluminense de Feira, Bahia de Feira, Feira FC) ou Baianão; 15h pré-jogo do dia **ou** bastidores (treino, clima no elenco, diretoria, mercado); 20h curiosidade, história, recorde ou repercussão.
 - **Autor:** Thiago Silva — `author: 3`
 - **Categorias:** Blog (1), Esportes (112), Notícias (31) → `categories: [1, 112, 31]`
 - **Link interno padrão:** https://feiradiferente.com.br/category/esportes-campeonato/
 
 ### Prioridade de pautas
 
-1. Futebol de Feira de Santana: Fluminense de Feira, Feira FC, Campeonato Baiano (Séries A e B), atletas feirenses em qualquer esporte (ex.: MMA).
+1. Futebol de Feira de Santana: Fluminense de Feira, Bahia de Feira, Feira FC, Campeonato Baiano (Séries A e B), atletas feirenses em qualquer esporte (ex.: MMA).
 2. Dupla Ba-Vi: Bahia e Vitória (Brasileirão, Copa do Brasil, Baianão, Copa do Nordeste).
-3. Seleção Brasileira e brasileiros de destaque no exterior.
-4. Grandes eventos esportivos do dia.
+3. Outros clubes do Nordeste: Sport, Náutico, Santa Cruz, Fortaleza, Ceará, CRB, CSA, ABC, América-RN, Sampaio Corrêa, Botafogo-PB, Confiança, Juazeirense, Jacuipense e demais — com atenção especial quando cruzarem com times baianos ou na Copa do Nordeste.
+4. Seleção Brasileira e brasileiros de destaque no exterior.
+5. Grandes eventos esportivos do dia.
 
 Evite repetir pauta já publicada nas últimas 48 h.
+
+### Mix de pautas (regra obrigatória — não é só agenda de jogo)
+
+O site não pode virar só "onde assistir" e calendário. Ao longo do dia, alterne estes tipos:
+
+| Tipo | Exemplos |
+|---|---|
+| **Declarações** | O que jogadores, técnicos e dirigentes disseram em coletiva, entrevista pós-jogo ou rede social oficial — sempre com aspas reais, atribuídas, com link para a fonte. |
+| **Bastidores** | Clima no elenco, treino, cobrança da torcida, decisão da diretoria, negociação, mudança no time, rotina do clube. |
+| **Lesões e departamento médico** | Quem se machucou, prazo de recuperação, quem volta. |
+| **Lances e números** | O gol mais bonito, a defesa decisiva, estatísticas, sequências, artilharia. |
+| **Curiosidades e histórias** | Recordes, marcas históricas, coincidências, trajetória de um jogador, história de um clássico, personagens de Feira. |
+| **Agenda e resultados** | Pré-jogo, "onde assistir", tabela, resultado. |
+
+- **No máximo 2 dos 5 posts do dia** podem ser de "Agenda e resultados".
+- **Todo dia** tem pelo menos 1 post de Declarações ou Bastidores e pelo menos 1 de Lances/Números ou Curiosidades.
+- Antes de pautar, veja os tipos dos posts já publicados no dia e escolha um tipo que ainda falta.
+- Declaração só entra se a aspa estiver numa fonte (vídeo da coletiva, matéria, post oficial). Traduza fielmente e diga onde foi dita. Nunca resuma uma fala como se fosse aspa.
 
 ### Tags existentes (use antes de criar novas)
 

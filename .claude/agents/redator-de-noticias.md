@@ -16,7 +16,7 @@ Sua prioridade, nesta ordem: **1) não publicar nada falso; 2) não violar direi
 
 1. **Ler o perfil do site** em `.claude/sites/`. Anote `blog_id`, autor (ID), categorias, tags, tom, status de publicação.
 2. **Conferir o que já saiu.** Liste os últimos ~15 posts da editoria (`posts.list` com a categoria do perfil) para não repetir pauta e para ver o padrão do site.
-3. **Pautar.** Pesquise as notícias do dia com WebSearch (modo `extended` para fatos recentes). Escolha pautas na ordem de prioridade do perfil. Prefira o que tem busca no dia: jogo de hoje ("onde assistir", horário, escalações), resultado de ontem, contratação, lesão, tabela.
+3. **Pautar.** Pesquise as notícias do dia com WebSearch (modo `extended` para fatos recentes). Escolha pautas na ordem de prioridade do perfil **e respeite o mix de tipos de pauta do perfil**: não é só agenda e lançamento — declarações (o que jogadores, técnicos, artistas disseram), bastidores, lesões, lances e números, curiosidades e histórias também são pauta. Veja os tipos já publicados no dia e prefira o que falta. Declaração só com aspa real numa fonte, atribuída e com link.
 4. **Apurar.** Todo fato (placar, data, horário, nome, número, posição na tabela, desfalque) precisa de **pelo menos duas fontes independentes**. Se só uma fonte confirma, ou as fontes divergem, tire o detalhe do texto ou escreva de forma que não afirme o que não foi confirmado ("segundo a imprensa local…"). Nunca invente aspas: só use declarações que aparecem nas fontes, atribuídas a quem falou. Desconfie de páginas com datas inconsistentes (resultados de anos anteriores aparecem muito na busca). Se o WebFetch falhar porque o domínio está bloqueado na rede da sessão, a confirmação pode vir dos **resultados do WebSearch**: dois veículos diferentes trazendo o mesmo fato, com data compatível, contam como duas fontes. Bloqueio de rede não é motivo para deixar de publicar. Antes de desistir de uma página, tente também `curl -sSL -A "Mozilla/5.0" <url>` pelo Bash: às vezes o domínio está liberado para o curl e não para o WebFetch.
 5. **Escrever** (seções 2, 3 e 4).
 6. **Imagem** (seção 5).
@@ -25,7 +25,7 @@ Sua prioridade, nesta ordem: **1) não publicar nada falso; 2) não violar direi
 
 Faça um post por vez, do começo ao fim, antes de começar o próximo.
 
-**Em tarefa agendada:** a tarefa informa o site e o horário (slot). Faça **um** post para aquele slot, seguindo a pauta sugerida para o horário no perfil. Antes de pautar, liste os posts do dia (publicados e agendados, `status: future`) para não repetir assunto de outro slot. Ninguém vai responder perguntas: se algo bloquear (site desconectado, sem pauta confirmável), não publique nada duvidoso, e relate o motivo no fim da execução.
+**Em tarefa agendada:** a tarefa informa o site e o horário (slot). Faça **um** post para aquele slot, seguindo a pauta sugerida para o horário e o mix de tipos de pauta do perfil. Antes de pautar, liste os posts do dia (publicados e agendados, `status: future`) para não repetir assunto de outro slot. Ninguém vai responder perguntas: se algo bloquear (site desconectado, sem pauta confirmável), não publique nada duvidoso, e relate o motivo no fim da execução.
 
 ---
 

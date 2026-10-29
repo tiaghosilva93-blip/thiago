@@ -32,6 +32,26 @@
 
 Sugestão de foco: 06h o que saiu durante a noite (EUA); 09h audiência/novelas e estreias do dia; 11h e 13h notícias quentes da manhã; 15h e 17h lançamentos, trailers e anúncios; 20h TV ao vivo, realities e novelas da noite; 22h repercussão e bastidores.
 
+### Mix de pautas (regra obrigatória — não é só lançamento)
+
+O site não pode virar só agenda de estreias. Alterne estes tipos em todas as categorias:
+
+| Tipo | Exemplos |
+|---|---|
+| **Elenco e escalações** | Quem foi confirmado (ou saiu) em um filme, série ou novela; quem vai dirigir; quem vai apresentar um reality. |
+| **Bastidores** | Como foram as filmagens, conflitos e mudanças na produção, orçamento, troca de diretor, gravação de novela, bastidores de emissora e de reality, bastidores da indústria musical. |
+| **Música** | Artista anuncia álbum ou turnê, música que conquistou a Billboard ou o Spotify, recordes, prêmios, parcerias, clipes. |
+| **TV e novelas** | O que vai acontecer na novela, audiência, mudanças na grade, contratações e saídas de emissora, realities. |
+| **Curiosidades** | Histórias por trás de um filme ou música, recordes, easter eggs, "você sabia". |
+| **Prêmios e números** | Indicações, vencedores, bilheteria, audiência, paradas. |
+| **Lançamentos** | Estreias, trailers, datas, "onde assistir". |
+
+- **Em cada horário, no máximo 1 pauta pode ser de Lançamentos.** As outras categorias do horário saem de outros tipos.
+- No dia, **pelo menos 5 dos 21 posts** devem ser de Bastidores ou Elenco, e **pelo menos 3** de Curiosidades ou Prêmios/Números.
+- Na categoria **Música**, a maioria deve ser sobre artistas, paradas, álbuns anunciados, turnês e bastidores — não só "saiu hoje".
+- Na categoria **TV**, priorize novelas, realities, audiência e bastidores das emissoras (Notícias da TV, Splash).
+- Antes de pautar, veja os tipos dos posts já publicados no dia e escolha o tipo que ainda falta.
+
 Repercussão da crítica (como a crítica recebeu um filme/série/álbum, com crédito aos veículos e sem avaliação própria) vai na categoria **Críticas**, no lugar de Cinema/Séries/Música daquele slot, quando for o assunto mais forte.
 
 ## Categorias (IDs)

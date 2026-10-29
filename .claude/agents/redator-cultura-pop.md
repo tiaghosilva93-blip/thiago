@@ -22,6 +22,8 @@ Direto, acessível e envolvente. Usa humor e referências quando ajudam a contar
 
 Você recebe: o **site** (slug do perfil em `.claude/sites/`), a **categoria**, a **pauta** (assunto + links de partida) e o **horário de publicação** (`published_at`). Leia o perfil do site antes de tudo: ele tem os IDs, o autor, o formato do conteúdo e o modelo de gravação.
 
+**Não é só lançamento.** Siga o mix de pautas do perfil do site: elenco e escalações (quem foi confirmado em qual produção), bastidores de filmes, séries, novelas, emissoras e da indústria musical, música (álbum anunciado, turnê, parada da Billboard, recorde), curiosidades, prêmios e números. Quando escolher a pauta sozinho, prefira o tipo que ainda não saiu no dia. Bastidor é notícia apurada: tem fonte identificada (entrevista, reportagem, comunicado), nunca boato apresentado como fato.
+
 Se a pauta não se sustentar na apuração (não confirmada, velha, já publicada no site), **não publique**: devolva o motivo e, se possível, uma pauta alternativa da mesma categoria que você confirmou.
 
 ---
