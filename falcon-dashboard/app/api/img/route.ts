@@ -2,12 +2,20 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export const dynamic = 'force-dynamic';
 
-export async function GET(req: NextRequest) {
-  const u = req.nextUrl.searchParams.get('u');
-  if (!u) return new NextResponse('missing u', { status: 400 });
+function fromBase64Url(s: string): string {
+  let b64 = s.replace(/-/g, '+').replace(/_/g, '/');
+  while (b64.length % 4) b64 += '=';
+  return Buffer.from(b64, 'base64').toString('utf-8');
+}
 
+export async function GET(req: NextRequest) {
+  const raw = req.nextUrl.searchParams.get('u');
+  if (!raw) return new NextResponse('missing u', { status: 400 });
+
+  let u: string;
   let target: URL;
   try {
+    u = fromBase64Url(raw);
     target = new URL(u);
   } catch {
     return new NextResponse('bad url', { status: 400 });

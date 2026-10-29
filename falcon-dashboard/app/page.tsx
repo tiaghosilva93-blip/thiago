@@ -32,7 +32,11 @@ const fmtBRLShort = (v: number) => {
 };
 const fmtInt = (v: number) => v.toLocaleString('pt-BR');
 const fmtCPL = (v: number | null) => (v === null || v === undefined ? '—' : fmtBRL(v));
-const imgProxy = (u: string | null) => (u ? `/api/img?u=${encodeURIComponent(u)}` : null);
+function toBase64Url(str: string): string {
+  const b64 = typeof window !== 'undefined' ? window.btoa(str) : Buffer.from(str, 'utf-8').toString('base64');
+  return b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+const imgProxy = (u: string | null) => (u ? `/api/img?u=${toBase64Url(u)}` : null);
 
 function addDays(iso: string, delta: number) {
   const d = new Date(iso + 'T00:00:00');
@@ -597,7 +601,7 @@ export default function Page() {
                     return (
                       <div className="ad-card" key={ad.ad_id} onClick={() => setLightbox({ ad, group: { name: grp.name } })}>
                         <div className="thumb-wrap">
-                          {proxiedThumb && <img src={proxiedThumb} alt={ad.ad_name} loading="lazy" />}
+                          {proxiedThumb && <img src={proxiedThumb} alt={ad.ad_name} loading="lazy" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />}
                           {isVideo && <div className="play-badge"><Icon name="play" /></div>}
                           <StatusPill status={ad.ad_status} />
                           <span className="amp">Ampliar</span>
