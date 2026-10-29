@@ -88,6 +88,7 @@ Sempre que possível, confirme na fonte oficial (Netflix, Prime Video, Disney+, 
 
 ## Imagens
 
+- **Todo post tem imagem de destaque (obrigatório).** `cover_image` e `og_image` nunca ficam vazios. Post sem capa não é publicado: o redator procura outra imagem válida; se não achar nenhuma, grava como `draft` e relata.
 - **Cada post, uma capa diferente.** Nunca repetir `cover_image` de outro post. Conferir com `select slug from posts where cover_image = '<url>';` antes de gravar.
 
 ## Formato do conteúdo
