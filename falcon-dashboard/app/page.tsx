@@ -46,17 +46,6 @@ function Chip({ text }: { text: string }) {
   return <span className="chip" style={{ color: c, background: c + '26' }}>{text}</span>;
 }
 
-function FalconMark({ className, style }: { className?: string; style?: React.CSSProperties }) {
-  return (
-    <span className={className} style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', borderRadius: '999px', background: 'var(--navy)', flexShrink: 0, ...style }}>
-      <svg viewBox="0 0 32 32" width="62%" height="62%" aria-hidden="true">
-        <path d="M16 3 C 10 9, 8 18, 11 27 L 16 23 L 21 27 C 24 18, 22 9, 16 3 Z" fill="#ff7900" />
-        <circle cx="16" cy="16" r="14.5" fill="none" stroke="#ffffff" strokeWidth="1.1" opacity="0.6" />
-      </svg>
-    </span>
-  );
-}
-
 function StatusPill({ status }: { status: string }) {
   const active = status === 'ACTIVE';
   return <span className={`pill ${active ? 'active' : 'paused'}`}>{active ? 'Ativa' : 'Pausada'}</span>;
@@ -262,7 +251,7 @@ export default function Page() {
       <nav className="site-nav">
         <div className="wrap site-nav-in">
           <div className="site-brand">
-            <FalconMark style={{ width: '2rem', height: '2rem' }} />
+            <img src="https://raw.githubusercontent.com/tiaghosilva93-blip/thiago/claude/focused-thompson-l4ro8p/falcon-dashboard/public/logo.png" alt="Falcon" style={{ width: '2rem', height: '2rem', objectFit: 'contain' }} />
             <span>Falcon 7</span>
           </div>
           <div className="site-links">
@@ -430,20 +419,11 @@ export default function Page() {
         <section>
           <div className="section tint">
             <div className="wrap">
-              <div className="section-head">
-                <span className="eyebrow-dark"><span className="dot" style={{ background: COLORS[3] }} />Galeria</span>
-                <h2>Criativos no ar{unit !== 'all' ? ` — ${unit}` : ''}</h2>
-                <p>Anúncios das campanhas ativas, agrupados por campanha. Clique para ampliar ou assistir.</p>
-              </div>
               <div className="panel" style={{ gap: '1.5rem' }}>
                 {creativeGroups.map((grp) => {
-                  const activeCount = grp.rows.filter((r) => r.ad_status === 'ACTIVE').length;
                   return (
                     <div className="creatives-group" key={grp.name}>
-                      <h3>
-                        {grp.name} <Chip text={grp.unit} /> <Chip text={grp.kind} />
-                        <span className="meta">{grp.rows.length} anúncio{grp.rows.length === 1 ? '' : 's'} ({activeCount} ativo{activeCount === 1 ? '' : 's'})</span>
-                      </h3>
+                      <h3>{grp.name}</h3>
                       <div className="ad-grid">
                         {grp.rows.map((ad) => {
                           const isVideo = ad.format === 'Vídeo';
@@ -477,7 +457,7 @@ export default function Page() {
       <footer className="site-footer">
         <div className="wrap footer-in">
           <div className="footer-brand">
-            <FalconMark style={{ width: '1.7rem', height: '1.7rem' }} />
+            <img src="https://raw.githubusercontent.com/tiaghosilva93-blip/thiago/claude/focused-thompson-l4ro8p/falcon-dashboard/public/logo.png" alt="Falcon" style={{ width: '1.7rem', height: '1.7rem', objectFit: 'contain' }} />
             <span>Falcon Colégio & Curso</span>
           </div>
           <span className="note mono">
