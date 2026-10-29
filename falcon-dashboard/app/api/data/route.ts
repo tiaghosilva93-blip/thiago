@@ -29,6 +29,7 @@ type CreativeRow = {
   thumb: string | null;
   full_img: string | null;
   video_embed_url: string | null;
+  video_permalink: string | null;
 };
 
 let cache: { at: number; payload: any } | null = null;
@@ -110,6 +111,7 @@ async function fetchAll() {
   const daily: DailyRow[] = [];
   const creatives: CreativeRow[] = [];
   const videoIdsToResolve = new Map<string, { campaign_id: string; ad_id: string }>();
+  const videoAdIds = new Set<string>();
   const adRowsByCampaign = new Map<string, any[]>();
 
   await Promise.all(
@@ -140,7 +142,10 @@ async function fetchAll() {
       for (const ad of adsResp.data || []) {
         const cr = ad.creative || {};
         const videoId = cr.video_id || cr.object_story_spec?.video_data?.video_id;
-        if (videoId) videoIdsToResolve.set(videoId, { campaign_id: c.id, ad_id: ad.id });
+        if (videoId) {
+          videoIdsToResolve.set(videoId, { campaign_id: c.id, ad_id: ad.id });
+          videoAdIds.add(ad.id);
+        }
       }
     })
   );
@@ -157,6 +162,23 @@ async function fetchAll() {
     })
   );
 
+  // Reels can't be embedded via the classic /plugins/video.php iframe ("video não
+  // pode ser incorporado"). The ad preview API renders the actual creative (image
+  // or video) inside an iframe meant for exactly this kind of external embedding.
+  const adPreviewUrls = new Map<string, string>();
+  await Promise.all(
+    Array.from(videoAdIds).map(async (adId) => {
+      try {
+        const p = await graphGet(`/${adId}/previews`, { ad_format: 'MOBILE_FEED_STANDARD' });
+        const body: string | undefined = p.data?.[0]?.body;
+        const match = body?.match(/src="([^"]+)"/);
+        if (match) adPreviewUrls.set(adId, match[1].replace(/&amp;/g, '&'));
+      } catch {
+        /* ignore */
+      }
+    })
+  );
+
   for (const c of campaigns) {
     const { unit, kind, format } = classify(c.name);
     const ads = adRowsByCampaign.get(c.id) || [];
@@ -167,10 +189,8 @@ async function fetchAll() {
       if (spec.link_data) headline = spec.link_data.name || '';
       else if (spec.video_data) headline = spec.video_data.title || '';
       const videoId = cr.video_id || spec.video_data?.video_id;
-      const permalink = videoId ? videoPermalinks.get(videoId) : null;
-      const embedUrl = permalink
-        ? `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(permalink)}&show_text=false&width=560`
-        : null;
+      const permalink = videoId ? videoPermalinks.get(videoId) || null : null;
+      const embedUrl = adPreviewUrls.get(ad.id) || null;
 
       creatives.push({
         campaign_id: c.id,
@@ -186,6 +206,7 @@ async function fetchAll() {
         thumb: cr.image_url || cr.thumbnail_url || null,
         full_img: cr.image_url || cr.thumbnail_url || null,
         video_embed_url: embedUrl,
+        video_permalink: permalink,
       });
     }
   }

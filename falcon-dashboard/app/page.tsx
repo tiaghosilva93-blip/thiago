@@ -9,7 +9,7 @@ type DailyRow = { campaign_id: string; date: string; spend: number; leads: numbe
 type Creative = {
   campaign_id: string; campaign_name: string; campaign_status: string; unit: string; kind: string; format: string;
   ad_id: string; ad_name: string; ad_status: string; headline: string;
-  thumb: string | null; full_img: string | null; video_embed_url: string | null;
+  thumb: string | null; full_img: string | null; video_embed_url: string | null; video_permalink: string | null;
 };
 type ApiData = { generated_at: string; today: string; campaigns: Campaign[]; daily: DailyRow[]; creatives: Creative[] };
 
@@ -636,6 +636,13 @@ export default function Page() {
             <div className="lightbox-media">
               {lightbox.ad.format === 'Vídeo' && lightbox.ad.video_embed_url ? (
                 <iframe src={lightbox.ad.video_embed_url} allow="autoplay; encrypted-media" allowFullScreen />
+              ) : lightbox.ad.format === 'Vídeo' ? (
+                <div className="video-fallback">
+                  <p>Não foi possível carregar a prévia do vídeo aqui.</p>
+                  {lightbox.ad.video_permalink && (
+                    <a href={lightbox.ad.video_permalink} target="_blank" rel="noopener noreferrer">Assistir no Facebook ↗</a>
+                  )}
+                </div>
               ) : (
                 imgProxy(lightbox.ad.full_img) && <img src={imgProxy(lightbox.ad.full_img)!} alt={lightbox.ad.ad_name} />
               )}
@@ -647,6 +654,9 @@ export default function Page() {
                 <Chip text={lightbox.ad.kind} color={KIND_COLOR[lightbox.ad.kind] || KIND_COLOR.Outro} />
                 <Chip text={lightbox.ad.format} color="#ff7900" />
               </div>
+              {lightbox.ad.format === 'Vídeo' && lightbox.ad.video_embed_url && lightbox.ad.video_permalink && (
+                <a className="lb-fb-link" href={lightbox.ad.video_permalink} target="_blank" rel="noopener noreferrer">Abrir no Facebook ↗</a>
+              )}
             </div>
           </div>
         </div>

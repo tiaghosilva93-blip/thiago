@@ -225,10 +225,13 @@ table.datatable tbody tr:hover { background: rgba(255,255,255,0.03); }
 }
 .lightbox-media { position: relative; background: #000; display: flex; align-items: center; justify-content: center; }
 .lightbox-media img { width: 100%; display: block; }
-.lightbox-media iframe { width: 100%; aspect-ratio: 9/16; border: 0; display: block; max-height: 70vh; }
+.lightbox-media iframe { width: 100%; height: min(70vh, 560px); border: 0; display: block; }
+.video-fallback { padding: 2.5rem 1.5rem; text-align: center; color: var(--muted); font-size: 13.5px; display: flex; flex-direction: column; gap: .75rem; align-items: center; }
+.video-fallback a { color: var(--orange); font-weight: 600; }
 .lightbox-body { padding: 1.25rem; display: flex; flex-direction: column; gap: .4rem; }
 .lightbox-body .lb-name { font-weight: 700; font-size: 14.5px; color: #fff; }
 .lightbox-body .lb-chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+.lb-fb-link { color: var(--orange); font-size: 12px; font-weight: 600; margin-top: 2px; }
 
 @media (max-width: 1000px) {
   .panel-grid { grid-template-columns: 1fr 1fr; }
