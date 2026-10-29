@@ -105,7 +105,7 @@ async function fetchAll() {
   const campaigns: Campaign[] = campaignsResp.data || [];
 
   const today = todayISO();
-  const since = addDaysISO(today, -34);
+  const since = addDaysISO(today, -64);
 
   const daily: DailyRow[] = [];
   const creatives: CreativeRow[] = [];
@@ -119,7 +119,7 @@ async function fetchAll() {
           time_increment: '1',
           time_range: JSON.stringify({ since, until: today }),
           fields: 'spend,actions,date_start',
-          limit: '40',
+          limit: '70',
         }).catch(() => ({ data: [] })),
         graphGet(`/${c.id}/ads`, {
           fields: 'id,name,status,creative.fields(id,object_story_spec,image_url,thumbnail_url,video_id)',
