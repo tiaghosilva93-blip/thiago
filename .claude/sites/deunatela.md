@@ -89,6 +89,7 @@ Sempre que possível, confirme na fonte oficial (Netflix, Prime Video, Disney+, 
 ## Imagens
 
 - **Todo post tem imagem de destaque (obrigatório).** `cover_image` e `og_image` nunca ficam vazios. Post sem capa não é publicado: o redator procura outra imagem válida; se não achar nenhuma, grava como `draft` e relata.
+- **Capas variadas.** Nada de capa de trailer em todo post: no máximo 1 por horário e 1 em cada 4 posts do dia. Prefira foto de divulgação oficial (estúdio, plataforma, emissora, gravadora, artista), Agência Brasil, Commons/Flickr CC. Pode buscar no Google Imagens, mas só usar imagens cuja origem seja uma dessas; nunca Getty/AP/Reuters/AFP/Shutterstock, fotos de outros veículos ou de paparazzi.
 - **Cada post, uma capa diferente.** Nunca repetir `cover_image` de outro post. Conferir com `select slug from posts where cover_image = '<url>';` antes de gravar.
 
 ## Formato do conteúdo

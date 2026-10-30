@@ -74,14 +74,26 @@ Se a pauta não se sustentar na apuração (não confirmada, velha, já publicad
 
 # Imagem
 
-Nunca pegue imagem do Google ou de outro veículo. Ordem de preferência:
+**Varie as capas — nada de capa de trailer em todo post.** Thumbnail de trailer é o último recurso, não o padrão: no máximo **1 capa de trailer por horário** e no máximo **1 em cada 4 posts do dia**. Antes de escolher, veja as capas dos posts do dia (`select slug, cover_image from posts where published_at::date = current_date;`) e prefira um tipo de imagem que ainda não apareceu.
 
-1. **Material de divulgação oficial** (pôster, still, foto de imprensa) publicado pelo próprio estúdio, plataforma, emissora, gravadora ou artista, com crédito "Foto: Divulgação/Netflix", "Imagem: Divulgação/Warner Bros." etc.
-2. **Thumbnail do trailer oficial** no canal do estúdio/artista: `https://i.ytimg.com/vi/<ID>/maxresdefault.jpg` (crédito "Imagem: Reprodução/YouTube <canal>").
-3. **Wikimedia Commons** com licença CC (`https://commons.wikimedia.org/wiki/Special:FilePath/<Arquivo>`), com autor e licença no crédito.
-4. Sem imagem confiável: use uma imagem já publicada no site para o mesmo assunto, ou deixe sem capa e avise no relato. Nunca gere imagem de pessoa real com IA.
+Escolha a imagem que conta a história da pauta:
+- **Elenco/escalação:** foto do ator ou da atriz (evento, première, tapete vermelho).
+- **Música:** foto do artista ao vivo ou em evento, capa oficial do álbum/single divulgada pelo artista ou pela gravadora.
+- **TV e novelas:** foto de divulgação da emissora (cena, elenco, apresentador), foto de bastidor divulgada pela produção.
+- **Bastidores:** foto de set ou de produção divulgada pelo estúdio, foto do diretor/produtor.
+- **Prêmios e números:** foto da cerimônia, do vencedor, do evento.
+- **Lançamentos:** pôster oficial ou still de divulgação antes do trailer.
 
-**Capa obrigatória:** todo post sai com imagem de destaque (`cover_image` e `og_image` preenchidos). Nunca grave como `published` sem capa. Se nenhuma das opções acima der certo, procure outra (Commons do artista/ator/obra, outro trailer, pôster oficial); se mesmo assim não houver, grave como `draft` e diga no relato.
+**Pode buscar no Google Imagens (e em qualquer buscador)** para encontrar opções — mas só use a imagem se a origem dela for uma destas:
+1. **Divulgação oficial:** site de imprensa, perfil oficial ou página do estúdio, plataforma, emissora (ex.: Globo, Netflix, Prime Video, Disney, HBO, Globoplay), gravadora ou do próprio artista. Crédito: "Foto: Divulgação/Globo", "Imagem: Divulgação/Netflix", "Foto: Divulgação/Universal Music".
+2. **Agência Brasil** (agenciabrasil.ebc.com.br): fotos livres com crédito "Foto: Nome/Agência Brasil".
+3. **Wikimedia Commons** (`https://commons.wikimedia.org/wiki/Special:FilePath/<Arquivo>?width=1200`) e **Flickr com licença Creative Commons**: crédito com autor e licença.
+4. **Bancos livres** (Unsplash, Pexels) para imagens genéricas (cinema, plateia, palco, controle remoto).
+5. **Thumbnail do trailer/clipe oficial** (`https://i.ytimg.com/vi/<ID>/maxresdefault.jpg`, crédito "Imagem: Reprodução/YouTube <canal>") — só quando as opções acima não existirem, respeitando o limite acima.
+
+**Não use**, mesmo achando no Google: fotos de agências pagas (Getty Images, AP, Reuters, AFP, Shutterstock, Agência O Globo, Folhapress etc. — costumam ter marca d'água ou crédito da agência), fotos tiradas por outros veículos (Omelete, G1, Splash etc.) e fotos de paparazzi. Essas agências cobram e processam por uso sem licença. Na dúvida sobre a origem, não use. Nunca gere imagem de pessoa real com IA.
+
+**Capa obrigatória:** todo post sai com imagem de destaque (`cover_image` e `og_image` preenchidos). Nunca grave como `published` sem capa. Se nenhuma das opções acima der certo, procure outra (divulgação oficial, Agência Brasil, Commons do artista/ator/obra, pôster oficial, e só por último um trailer); se mesmo assim não houver, grave como `draft` e diga no relato.
 
 **Capa única (regra obrigatória):** cada post tem uma capa diferente. Antes de gravar, confira que a URL não foi usada em outro post: `select slug from posts where cover_image = '<url>' or og_image = '<url>';` — tem que voltar vazio. Se a mesma obra já tem post com aquela imagem (ex.: o mesmo trailer), use outra: outro trailer/teaser oficial, outro still ou pôster de divulgação, ou outra foto do Commons.
 
