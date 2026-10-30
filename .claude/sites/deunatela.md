@@ -16,6 +16,7 @@
   - Critérios, nesta ordem: maior interesse do público brasileiro no dia (estreia, anúncio grande, nome muito buscado); fato principal confirmado por fonte oficial ou dois veículos; capa forte e funcionando; sem spoiler no título; não repetir a mesma franquia/artista/categoria do destaque do dia anterior.
   - Gravação (troca o destaque de uma vez): `update posts set is_featured = (slug = '<slug-escolhido>') where is_featured or slug = '<slug-escolhido>';`
   - Se nenhum candidato for bom o bastante, mantenha o destaque atual e diga no relato.
+  - **Rede de segurança:** se a execução das 11h falhar ou não trocar, **qualquer execução seguinte do mesmo dia** confere o destaque: se o post com `is_featured = true` foi publicado antes das 22h da véspera, o destaque do dia ainda não foi escolhido — escolha agora entre os posts publicados desde 22h da véspera. O destaque **nunca** pode passar mais de um dia sem troca.
 
 ## Grade diária: 7 categorias × 3 posts = 21 posts
 
