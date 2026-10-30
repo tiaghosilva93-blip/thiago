@@ -5,35 +5,8 @@ export const maxDuration = 60;
 
 const GRAPH = 'https://graph.facebook.com/v22.0';
 
-type Campaign = {
-  id: string;
-  name: string;
-  status: string;
-  objective?: string;
-  daily_budget?: string;
-};
-
-type DailyRow = { campaign_id: string; date: string; spend: number; leads: number };
-
-type CreativeRow = {
-  campaign_id: string;
-  campaign_name: string;
-  campaign_status: string;
-  unit: string;
-  kind: string;
-  format: string;
-  ad_id: string;
-  ad_name: string;
-  ad_status: string;
-  headline: string;
-  thumb: string | null;
-  full_img: string | null;
-  video_embed_url: string | null;
-  video_permalink: string | null;
-};
-
 let cache: { at: number; payload: any } | null = null;
-const CACHE_MS = 90_000;
+const CACHE_MS = 180_000;
 
 function classify(name: string) {
   const n = name.toUpperCase();
@@ -63,6 +36,25 @@ function leadsFromActions(actions: any[] | undefined): number {
     }
   }
   return 0;
+}
+
+function sumActionTypes(actions: any[] | undefined, types: string[]): number {
+  if (!actions) return 0;
+  let total = 0;
+  for (const a of actions) {
+    if (types.includes(a.action_type)) total += parseFloat(a.value) || 0;
+  }
+  return Math.round(total);
+}
+
+function audienceType(targeting: any): string {
+  if (!targeting) return 'Amplo';
+  const customs = [...(targeting.custom_audiences || []), ...(targeting.excluded_custom_audiences || [])];
+  const hasLookalike = customs.some((c: any) => (c.name || '').toUpperCase().includes('LOOKALIKE') || (c.name || '').toUpperCase().includes('LAL') || c.subtype === 'LOOKALIKE');
+  if (hasLookalike) return 'Lookalike';
+  if ((targeting.custom_audiences || []).length > 0) return 'Remarketing';
+  if (targeting.flexible_spec && targeting.flexible_spec.some((f: any) => f.interests)) return 'Interesse';
+  return 'Amplo';
 }
 
 async function graphGet(path: string, params: Record<string, string>) {
@@ -98,29 +90,42 @@ async function fetchAll() {
     throw new Error('Variáveis META_ACCESS_TOKEN / META_AD_ACCOUNT_ID não configuradas.');
   }
 
-  const campaignsResp = await graphGet(`/${account}/campaigns`, {
-    fields: 'id,name,status,objective,daily_budget',
-    filtering: JSON.stringify([{ field: 'effective_status', operator: 'IN', value: ['ACTIVE'] }]),
-    limit: '200',
-  });
-  const campaigns: Campaign[] = campaignsResp.data || [];
+  const statusFilter = JSON.stringify([{ field: 'effective_status', operator: 'IN', value: ['ACTIVE', 'PAUSED'] }]);
 
   const today = todayISO();
-  const since = addDaysISO(today, -64);
+  const since64 = addDaysISO(today, -64);
+  const since30 = addDaysISO(today, -29);
+  const since60 = addDaysISO(today, -59);
 
-  const daily: DailyRow[] = [];
-  const creatives: CreativeRow[] = [];
+  const [campaignsResp, adsetsResp] = await Promise.all([
+    graphGet(`/${account}/campaigns`, {
+      fields: 'id,name,status,effective_status,objective,daily_budget,created_time',
+      filtering: statusFilter,
+      limit: '200',
+    }),
+    graphGet(`/${account}/adsets`, {
+      fields: 'id,campaign_id,name,status,effective_status,daily_budget,optimization_goal,destination_type,billing_event,created_time,targeting',
+      filtering: statusFilter,
+      limit: '200',
+    }),
+  ]);
+
+  const campaignsRaw: any[] = campaignsResp.data || [];
+  const adsetsRaw: any[] = adsetsResp.data || [];
+
+  const daily: any[] = [];
+  const creatives: any[] = [];
   const videoIdsToResolve = new Map<string, { campaign_id: string; ad_id: string }>();
   const videoAdIds = new Set<string>();
   const adRowsByCampaign = new Map<string, any[]>();
 
   await Promise.all(
-    campaigns.map(async (c) => {
+    campaignsRaw.map(async (c) => {
       const [insightsResp, adsResp] = await Promise.all([
         graphGet(`/${c.id}/insights`, {
           time_increment: '1',
-          time_range: JSON.stringify({ since, until: today }),
-          fields: 'spend,actions,date_start',
+          time_range: JSON.stringify({ since: since64, until: today }),
+          fields: 'spend,actions,date_start,impressions,clicks',
           limit: '70',
         }).catch(() => ({ data: [] })),
         graphGet(`/${c.id}/ads`, {
@@ -135,6 +140,8 @@ async function fetchAll() {
           date: row.date_start,
           spend: Math.round(parseFloat(row.spend || '0') * 100) / 100,
           leads: leadsFromActions(row.actions),
+          impressions: parseInt(row.impressions || '0', 10),
+          clicks: parseInt(row.clicks || '0', 10),
         });
       }
 
@@ -162,9 +169,6 @@ async function fetchAll() {
     })
   );
 
-  // Reels can't be embedded via the classic /plugins/video.php iframe ("video não
-  // pode ser incorporado"). The ad preview API renders the actual creative (image
-  // or video) inside an iframe meant for exactly this kind of external embedding.
   const adPreviewUrls = new Map<string, string>();
   await Promise.all(
     Array.from(videoAdIds).map(async (adId) => {
@@ -179,7 +183,7 @@ async function fetchAll() {
     })
   );
 
-  for (const c of campaigns) {
+  for (const c of campaignsRaw) {
     const { unit, kind, format } = classify(c.name);
     const ads = adRowsByCampaign.get(c.id) || [];
     for (const ad of ads) {
@@ -211,25 +215,173 @@ async function fetchAll() {
     }
   }
 
-  const campaignRows = campaigns.map((c) => {
+  const campaignRows = campaignsRaw.map((c) => {
     const { unit, kind, format } = classify(c.name);
     return {
       id: c.id,
       name: c.name,
       status: c.status,
+      effective_status: c.effective_status,
+      objective: c.objective || '',
       unit,
       kind,
       format,
       daily_budget: Math.round(parseInt(c.daily_budget || '0', 10)) / 100,
+      created_time: c.created_time || '',
     };
   });
+
+  const adsetRows = adsetsRaw.map((a) => {
+    const t = a.targeting || {};
+    const genders = !t.genders || t.genders.length === 0 ? 'Todos' : t.genders.includes(1) && t.genders.includes(2) ? 'Todos' : t.genders.includes(1) ? 'Masculino' : 'Feminino';
+    return {
+      id: a.id,
+      campaign_id: a.campaign_id,
+      name: a.name,
+      status: a.status,
+      effective_status: a.effective_status,
+      daily_budget: Math.round(parseInt(a.daily_budget || '0', 10)) / 100,
+      optimization_goal: a.optimization_goal || '',
+      destination_type: a.destination_type || '',
+      billing_event: a.billing_event || '',
+      created_time: a.created_time || '',
+      audience_type: audienceType(t),
+      age_min: t.age_min ?? null,
+      age_max: t.age_max ?? null,
+      genders,
+    };
+  });
+
+  // ---- account-wide aggregate calls (one request each, regardless of account size) ----
+  const [adsetAggResp, adAggResp, adWeeklyResp, demoResp, placementResp, deviceResp, regionResp, activitiesResp] = await Promise.all([
+    graphGet(`/${account}/insights`, {
+      level: 'adset',
+      fields: 'adset_id,campaign_id,spend,impressions,clicks,ctr,frequency,actions',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'ad',
+      fields: 'ad_id,adset_id,campaign_id,spend,impressions,clicks,ctr,frequency,actions',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'ad',
+      time_increment: '7',
+      fields: 'ad_id,spend,impressions,clicks,ctr,frequency,actions',
+      time_range: JSON.stringify({ since: since60, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'campaign',
+      breakdowns: 'age,gender',
+      fields: 'campaign_id,spend,actions,impressions,clicks',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'campaign',
+      breakdowns: 'publisher_platform,platform_position',
+      fields: 'campaign_id,spend,actions,impressions,clicks',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'campaign',
+      breakdowns: 'impression_device',
+      fields: 'campaign_id,spend,actions,impressions,clicks',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/insights`, {
+      level: 'campaign',
+      breakdowns: 'region',
+      fields: 'campaign_id,spend,actions,impressions,clicks',
+      time_range: JSON.stringify({ since: since30, until: today }),
+      limit: '500',
+    }).catch(() => ({ data: [] })),
+    graphGet(`/${account}/activities`, {
+      fields: 'event_type,event_time,translated_event_type,extra_data,actor_name,object_name',
+      limit: '100',
+    }).catch(() => ({ data: [] })),
+  ]);
+
+  const adsetInsights = (adsetAggResp.data || []).map((r: any) => ({
+    adset_id: r.adset_id,
+    campaign_id: r.campaign_id,
+    spend: Math.round(parseFloat(r.spend || '0') * 100) / 100,
+    impressions: parseInt(r.impressions || '0', 10),
+    clicks: parseInt(r.clicks || '0', 10),
+    ctr: parseFloat(r.ctr || '0'),
+    frequency: parseFloat(r.frequency || '0'),
+    leads: leadsFromActions(r.actions),
+  }));
+
+  const adInsights = (adAggResp.data || []).map((r: any) => ({
+    ad_id: r.ad_id,
+    adset_id: r.adset_id,
+    campaign_id: r.campaign_id,
+    spend: Math.round(parseFloat(r.spend || '0') * 100) / 100,
+    impressions: parseInt(r.impressions || '0', 10),
+    clicks: parseInt(r.clicks || '0', 10),
+    ctr: parseFloat(r.ctr || '0'),
+    frequency: parseFloat(r.frequency || '0'),
+    leads: leadsFromActions(r.actions),
+  }));
+
+  const adWeekly = (adWeeklyResp.data || []).map((r: any) => ({
+    ad_id: r.ad_id,
+    week_start: r.date_start,
+    spend: Math.round(parseFloat(r.spend || '0') * 100) / 100,
+    impressions: parseInt(r.impressions || '0', 10),
+    clicks: parseInt(r.clicks || '0', 10),
+    ctr: parseFloat(r.ctr || '0'),
+    frequency: parseFloat(r.frequency || '0'),
+    leads: leadsFromActions(r.actions),
+  }));
+
+  const toBreakdownRow = (r: any, extraKeys: string[]) => {
+    const row: any = {
+      campaign_id: r.campaign_id,
+      spend: Math.round(parseFloat(r.spend || '0') * 100) / 100,
+      impressions: parseInt(r.impressions || '0', 10),
+      clicks: parseInt(r.clicks || '0', 10),
+      leads: leadsFromActions(r.actions),
+    };
+    for (const k of extraKeys) row[k] = r[k] ?? null;
+    return row;
+  };
+
+  const demographics = (demoResp.data || []).map((r: any) => toBreakdownRow(r, ['age', 'gender']));
+  const placements = (placementResp.data || []).map((r: any) => toBreakdownRow(r, ['publisher_platform', 'platform_position']));
+  const devices = (deviceResp.data || []).map((r: any) => toBreakdownRow(r, ['impression_device']));
+  const regions = (regionResp.data || []).map((r: any) => toBreakdownRow(r, ['region']));
+
+  const activities = (activitiesResp.data || []).map((r: any) => ({
+    event_type: r.event_type || '',
+    event_time: r.event_time || '',
+    translated_event_type: r.translated_event_type || r.event_type || '',
+    extra_data: r.extra_data || '',
+    actor_name: r.actor_name || '',
+    object_name: r.object_name || '',
+  }));
 
   return {
     generated_at: new Date().toISOString(),
     today,
     campaigns: campaignRows,
+    adsets: adsetRows,
+    adsetInsights,
     daily,
+    adInsights,
+    adWeekly,
     creatives,
+    demographics,
+    placements,
+    devices,
+    regions,
+    activities,
   };
 }
 
