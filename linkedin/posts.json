@@ -1,98 +1,344 @@
 [
   {
-    "n": 1, "date": "2026-11-03", "dia": "Ter 03/11", "tipo": "Apresentação", "pronto": true,
+    "n": 1,
+    "date": "2026-11-03",
+    "dia": "Ter 03/11",
+    "tipo": "Apresentação",
+    "pronto": true,
     "titulo": "Mídia + copy na mesma cabeça",
-    "img": {"tag": "APRESENTAÇÃO", "title": "Eu subo a campanha.<br>E eu escrevo o anúncio.", "highlight": "7 anos", "sub": "de marketing de performance e copywriting"},
+    "img": {
+      "tag": "APRESENTAÇÃO",
+      "title": "Eu subo a campanha.<br>E eu escrevo o anúncio.",
+      "highlight": "7 anos",
+      "sub": "de marketing de performance e copywriting"
+    },
     "texto": "Por 7 anos eu tive uma vantagem que demorei para perceber.\n\nEu subo a campanha. E eu escrevo o anúncio.\n\nParece pouco, mas muda tudo. Quando o CPL sobe, a maioria das equipes discute se o problema é a mídia ou o criativo. Eu olho os dois ao mesmo tempo.\n\nNesse caminho:\n→ Gerenciei até R$ 150 mil/mês em Google, Meta e LinkedIn Ads\n→ Reduzi o CPL médio de uma carteira de 25 contas em 38%\n→ Escrevi LPs de vestibular com 12% de conversão\n→ Coloquei marcas nas respostas do ChatGPT e do Google AI Overviews\n\nDaqui pra frente, vou compartilhar aqui o que funciona (e o que não funciona) em performance, copy e busca com IA.\n\nSe você trabalha com mídia ou com conteúdo, me conta: qual é hoje o maior gargalo entre esses dois times aí?\n\n#MarketingDigital #TrafegoPago #Copywriting #MarketingDePerformance"
   },
   {
-    "n": 2, "date": "2026-11-05", "dia": "Qui 05/11", "tipo": "Dica", "pronto": true,
+    "n": 2,
+    "date": "2026-11-05",
+    "dia": "Qui 05/11",
+    "tipo": "Dica",
+    "pronto": true,
     "titulo": "5 erros de copy que encarecem o CPL",
-    "img": {"tag": "DICA", "title": "5 erros de copy que encarecem o seu CPL", "bullets": ["Falar do produto, não do problema", "Anúncio e LP prometendo coisas diferentes", "Headline que tenta agradar todo mundo", "CTA vago", "Um único criativo rodando por semanas"]},
+    "img": {
+      "tag": "DICA",
+      "title": "5 erros de copy que encarecem o seu CPL",
+      "bullets": [
+        "Falar do produto, não do problema",
+        "Anúncio e LP prometendo coisas diferentes",
+        "Headline que tenta agradar todo mundo",
+        "CTA vago",
+        "Um único criativo rodando por semanas"
+      ]
+    },
     "texto": "Seu CPL subiu e a primeira reação é mexer em público, lance e orçamento.\n\nÀs vezes o problema está escrito no próprio anúncio.\n\n5 erros de copy que mais encarecem uma campanha:\n\n1. Falar do produto, não do problema.\nNinguém para de rolar a tela por causa de uma funcionalidade. Para por causa de uma dor que reconhece.\n\n2. Anúncio e landing page prometendo coisas diferentes.\nO clique acontece, a conversão não. E o algoritmo aprende que o seu público não converte.\n\n3. Headline que tenta agradar todo mundo.\nQuando fala com todos, não fala com ninguém. E a plataforma entrega para qualquer um.\n\n4. CTA vago.\n\"Saiba mais\" não diz o que acontece depois do clique. \"Veja as datas da próxima turma\" diz.\n\n5. Um único criativo rodando por semanas.\nSem variação de copy não existe teste A/B. Existe torcida.\n\nComo gestor de tráfego e redator, aprendi que mídia e copy são a mesma conversa. O anúncio é o primeiro filtro da campanha.\n\nQual desses você mais encontra por aí?\n\n#Copywriting #TrafegoPago #MetaAds #GoogleAds"
   },
   {
-    "n": 3, "date": "2026-11-10", "dia": "Ter 10/11", "tipo": "Bastidor / Carreira", "pronto": true,
+    "n": 3,
+    "date": "2026-11-10",
+    "dia": "Ter 10/11",
+    "tipo": "Bastidor / Carreira",
+    "pronto": true,
     "titulo": "O que é ser redator (Anima Educação e Fala Labs)",
-    "img": {"tag": "BASTIDOR · REDAÇÃO", "title": "Ser redator não é escrever bonito.", "sub": "É transformar o que a empresa quer dizer no que o cliente precisa ouvir.", "stats": [["18", "marcas na Anima Educação"], ["6", "clientes na Fala Labs"]]},
+    "img": {
+      "tag": "BASTIDOR · REDAÇÃO",
+      "title": "Ser redator não é escrever bonito.",
+      "sub": "É transformar o que a empresa quer dizer no que o cliente precisa ouvir.",
+      "stats": [
+        [
+          "18",
+          "marcas na Anima Educação"
+        ],
+        [
+          "6",
+          "clientes na Fala Labs"
+        ]
+      ]
+    },
     "texto": "Ser redator não é escrever bonito.\n\nNos últimos dois anos, escrevi para 18 marcas de educação e para 6 clientes completamente diferentes entre si: de mentoria de negócios a nutrição esportiva, de construtora a consultoria.\n\nNa Anima Educação, ser redator era cuidar de 18 tons de voz ao mesmo tempo. No mesmo dia, um artigo de blog, uma landing page de vestibular e um roteiro para redes sociais. Cada marca com o seu público, a sua promessa e o seu jeito de falar.\n\nNa Fala Labs, o desafio era o oposto: entrar rápido na cabeça de cada cliente. Falar com os alunos da Conquer, do Hendel Favarin, é muito diferente de convencer alguém a comprar Gran Nutrition ou a conhecer um empreendimento da Fast Construtora.\n\nO que aprendi sobre o ofício:\n\n→ Redator pesquisa mais do que escreve. O texto é a última etapa.\n→ Tom de voz não é um adjetivo no manual da marca. É escolha de palavra, frase por frase.\n→ Texto bom tem meta: clique, cadastro, venda, ranqueamento. As LPs de vestibular com 12% de conversão e os R$ 800 mil em vendas atribuídas a lançamentos não vieram de frase de efeito. Vieram de entender o leitor.\n→ Redator trabalha em time. Um briefing bem feito com design e mídia vale mais que qualquer headline genial.\n\nHoje, quando me perguntam o que faz um redator, eu respondo: ele transforma o que a empresa quer dizer no que o cliente precisa ouvir.\n\nPara você, qual é a parte mais subestimada do trabalho de um redator?\n\n#Copywriting #RedacaoPublicitaria #MarketingDeConteudo #TomDeVoz"
   },
   {
-    "n": 4, "date": "2026-11-12", "dia": "Qui 12/11", "tipo": "Opinião", "pronto": true,
+    "n": 4,
+    "date": "2026-11-12",
+    "dia": "Qui 12/11",
+    "tipo": "Opinião",
+    "pronto": true,
     "titulo": "Mensuração vem antes de otimização",
-    "img": {"tag": "OPINIÃO", "title": "O algoritmo otimiza com o dado que você entrega.", "sub": "Dado ruim gera otimização ruim.", "stats": [["-38%", "CPL médio em 6 meses"], ["10 h", "por semana sem relatório manual"]]},
+    "img": {
+      "tag": "OPINIÃO",
+      "title": "O algoritmo otimiza com o dado que você entrega.",
+      "sub": "Dado ruim gera otimização ruim.",
+      "stats": [
+        [
+          "-38%",
+          "CPL médio em 6 meses"
+        ],
+        [
+          "10 h",
+          "por semana sem relatório manual"
+        ]
+      ]
+    },
     "texto": "O algoritmo otimiza com o dado que você entrega.\n\nDado ruim gera otimização ruim.\n\nNa EMA Digital, liderando o time de performance (25 contas e R$ 150 mil/mês em Google e Meta Ads), uma das primeiras decisões foi criar um padrão de mensuração para todos os clientes:\n\n→ GA4 e Google Tag Manager configurados do mesmo jeito em todas as contas\n→ API de Conversões ativa, e não só o Pixel\n→ Dashboards no Looker Studio para 100% dos clientes\n\nSó o fim dos relatórios manuais devolveu 10 horas por semana ao time. Junto com a reestruturação das campanhas de Pesquisa, Performance Max e Advantage+, o CPL médio da carteira caiu 38% em 6 meses.\n\nSinais de que a mensuração da sua conta precisa de atenção:\n• O número de leads do Gerenciador não bate com o do CRM\n• Ninguém sabe dizer qual evento a campanha está otimizando\n• O relatório do mês leva mais tempo para montar do que para ler\n\nAntes de trocar público, lance ou criativo, pergunte: eu confio nesse número?\n\nE na sua conta, você confia?\n\n#TrafegoPago #GA4 #GoogleAds #MetaAds #Mensuracao"
   },
   {
-    "n": 5, "date": "2026-11-17", "dia": "Ter 17/11", "tipo": "Case", "pronto": false,
+    "n": 5,
+    "date": "2026-11-17",
+    "dia": "Ter 17/11",
+    "tipo": "Case",
+    "pronto": false,
     "titulo": "Case Anima: AEO/GEO e aparecer no ChatGPT",
-    "img": {"tag": "CASE · ANIMA EDUCAÇÃO", "title": "SEO não morreu.<br>Ele mudou de leitor.", "stats": [["120", "conteúdos adaptados para AEO e GEO"], ["+60%", "de tráfego orgânico em 9 meses"]]},
+    "img": {
+      "tag": "CASE · ANIMA EDUCAÇÃO",
+      "title": "SEO não morreu.<br>Ele mudou de leitor.",
+      "stats": [
+        [
+          "120",
+          "conteúdos adaptados para AEO e GEO"
+        ],
+        [
+          "+60%",
+          "de tráfego orgânico em 9 meses"
+        ]
+      ]
+    },
     "texto": "\"Ninguém mais clica no Google, todo mundo pergunta pro ChatGPT.\"\n\nOuvi isso [onde/quando]. Em vez de discutir, fui testar.\n\nNa Anima Educação, adaptei 120 conteúdos de 18 marcas para AEO e GEO: otimização para aparecer nas respostas de IA, e não só na lista de links.\n\nO que mudou na forma de escrever:\n→ Responder a pergunta logo no primeiro parágrafo\n→ [técnica real que você usou]\n→ [técnica real que você usou]\n\nResultado: as marcas passaram a aparecer em respostas do Google AI Overviews e do ChatGPT para buscas de cursos. E o tráfego orgânico dos blogs cresceu 60% em 9 meses, com 350 palavras-chave na primeira página do Google.\n\nSEO não morreu. Ele mudou de leitor.\n\nVocê já está otimizando o seu conteúdo para IA?\n\n#SEO #AEO #GEO #MarketingDeConteudo #IA"
   },
   {
-    "n": 6, "date": "2026-11-19", "dia": "Qui 19/11", "tipo": "Checklist", "pronto": true,
+    "n": 6,
+    "date": "2026-11-19",
+    "dia": "Qui 19/11",
+    "tipo": "Checklist",
+    "pronto": true,
     "titulo": "Checklist: como adaptar um artigo para IA",
-    "img": {"tag": "CHECKLIST · AEO E GEO", "title": "Seu artigo está pronto para ser citado por uma IA?", "bullets": ["Resposta direta no 1º parágrafo", "Intertítulos em forma de pergunta", "Dados com fonte", "Listas e tabelas", "Bloco de perguntas frequentes", "Autor identificado", "Conteúdo atualizado"]},
+    "img": {
+      "tag": "CHECKLIST · AEO E GEO",
+      "title": "Seu artigo está pronto para ser citado por uma IA?",
+      "bullets": [
+        "Resposta direta no 1º parágrafo",
+        "Intertítulos em forma de pergunta",
+        "Dados com fonte",
+        "Listas e tabelas",
+        "Bloco de perguntas frequentes",
+        "Autor identificado",
+        "Conteúdo atualizado"
+      ]
+    },
     "texto": "Seu artigo ranqueia no Google. Mas ele é citado pelo ChatGPT?\n\nDepois de adaptar 120 conteúdos para AEO e GEO, este é o checklist que eu passaria para quem está começando:\n\n☐ Resposta direta no primeiro parágrafo. Em 2 ou 3 frases, sem rodeio.\n☐ Intertítulos em forma de pergunta. Do jeito que as pessoas perguntam para a IA.\n☐ Dados com fonte. Número sem origem não passa confiança, nem para o leitor nem para o modelo.\n☐ Listas e tabelas. Conteúdo bem estruturado é mais fácil de extrair e citar.\n☐ Bloco de perguntas frequentes. Cada pergunta é uma nova porta de entrada.\n☐ Autor identificado. Quem escreveu e por que entende do assunto.\n☐ Conteúdo atualizado. Data revisada e informação que ainda vale.\n\nO mais interessante: quase tudo aqui também melhora a experiência de quem lê. Escrever para a IA, no fim, é escrever com mais clareza.\n\nSalve para usar no próximo artigo. E se tiver um item que você acrescentaria, deixa nos comentários.\n\n#SEO #AEO #GEO #MarketingDeConteudo #ChatGPT"
   },
   {
-    "n": 7, "date": "2026-11-24", "dia": "Ter 24/11", "tipo": "História", "pronto": false,
+    "n": 7,
+    "date": "2026-11-24",
+    "dia": "Ter 24/11",
+    "tipo": "História",
+    "pronto": false,
     "titulo": "O que roteiro me ensinou sobre os 3 primeiros segundos",
-    "img": {"tag": "ROTEIRO × ANÚNCIO", "title": "Crie uma tensão que só se resolve se a pessoa ficar.", "sub": "O que escrever roteiro me ensinou sobre os 3 primeiros segundos de um anúncio."},
+    "img": {
+      "tag": "ROTEIRO × ANÚNCIO",
+      "title": "Crie uma tensão que só se resolve se a pessoa ficar.",
+      "sub": "O que escrever roteiro me ensinou sobre os 3 primeiros segundos de um anúncio."
+    },
     "texto": "Além de marketing, eu escrevo roteiro de cinema e de TV.\n\nE nenhum curso de tráfego me ensinou tanto sobre criativo quanto escrever um gancho de final de capítulo.\n\nNa novela, se o capítulo não termina com uma pergunta, o público não volta amanhã.\nNo Reels, se os 3 primeiros segundos não abrem uma pergunta, o público rola a tela.\n\nÉ a mesma regra: crie uma tensão que só se resolve se a pessoa ficar.\n\n[Um exemplo real: um roteiro de anúncio, Reels ou VSL seu em que você aplicou isso, e o que aconteceu.]\n\nQual foi o último anúncio que te fez parar de rolar a tela?\n\n#Storytelling #Roteiro #Copywriting #Criativos #MarketingDigital"
   },
   {
-    "n": 8, "date": "2026-11-26", "dia": "Qui 26/11", "tipo": "Conteúdo útil", "pronto": true,
+    "n": 8,
+    "date": "2026-11-26",
+    "dia": "Qui 26/11",
+    "tipo": "Conteúdo útil",
+    "pronto": true,
     "titulo": "Anatomia de um anúncio que para a rolagem",
-    "img": {"tag": "ANATOMIA DE UM ANÚNCIO", "title": "Todo bom anúncio tem 3 atos.", "bullets": ["Gancho: os 3 primeiros segundos", "Conflito: o problema que o público reconhece", "Virada: a prova de que existe saída", "Resolução: a oferta", "Chamada: o próximo passo, bem claro"]},
+    "img": {
+      "tag": "ANATOMIA DE UM ANÚNCIO",
+      "title": "Todo bom anúncio tem 3 atos.",
+      "bullets": [
+        "Gancho: os 3 primeiros segundos",
+        "Conflito: o problema que o público reconhece",
+        "Virada: a prova de que existe saída",
+        "Resolução: a oferta",
+        "Chamada: o próximo passo, bem claro"
+      ]
+    },
     "texto": "Todo bom anúncio tem a estrutura de um bom roteiro.\n\nQuando escrevo um criativo em vídeo, penso em atos, como faria em uma cena:\n\n1. Gancho (0 a 3 segundos)\nUma imagem ou frase que abre uma pergunta. Se não houver curiosidade aqui, nada do resto importa.\n\n2. Conflito\nO problema que o público reconhece na própria vida. É aqui que a pessoa pensa: \"isso é comigo\".\n\n3. Virada\nA prova de que existe saída: um dado, um depoimento, uma demonstração.\n\n4. Resolução\nA oferta. O que a pessoa ganha, de forma concreta.\n\n5. Chamada\nUm próximo passo claro e único. Sem dar três opções.\n\nO erro mais comum que vejo é começar pela resolução: logo, nome do produto, desconto. É como começar o filme pelos créditos.\n\nNa próxima vez que um anúncio prender a sua atenção, tente identificar esses cinco momentos. Quase sempre eles estão lá.\n\nQual dessas etapas você acha mais difícil de escrever?\n\n#Copywriting #Storytelling #Criativos #MetaAds #Roteiro"
   },
   {
-    "n": 9, "date": "2026-12-01", "dia": "Ter 01/12", "tipo": "Experiência", "pronto": false,
-    "titulo": "Anunciar na Colômbia e no México: o que muda",
-    "img": {"tag": "AMÉRICA LATINA", "title": "Traduzir não é adaptar.", "sub": "O que aprendi anunciando na Colômbia e no México.", "stats": [["12", "clientes na Colômbia e no México"], ["4,2x", "de ROAS médio em e-commerce"]]},
-    "texto": "Traduzir um anúncio para o espanhol é fácil.\n\nFazer ele vender na Colômbia e no México é outra história.\n\nNa Roble Agency, gerenciei campanhas de Google e Meta Ads para 12 clientes nos dois países, com US$ 40 mil/mês em investimento, e produzi conteúdo em português e espanhol.\n\nO que aprendi:\n\n→ Mesmo idioma, países diferentes. Uma palavra comum em Bogotá pode soar estranha na Cidade do México. Copy precisa de revisão local, não só de tradução.\n→ O calendário comercial muda. Datas como o Buen Fin, no México, pesam tanto quanto a Black Friday por aqui.\n→ [Um aprendizado real seu sobre público, criativo ou lances nesses mercados.]\n\nCom testes criativos contínuos e otimização de públicos e lances, chegamos a um ROAS médio de 4,2x em e-commerce.\n\nA lição que levo para qualquer mercado: o público não quer um anúncio traduzido. Quer um anúncio que pareça ter sido feito para ele.\n\nVocê já fez campanha para outro país? O que mais te surpreendeu?\n\n#MarketingLATAM #TrafegoPago #GoogleAds #MetaAds #Ecommerce"
+    "n": 9,
+    "date": "2026-12-01",
+    "dia": "Ter 01/12",
+    "tipo": "Bastidor B2B",
+    "pronto": false,
+    "titulo": "Plot Visual: vender sala de crise e videowall",
+    "img": {
+      "tag": "B2B · TECNOLOGIA",
+      "title": "Ninguém pensa na sala de crise até o dia da crise.",
+      "sub": "O que aprendi fazendo marketing de videowall e salas de monitoramento na Plot Visual."
+    },
+    "texto": "Ninguém pensa na sala de crise até o dia da crise.\n\nEsse foi um dos maiores desafios de comunicação da minha carreira. Na Plot Visual Technologies, empresa B2B de tecnologia para salas de monitoramento, videowall e salas de crise, eu cuidei da marca e da mensagem para a América Latina.\n\nComo fazer um diretor se interessar por um produto que, quando funciona bem, ninguém percebe?\n\nO que aprendi:\n\n→ Não venda a tela. Venda a decisão.\nUm videowall não é um conjunto de monitores. É a equipe inteira enxergando o mesmo cenário, ao mesmo tempo, na hora em que cada minuto conta.\n\n→ Cada setor tem a sua crise.\n[Setores reais que vocês atendiam, ex.: segurança, energia, transporte, indústria] têm riscos diferentes. A mensagem precisa mudar junto.\n\n→ Produto complexo pede conteúdo profundo.\nQuem decide uma compra dessas quer entender antes de falar com um vendedor. Por isso os e-books e whitepapers foram centrais na geração de leads.\n\n→ Rebranding também é arquitetura.\nOrganizar novos serviços e funcionalidades em uma mensagem clara foi tão importante quanto o visual.\n\n[Um momento real: um projeto, cliente ou evento que mostrou na prática o valor dessa tecnologia.]\n\nMarketing de tecnologia B2B me ensinou que o cliente não compra o que o produto é. Compra o problema que ele deixa de ter.\n\nVocê já precisou explicar um produto difícil de explicar? Como fez?\n\n#MarketingB2B #Tecnologia #Videowall #SalaDeControle #Branding"
   },
   {
-    "n": 10, "date": "2026-12-03", "dia": "Qui 03/12", "tipo": "Case", "pronto": false,
+    "n": 10,
+    "date": "2026-12-03",
+    "dia": "Qui 03/12",
+    "tipo": "Case",
+    "pronto": false,
     "titulo": "LinkedIn Ads B2B: 1.200 leads com CPL abaixo da meta",
-    "img": {"tag": "CASE · LINKEDIN ADS B2B", "title": "Em B2B, ninguém compra no primeiro clique.", "stats": [["1.200", "leads B2B qualificados"], ["-27%", "CPL abaixo da meta"], ["0,9%", "de CTR nos anúncios"]]},
+    "img": {
+      "tag": "CASE · LINKEDIN ADS B2B",
+      "title": "Em B2B, ninguém compra no primeiro clique.",
+      "stats": [
+        [
+          "1.200",
+          "leads B2B qualificados"
+        ],
+        [
+          "-27%",
+          "CPL abaixo da meta"
+        ],
+        [
+          "0,9%",
+          "de CTR nos anúncios"
+        ]
+      ]
+    },
     "texto": "Em B2B, ninguém compra no primeiro clique.\n\nNa Plot Visual Technologies, empresa de tecnologia B2B, planejei e operei campanhas de LinkedIn Ads para a América Latina. O resultado: 1.200 leads B2B qualificados, com CPL 27% abaixo da meta.\n\nO que fez diferença:\n\n→ Oferecer conteúdo antes de oferecer reunião. E-books e whitepapers abriram a conversa com quem ainda não estava pronto para uma demonstração.\n→ Copy na língua do decisor. Os anúncios chegaram a 0,9% de CTR, acima da média do setor.\n→ O lead não termina no formulário. A régua de e-mails teve 38% de taxa de abertura e manteve a conversa viva até o momento certo.\n\nLinkedIn Ads tem fama de ser caro. E é, se você trata como Meta Ads. Quando a estratégia respeita o ciclo de venda B2B, a conta fecha.\n\nQual é a sua experiência com LinkedIn Ads?\n\n#LinkedInAds #MarketingB2B #GeracaoDeLeads #InboundMarketing"
   },
   {
-    "n": 11, "date": "2026-12-08", "dia": "Ter 08/12", "tipo": "Liderança", "pronto": false,
+    "n": 11,
+    "date": "2026-12-08",
+    "dia": "Ter 08/12",
+    "tipo": "Experiência",
+    "pronto": false,
+    "titulo": "Anunciar na Colômbia e no México: o que muda",
+    "img": {
+      "tag": "AMÉRICA LATINA",
+      "title": "Traduzir não é adaptar.",
+      "sub": "O que aprendi anunciando na Colômbia e no México.",
+      "stats": [
+        [
+          "12",
+          "clientes na Colômbia e no México"
+        ],
+        [
+          "4,2x",
+          "de ROAS médio em e-commerce"
+        ]
+      ]
+    },
+    "texto": "Traduzir um anúncio para o espanhol é fácil.\n\nFazer ele vender na Colômbia e no México é outra história.\n\nNa Roble Agency, gerenciei campanhas de Google e Meta Ads para 12 clientes nos dois países, com US$ 40 mil/mês em investimento, e produzi conteúdo em português e espanhol.\n\nO que aprendi:\n\n→ Mesmo idioma, países diferentes. Uma palavra comum em Bogotá pode soar estranha na Cidade do México. Copy precisa de revisão local, não só de tradução.\n→ O calendário comercial muda. Datas como o Buen Fin, no México, pesam tanto quanto a Black Friday por aqui.\n→ [Um aprendizado real seu sobre público, criativo ou lances nesses mercados.]\n\nCom testes criativos contínuos e otimização de públicos e lances, chegamos a um ROAS médio de 4,2x em e-commerce.\n\nA lição que levo para qualquer mercado: o público não quer um anúncio traduzido. Quer um anúncio que pareça ter sido feito para ele.\n\nVocê já fez campanha para outro país? O que mais te surpreendeu?\n\n#MarketingLATAM #TrafegoPago #GoogleAds #MetaAds #Ecommerce"
+  },
+  {
+    "n": 12,
+    "date": "2026-12-10",
+    "dia": "Qui 10/12",
+    "tipo": "Liderança",
+    "pronto": false,
     "titulo": "O que aprendi liderando um time de 6",
-    "img": {"tag": "LIDERANÇA", "title": "Liderar é parar de ser o melhor operador do time.", "stats": [["6", "profissionais de mídia"], ["25", "contas sob gestão"]]},
+    "img": {
+      "tag": "LIDERANÇA",
+      "title": "Liderar é parar de ser o melhor operador do time.",
+      "stats": [
+        [
+          "6",
+          "profissionais de mídia"
+        ],
+        [
+          "25",
+          "contas sob gestão"
+        ]
+      ]
+    },
     "texto": "A transição mais difícil da minha carreira não foi de ferramenta. Foi de função.\n\nNa EMA Digital, assumi a liderança de um time de 6 profissionais de mídia e canais digitais, responsável por 25 contas.\n\nE descobri que liderar é parar de ser o melhor operador do time.\n\nO que aprendi:\n\n→ Padrão liberta. Quando todo mundo configura mensuração e estrutura de campanha do mesmo jeito, o time para de apagar incêndio e começa a pensar.\n→ Meu trabalho passou a ser destravar, não executar. [Um exemplo real de quando você precisou soltar a operação.]\n→ Contexto vale mais que ordem. Explicar o objetivo do cliente rende mais que dizer qual botão apertar.\n→ [Um aprendizado real seu sobre feedback, contratação ou desenvolvimento do time.]\n\nAinda gosto de abrir o Gerenciador de Anúncios. Mas hoje sei que o resultado de uma carteira inteira depende mais do time do que de mim.\n\nPara quem lidera times de marketing: qual foi a sua transição mais difícil?\n\n#Lideranca #GestaoDeEquipes #TrafegoPago #MarketingDigital"
   },
   {
-    "n": 12, "date": "2026-12-10", "dia": "Qui 10/12", "tipo": "Bastidor", "pronto": true,
+    "n": 13,
+    "date": "2026-12-15",
+    "dia": "Ter 15/12",
+    "tipo": "Bastidor",
+    "pronto": true,
     "titulo": "Retenção de 90%: como é a reunião de resultado",
-    "img": {"tag": "BASTIDOR · CLIENTES", "title": "Cliente não cancela por resultado ruim.", "sub": "Cancela por surpresa ruim.", "stats": [["90%", "de retenção da carteira"]]},
+    "img": {
+      "tag": "BASTIDOR · CLIENTES",
+      "title": "Cliente não cancela por resultado ruim.",
+      "sub": "Cancela por surpresa ruim.",
+      "stats": [
+        [
+          "90%",
+          "de retenção da carteira"
+        ]
+      ]
+    },
     "texto": "Cliente não cancela por resultado ruim.\n\nCancela por surpresa ruim.\n\nNa EMA Digital, eu conduzia as reuniões de resultado e os planos de ação com os clientes. A carteira manteve 90% de retenção.\n\nComo eu estruturava essas reuniões:\n\n1. Começar pelo objetivo do negócio, não pelo CTR.\nO cliente quer saber de vendas e matrículas, não de impressões.\n\n2. Contar o que deu errado antes que ele pergunte.\nTransparência no mês ruim é o que garante a confiança no mês bom.\n\n3. Não gastar a reunião lendo números.\nCom dashboards no Looker Studio, o cliente já chegava com os dados. O tempo era para decidir.\n\n4. Sair com um plano de ação.\nCada próximo passo com responsável e prazo.\n\nRelatório informa. Reunião de resultado constrói relação.\n\nO que não pode faltar em uma boa reunião com cliente, para você?\n\n#Agencia #AtendimentoAoCliente #TrafegoPago #MarketingDigital"
   },
   {
-    "n": 13, "date": "2026-12-15", "dia": "Ter 15/12", "tipo": "Experiência", "pronto": false,
+    "n": 14,
+    "date": "2026-12-17",
+    "dia": "Qui 17/12",
+    "tipo": "Experiência",
+    "pronto": false,
     "titulo": "R$ 1,2 milhão em lançamentos: o que eu faria diferente",
-    "img": {"tag": "LANÇAMENTOS", "title": "O que 8 lançamentos me ensinaram sobre funil.", "stats": [["R$ 1,2 mi", "em vendas"], ["8", "produtos digitais lançados"]]},
+    "img": {
+      "tag": "LANÇAMENTOS",
+      "title": "O que 8 lançamentos me ensinaram sobre funil.",
+      "stats": [
+        [
+          "R$ 1,2 mi",
+          "em vendas"
+        ],
+        [
+          "8",
+          "produtos digitais lançados"
+        ]
+      ]
+    },
     "texto": "Entre 2018 e 2022, como Head de Marketing na AGNC, criei e lancei 8 produtos digitais. Juntos, eles somaram R$ 1,2 milhão em vendas por meio de funis de tráfego pago.\n\nEu escrevia as páginas de vendas, as sequências de e-mail e os anúncios. E estruturei a operação de tráfego da agência.\n\nO que funcionou:\n→ [Ex.: a estratégia de aquecimento, o tipo de oferta, um criativo que se destacou]\n→ Copy e mídia pensadas juntas desde o primeiro dia do funil\n\nO que eu faria diferente hoje:\n→ [Um aprendizado real seu. Ex.: começar a mensuração mais cedo, testar mais criativos, cuidar melhor da base depois da venda]\n→ [Outro aprendizado real]\n\nLançamento ensina rápido porque tudo acontece em poucos dias. Não dá para esperar o mês fechar para corrigir a rota.\n\nVocê já participou de um lançamento? Qual foi a maior lição?\n\n#Lancamentos #InfoProdutos #Copywriting #TrafegoPago #Funil"
   },
   {
-    "n": 14, "date": "2026-12-17", "dia": "Qui 17/12", "tipo": "Dica", "pronto": false,
+    "n": 15,
+    "date": "2026-12-22",
+    "dia": "Ter 22/12",
+    "tipo": "Dica",
+    "pronto": false,
     "titulo": "Estrutura de LP que converteu 12%",
-    "img": {"tag": "LANDING PAGE", "title": "A estrutura de uma LP que converteu 12%", "bullets": ["Headline com o benefício principal", "Formulário visível e curto", "Prova logo no início", "Objeções respondidas", "Um único objetivo", "Pensada primeiro para o celular"]},
+    "img": {
+      "tag": "LANDING PAGE",
+      "title": "A estrutura de uma LP que converteu 12%",
+      "bullets": [
+        "Headline com o benefício principal",
+        "Formulário visível e curto",
+        "Prova logo no início",
+        "Objeções respondidas",
+        "Um único objetivo",
+        "Pensada primeiro para o celular"
+      ]
+    },
     "texto": "Na Anima Educação, escrevi landing pages de captação para o vestibular com 12% de taxa de conversão.\n\nOs elementos que eu considero essenciais em uma LP de captação:\n\n1. Headline com o benefício principal\nO que a pessoa ganha, e não o nome da campanha.\n\n2. Formulário visível e curto\nCada campo a mais é um motivo a mais para desistir.\n\n3. Prova logo no início\n[Qual prova vocês usaram: nota no MEC, empregabilidade, depoimentos de alunos...]\n\n4. Objeções respondidas\n[Quais dúvidas mais apareciam: preço, bolsas, modalidade, duração...]\n\n5. Um único objetivo\nSem menu, sem links que levam para fora. A página existe para uma ação só.\n\n6. Pensada primeiro para o celular\nÉ lá que a maior parte do público chega.\n\nE um detalhe que faz diferença: escrever a LP junto com o time de mídia. A promessa do anúncio precisa continuar na página.\n\nQual desses itens você mais vê sendo ignorado por aí?\n\n#LandingPage #CRO #Copywriting #MarketingEducacional"
   },
   {
-    "n": 15, "date": "2026-12-22", "dia": "Ter 22/12", "tipo": "História", "pronto": false,
-    "titulo": "Um erro que me custou caro (e a lição)",
-    "img": {"tag": "HISTÓRIA", "title": "O erro que mais me ensinou em 7 anos de marketing.", "sub": "E o que eu faço diferente desde então."},
-    "texto": "O erro que mais me ensinou em 7 anos de marketing não foi técnico.\n\n[Conte o que aconteceu, em 2 ou 3 frases. Ex.: uma campanha que gastou a verba no público errado, uma promessa de copy que não se sustentou, um prazo que você aceitou sem poder cumprir.]\n\n[Qual foi a consequência: para o cliente, para o time, para você.]\n\n[Como você resolveu, ou tentou resolver.]\n\nO que eu faço diferente desde então:\n→ [Mudança prática 1]\n→ [Mudança prática 2]\n\nFalar de erro no LinkedIn ainda parece arriscado. Mas eu confio mais em profissionais que sabem contar o que aprenderam do que em quem parece nunca ter errado.\n\nQual foi o erro que mais te ensinou?\n\n#Carreira #MarketingDigital #Aprendizado"
+    "n": 16,
+    "date": "2026-12-29",
+    "dia": "Ter 29/12",
+    "tipo": "Retrospectiva + Chamada",
+    "pronto": false,
+    "titulo": "Retrospectiva 2026 e aberto a oportunidades",
+    "img": {
+      "tag": "RETROSPECTIVA 2026",
+      "title": "Mídia, copy e busca com IA.",
+      "sub": "Aberto a novas oportunidades em 2027 · Remoto · Brasil e LATAM"
+    },
+    "texto": "2026 foi um ano de estudar e de escrever muito.\n\nAlguns marcos:\n→ Adaptei 120 conteúdos para AEO e GEO na Anima Educação, e as marcas passaram a aparecer em respostas do ChatGPT e do Google AI Overviews\n→ Ajudei a crescer o tráfego orgânico dos blogs em 60%\n→ Me certifiquei em Google Ads (Pesquisa), Meta Certified Media Buying Professional, Content Marketing (HubSpot Academy) e SEO Fundamentals (Semrush Academy)\n→ [Outro marco seu do ano, profissional ou pessoal]\n\nPara 2027, estou aberto a novas oportunidades como:\n• Gestor de Tráfego / Performance\n• Copywriter ou Redator de Conteúdo (SEO, AEO e GEO)\n• Posições que juntem as duas coisas\n\nTrabalho remoto, para empresas do Brasil e da América Latina, em português e espanhol.\n\nSe você conhece uma vaga ou um projeto que combine com isso, vou adorar conversar. Um comentário ou uma indicação já ajudam muito.\n\nObrigado a quem acompanhou os posts por aqui. Boas festas!\n\n#OpenToWork #MarketingDigital #TrafegoPago #Copywriting #SEO"
   },
   {
-    "n": 16, "date": "2026-12-29", "dia": "Ter 29/12", "tipo": "Retrospectiva + Chamada", "pronto": false,
-    "titulo": "Retrospectiva 2026 e aberto a oportunidades",
-    "img": {"tag": "RETROSPECTIVA 2026", "title": "Mídia, copy e busca com IA.", "sub": "Aberto a novas oportunidades em 2027 · Remoto · Brasil e LATAM"},
-    "texto": "2026 foi um ano de estudar e de escrever muito.\n\nAlguns marcos:\n→ Adaptei 120 conteúdos para AEO e GEO na Anima Educação, e as marcas passaram a aparecer em respostas do ChatGPT e do Google AI Overviews\n→ Ajudei a crescer o tráfego orgânico dos blogs em 60%\n→ Me certifiquei em Google Ads (Pesquisa), Meta Certified Media Buying Professional, Content Marketing (HubSpot Academy) e SEO Fundamentals (Semrush Academy)\n→ [Outro marco seu do ano, profissional ou pessoal]\n\nPara 2027, estou aberto a novas oportunidades como:\n• Gestor de Tráfego / Performance\n• Copywriter ou Redator de Conteúdo (SEO, AEO e GEO)\n• Posições que juntem as duas coisas\n\nTrabalho remoto, para empresas do Brasil e da América Latina, em português e espanhol.\n\nSe você conhece uma vaga ou um projeto que combine com isso, vou adorar conversar. Um comentário ou uma indicação já ajudam muito.\n\nObrigado a quem acompanhou os posts por aqui. Boas festas!\n\n#OpenToWork #MarketingDigital #TrafegoPago #Copywriting #SEO"
+    "n": 17,
+    "date": "2027-01-05",
+    "dia": "Ter 05/01",
+    "tipo": "História",
+    "pronto": false,
+    "titulo": "Um erro que me custou caro (e a lição)",
+    "img": {
+      "tag": "HISTÓRIA",
+      "title": "O erro que mais me ensinou em 7 anos de marketing.",
+      "sub": "E o que eu faço diferente desde então."
+    },
+    "texto": "Para começar 2027, quero falar de erro.\n\nO que mais me ensinou em 7 anos de marketing não foi técnico.\n\n[Conte o que aconteceu, em 2 ou 3 frases. Ex.: uma campanha que gastou a verba no público errado, uma promessa de copy que não se sustentou, um prazo que você aceitou sem poder cumprir.]\n\n[Qual foi a consequência: para o cliente, para o time, para você.]\n\n[Como você resolveu, ou tentou resolver.]\n\nO que eu faço diferente desde então:\n→ [Mudança prática 1]\n→ [Mudança prática 2]\n\nFalar de erro no LinkedIn ainda parece arriscado. Mas eu confio mais em profissionais que sabem contar o que aprenderam do que em quem parece nunca ter errado.\n\nQual foi o erro que mais te ensinou?\n\n#Carreira #MarketingDigital #Aprendizado"
   }
 ]
