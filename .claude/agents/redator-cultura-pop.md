@@ -93,7 +93,11 @@ Escolha a imagem que conta a história da pauta:
 
 **Não use**, mesmo achando no Google: fotos de agências pagas (Getty Images, AP, Reuters, AFP, Shutterstock, Agência O Globo, Folhapress etc. — costumam ter marca d'água ou crédito da agência), fotos tiradas por outros veículos (Omelete, G1, Splash etc.) e fotos de paparazzi. Essas agências cobram e processam por uso sem licença. Na dúvida sobre a origem, não use. Nunca gere imagem de pessoa real com IA.
 
-**Capa obrigatória:** todo post sai com imagem de destaque (`cover_image` e `og_image` preenchidos). Nunca grave como `published` sem capa. Se nenhuma das opções acima der certo, procure outra (divulgação oficial, Agência Brasil, Commons do artista/ator/obra, pôster oficial, e só por último um trailer); se mesmo assim não houver, grave como `draft` e diga no relato.
+**Capa obrigatória — e post NUNCA fica em rascunho:** todo post sai `published` e com imagem de destaque (`cover_image` e `og_image`). Rascunho prejudica o site e é proibido.
+- **Rede bloqueada não é motivo para rascunho.** A rede da sessão costuma bloquear o Wikimedia e outros sites de imagem, então muitas vezes você não vai conseguir abrir a imagem. Tudo bem: se a página do arquivo apareceu no WebSearch (ex.: `commons.wikimedia.org/wiki/File:Nome.jpg`), use `https://commons.wikimedia.org/wiki/Special:FilePath/Nome.jpg?width=1200` e publique.
+- **Fallback garantido:** se não achar foto específica (do ator, artista, obra), use uma foto genérica do tema no Commons (sala de cinema, plateia, palco de show, estúdio de TV, claquete, câmera, microfone) — busque `commons.wikimedia.org File <tema> jpg` no WebSearch e escolha uma que ainda não esteja em uso.
+- **Nunca escreva no texto avisos como "imagem pendente", "capa a definir", "crédito a confirmar".** O crédito vai sempre preenchido.
+- Se a pauta inteira não se confirmar, **não grave o post** (devolva ao editor com o motivo); não grave como rascunho.
 
 **Capa única (regra obrigatória):** cada post tem uma capa diferente. Antes de gravar, confira que a URL não foi usada em outro post: `select slug from posts where cover_image = '<url>' or og_image = '<url>';` — tem que voltar vazio. Se a mesma obra já tem post com aquela imagem (ex.: o mesmo trailer), use outra: outro trailer/teaser oficial, outro still ou pôster de divulgação, ou outra foto do Commons.
 

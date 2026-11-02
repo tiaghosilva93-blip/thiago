@@ -9,6 +9,7 @@
 
 ## Publicação
 
+- **Plano Lovable:** PRO (sem o limite de consultas do plano gratuito).
 - **Status:** direto ao ar. Grave `status = 'published'` com `published_at` = horário do slot (fuso -03:00). O site só mostra o post quando `published_at <= now()`, então isso funciona como agendamento.
 - **Autor:** Thiago Silva — `author_id = '3d19cc74-9716-4c42-a895-21fb5b8b6611'`
 - **Destaque do dia:** só **um** post fica com `is_featured = true` por vez. Ele vira a manchete grande da home; a coluna lateral mostra os mais recentes. Os redatores sempre gravam `is_featured = false`; quem escolhe o destaque é o editor-de-pauta, **uma vez por dia, na execução do slot das 11h**, depois de revisar os posts desse slot.
@@ -89,7 +90,7 @@ Sempre que possível, confirme na fonte oficial (Netflix, Prime Video, Disney+, 
 
 ## Imagens
 
-- **Todo post tem imagem de destaque (obrigatório).** `cover_image` e `og_image` nunca ficam vazios. Post sem capa não é publicado: o redator procura outra imagem válida; se não achar nenhuma, grava como `draft` e relata.
+- **Todo post tem imagem de destaque e sai publicado (obrigatório).** `cover_image` e `og_image` nunca ficam vazios e **nenhum post fica em rascunho** — rascunho prejudica o site. Rede bloqueada não é motivo para rascunho: se a página do arquivo do Commons aparece no WebSearch, a imagem vale. Sem foto específica, use uma foto genérica do tema (sala de cinema, palco, estúdio de TV, claquete, microfone) do Commons. Toda execução faz a faxina: publica qualquer rascunho que encontrar, com capa.
 - **Capas variadas.** Nada de capa de trailer em todo post: no máximo 1 por horário e 1 em cada 4 posts do dia. Prefira foto de divulgação oficial (estúdio, plataforma, emissora, gravadora, artista), Agência Brasil, Commons/Flickr CC. Pode buscar no Google Imagens, mas só usar imagens cuja origem seja uma dessas; nunca Getty/AP/Reuters/AFP/Shutterstock, fotos de outros veículos ou de paparazzi.
 - **Cada post, uma capa diferente.** Nunca repetir `cover_image` de outro post. Conferir com `select slug from posts where cover_image = '<url>';` antes de gravar.
 
