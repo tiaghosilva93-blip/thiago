@@ -8,29 +8,15 @@ import { Icon } from './components/ui';
 import { DateRangePicker } from './components/DateRangePicker';
 import Overview from './components/tabs/Overview';
 import Campaigns from './components/tabs/Campaigns';
-import Creatives from './components/tabs/Creatives';
-import Funnel from './components/tabs/Funnel';
-import Audience from './components/tabs/Audience';
-import Quality from './components/tabs/Quality';
-import Trends from './components/tabs/Trends';
-import Alerts from './components/tabs/Alerts';
-import SettingsTab from './components/tabs/SettingsTab';
 
-type Tab = 'overview' | 'campaigns' | 'creatives' | 'funnel' | 'audience' | 'quality' | 'trends' | 'alerts' | 'settings';
+type Tab = 'overview' | 'campaigns';
 type Screen = 'geral' | 'taquara' | 'meier';
 
 const TAB_LABEL: Record<Tab, string> = {
   overview: 'Visão Geral',
   campaigns: 'Campanhas',
-  creatives: 'Criativos',
-  funnel: 'Funil',
-  audience: 'Audiências',
-  quality: 'Qualidade de Leads',
-  trends: 'Tendências',
-  alerts: 'Alertas & Insights',
-  settings: 'Configurações',
 };
-const TAB_ORDER: Tab[] = ['overview', 'campaigns', 'creatives', 'funnel', 'audience', 'quality', 'trends', 'alerts', 'settings'];
+const TAB_ORDER: Tab[] = ['overview', 'campaigns'];
 
 const SCREEN_LABEL: Record<Screen, string> = { geral: 'Geral', taquara: 'Taquara', meier: 'Méier' };
 const SCREEN_UNIT: Record<Screen, 'all' | 'Méier' | 'Taquara'> = { geral: 'all', taquara: 'Taquara', meier: 'Méier' };
@@ -44,7 +30,7 @@ export default function Page() {
   const [screen, setScreen] = useState<Screen>('geral');
   const [vertente, setVertente] = useState<string>('all');
   const [range, setRange] = useState<DateRange | null>(null);
-  const { settings, update, reset, ready } = useSettings();
+  const { settings } = useSettings();
 
   const load = useCallback(async () => {
     try {
@@ -139,13 +125,6 @@ export default function Page() {
         <>
           {tab === 'overview' && <Overview data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
           {tab === 'campaigns' && <Campaigns data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
-          {tab === 'creatives' && <Creatives data={data} settings={settings} unit={unit} vertente={vertente} />}
-          {tab === 'funnel' && <Funnel data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
-          {tab === 'audience' && <Audience data={data} settings={settings} unit={unit} vertente={vertente} />}
-          {tab === 'quality' && <Quality data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
-          {tab === 'trends' && <Trends data={data} unit={unit} vertente={vertente} />}
-          {tab === 'alerts' && <Alerts data={data} settings={settings} unit={unit} vertente={vertente} />}
-          {tab === 'settings' && <SettingsTab settings={settings} update={update} reset={reset} />}
         </>
       )}
 

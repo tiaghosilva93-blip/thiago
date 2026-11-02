@@ -2,9 +2,9 @@
 
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { DateRange, comparisonRangeFor, addDays, fmtBRL, fmtInt, fmtCPL, KIND_COLOR, simplifyCampaignName } from '../../lib/format';
-import { campaignMetricsForRange, sumDaily, topBottomByCPL, campaignHealth, round2, cplOf, filterCampaigns } from '../../lib/metrics';
-import { KpiCard, Delta, TrendArea, Donut, HealthPill, EstimateBadge, RankList } from '../ui';
+import { DateRange, comparisonRangeFor, addDays, fmtBRL, fmtInt, fmtCPL } from '../../lib/format';
+import { campaignMetricsForRange, sumDaily, campaignHealth, round2, cplOf, filterCampaigns } from '../../lib/metrics';
+import { KpiCard, Delta, TrendArea, EstimateBadge } from '../ui';
 
 export default function Overview({ data, settings, range, unit, vertente }: { data: ApiData; settings: Settings; range: DateRange; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
   const activeCampaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
@@ -49,20 +49,6 @@ export default function Overview({ data, settings, range, unit, vertente }: { da
     return out;
   }, [data, range.start, range.end, activeIds]);
 
-  const creativesStats = useMemo(() => {
-    let total = 0, activeCount = 0, video = 0, image = 0;
-    const byKind = new Map<string, number>();
-    for (const row of data.creatives) {
-      if (!activeIds.has(row.campaign_id)) continue;
-      total++;
-      if (row.ad_status === 'ACTIVE') activeCount++;
-      if (row.format === 'Vídeo') video++; else image++;
-      byKind.set(row.kind, (byKind.get(row.kind) || 0) + 1);
-    }
-    const kindSegments = Array.from(byKind.entries()).map(([label, value]) => ({ label, value, color: KIND_COLOR[label] || KIND_COLOR.Outro }));
-    return { total, activeCount, video, image, kindSegments };
-  }, [data, activeIds]);
-
   const statusCounts = useMemo(() => {
     let ok = 0, learning = 0, alert = 0;
     for (const m of metrics) {
@@ -71,8 +57,6 @@ export default function Overview({ data, settings, range, unit, vertente }: { da
     }
     return { ok, learning, alert };
   }, [metrics, settings, data.generated_at]);
-
-  const ranking = useMemo(() => topBottomByCPL(metrics.map((m) => ({ name: simplifyCampaignName(m), cpl: m.cpl, leads: m.leads })), 5), [metrics]);
 
   const todayPacing = useMemo(() => {
     let spent = 0;
@@ -104,32 +88,15 @@ export default function Overview({ data, settings, range, unit, vertente }: { da
           sub={`${fmtBRL(todayPacing.spent)} de ${fmtBRL(todayPacing.budget)}`} />
       </div>
 
-      <div className="panel-grid">
-        <div className="panel wide">
-          <div className="panel-head">
-            <h3>Leads &amp; CPL</h3>
-            <span className="panel-sub">{trendRows.length} dia(s){unit !== 'all' ? ` · ${unit}` : ''}</span>
-          </div>
-          <TrendArea rows={trendRows} series={[
-            { key: 'leads', color: '#36d1a8', label: 'Leads', values: trendRows.map((r) => r.leads) },
-            { key: 'cpl', color: '#ffc857', label: 'CPL (R$)', values: trendRows.map((r) => r.cpl) },
-          ]} />
+      <div className="panel">
+        <div className="panel-head">
+          <h3>Leads &amp; CPL</h3>
+          <span className="panel-sub">{trendRows.length} dia(s){unit !== 'all' ? ` · ${unit}` : ''}</span>
         </div>
-        <div className="panel">
-          <div className="panel-head"><h3>Criativos por tipo</h3><span className="panel-sub">campanhas ativas</span></div>
-          <Donut segments={creativesStats.kindSegments} centerValue={String(creativesStats.total)} centerLabel="criativos" />
-        </div>
-      </div>
-
-      <div className="panel-grid two">
-        <div className="panel">
-          <div className="panel-head"><h3>Top 5 melhores · CPL</h3></div>
-          <RankList title="" rows={ranking.best.map((r) => ({ label: r.name, value: r.cpl as number }))} color="#36d1a8" valueFmt={fmtCPL as any} />
-        </div>
-        <div className="panel">
-          <div className="panel-head"><h3>Top 5 piores · CPL</h3></div>
-          <RankList title="" rows={ranking.worst.map((r) => ({ label: r.name, value: r.cpl as number }))} color="#ff5d6c" valueFmt={fmtCPL as any} />
-        </div>
+        <TrendArea rows={trendRows} series={[
+          { key: 'leads', color: '#36d1a8', label: 'Leads', values: trendRows.map((r) => r.leads) },
+          { key: 'cpl', color: '#ffc857', label: 'CPL (R$)', values: trendRows.map((r) => r.cpl) },
+        ]} />
       </div>
     </section>
   );
