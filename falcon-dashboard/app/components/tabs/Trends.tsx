@@ -3,15 +3,11 @@
 import { useMemo } from 'react';
 import { ApiData } from '../../lib/types';
 import { fmtBRL, fmtInt, fmtCPL } from '../../lib/format';
-import { longTermDaily, weekOverWeek, monthOverMonth, seasonalityByWeekday } from '../../lib/metrics';
+import { longTermDaily, weekOverWeek, monthOverMonth, seasonalityByWeekday, filterCampaigns } from '../../lib/metrics';
 import { TrendArea, Delta, Bar } from '../ui';
 
-export default function Trends({ data, unit }: { data: ApiData; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const campaigns = useMemo(() => {
-    let rows = data.campaigns;
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Trends({ data, unit, vertente }: { data: ApiData; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const campaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente, false), [data, unit, vertente]);
   const ids = useMemo(() => new Set(campaigns.map((c) => c.id)), [campaigns]);
 
   const longTerm = useMemo(() => longTermDaily(data.daily, ids, data.today, 90), [data, ids]);

@@ -49,6 +49,10 @@ export type CampaignMetric = Campaign & {
 
 export function campaignMetricsForPeriod(data: ApiData, campaigns: Campaign[], period: Period): CampaignMetric[] {
   const [start, end] = periodRange(period, data.today);
+  return campaignMetricsForRange(data, campaigns, start, end);
+}
+
+export function campaignMetricsForRange(data: ApiData, campaigns: Campaign[], start: string, end: string): CampaignMetric[] {
   const byCampaign = perCampaignInRange(data.daily, start, end);
   const adsetsByCampaign = new Map<string, AdSet[]>();
   for (const a of data.adsets) {
@@ -83,6 +87,13 @@ export function campaignMetricsForPeriod(data: ApiData, campaigns: Campaign[], p
       adsets: adsetsByCampaign.get(c.id) || [],
     };
   });
+}
+
+export function filterCampaigns(campaigns: Campaign[], unit: string, vertente: string, onlyActive = true): Campaign[] {
+  let rows = onlyActive ? campaigns.filter((c) => c.status === 'ACTIVE') : campaigns;
+  if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
+  if (vertente !== 'all') rows = rows.filter((c) => c.kind === vertente);
+  return rows;
 }
 
 export type Health = 'ok' | 'learning' | 'alert';

@@ -2,18 +2,14 @@
 
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { Period, periodRange, fmtBRL, fmtInt, fmtCPL } from '../../lib/format';
-import { campaignMetricsForPeriod, cplOf, round2, topBottomByCPL } from '../../lib/metrics';
+import { DateRange, fmtBRL, fmtInt, fmtCPL, simplifyCampaignName } from '../../lib/format';
+import { campaignMetricsForRange, cplOf, round2, topBottomByCPL, filterCampaigns } from '../../lib/metrics';
 import { KpiCard, Donut, EstimateBadge, RankList, Icon } from '../ui';
 
-export default function Quality({ data, settings, period, unit }: { data: ApiData; settings: Settings; period: Period; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const campaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Quality({ data, settings, range, unit, vertente }: { data: ApiData; settings: Settings; range: DateRange; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const campaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
 
-  const metrics = useMemo(() => campaignMetricsForPeriod(data, campaigns, period), [data, campaigns, period]);
+  const metrics = useMemo(() => campaignMetricsForRange(data, campaigns, range.start, range.end), [data, campaigns, range.start, range.end]);
 
   const totals = useMemo(() => {
     const leads = metrics.reduce((s, c) => s + c.leads, 0);
@@ -27,14 +23,14 @@ export default function Quality({ data, settings, period, unit }: { data: ApiDat
     return metrics
       .filter((c) => c.leads > 0)
       .map((c) => ({
-        name: c.name, leads: c.leads,
+        id: c.id, name: simplifyCampaignName(c), leads: c.leads,
         qualified: Math.round(c.leads * (settings.qualificationRate / 100)),
         cpl: c.cpl, cplQualified: cplOf(c.spend, Math.round(c.leads * (settings.qualificationRate / 100))),
       }))
       .sort((a, b) => b.leads - a.leads);
   }, [metrics, settings]);
 
-  const bestSource = useMemo(() => topBottomByCPL(metrics.map((m) => ({ name: m.name, cpl: m.cpl, leads: m.leads })), 5).best, [metrics]);
+  const bestSource = useMemo(() => topBottomByCPL(metrics.map((m) => ({ name: simplifyCampaignName(m), cpl: m.cpl, leads: m.leads })), 5).best, [metrics]);
 
   return (
     <section className="wrap main-col">
@@ -70,7 +66,7 @@ export default function Quality({ data, settings, period, unit }: { data: ApiDat
             <thead><tr><th>Campanha</th><th>Leads</th><th>Qualificados (est.)</th><th>CPL</th><th>CPL qualificado (est.)</th></tr></thead>
             <tbody>
               {byCampaignQuality.map((r) => (
-                <tr key={r.name}>
+                <tr key={r.id}>
                   <td>{r.name}</td>
                   <td>{fmtInt(r.leads)}</td>
                   <td>{fmtInt(r.qualified)}</td>

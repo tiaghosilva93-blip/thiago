@@ -3,17 +3,13 @@
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
 import { fmtBRL, fmtInt, fmtCPL, fmtPct, placementLabel, DEVICE_LABEL } from '../../lib/format';
-import { aggBreakdown, audienceTypeAgg, round2, cplOf, ctrOf } from '../../lib/metrics';
+import { aggBreakdown, audienceTypeAgg, round2, cplOf, ctrOf, filterCampaigns } from '../../lib/metrics';
 import { Bar, Chip } from '../ui';
 
 const GENDER_LABEL: Record<string, string> = { male: 'Masculino', female: 'Feminino', unknown: 'Não informado' };
 
-export default function Audience({ data, unit }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const campaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Audience({ data, unit, vertente }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const campaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
   const ids = useMemo(() => new Set(campaigns.map((c) => c.id)), [campaigns]);
 
   const ageGender = useMemo(() => aggBreakdown(data.demographics, ids, (r) => `${r.age}|${r.gender}`).sort((a, b) => b.spend - a.spend), [data, ids]);

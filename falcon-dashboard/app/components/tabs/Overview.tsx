@@ -2,20 +2,16 @@
 
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { Period, PERIOD_LABEL, periodRange, previousPeriodRange, addDays, fmtBRL, fmtInt, fmtCPL, KIND_COLOR } from '../../lib/format';
-import { campaignMetricsForPeriod, sumDaily, topBottomByCPL, campaignHealth, round2, cplOf } from '../../lib/metrics';
-import { KpiCard, Delta, TrendArea, Donut, UnitBars, HealthPill, EstimateBadge, RankList } from '../ui';
+import { DateRange, comparisonRangeFor, addDays, fmtBRL, fmtInt, fmtCPL, KIND_COLOR, simplifyCampaignName } from '../../lib/format';
+import { campaignMetricsForRange, sumDaily, topBottomByCPL, campaignHealth, round2, cplOf, filterCampaigns } from '../../lib/metrics';
+import { KpiCard, Delta, TrendArea, Donut, HealthPill, EstimateBadge, RankList } from '../ui';
 
-export default function Overview({ data, settings, period, unit }: { data: ApiData; settings: Settings; period: Period; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const activeCampaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Overview({ data, settings, range, unit, vertente }: { data: ApiData; settings: Settings; range: DateRange; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const activeCampaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
 
   const activeIds = useMemo(() => new Set(activeCampaigns.map((c) => c.id)), [activeCampaigns]);
 
-  const metrics = useMemo(() => campaignMetricsForPeriod(data, activeCampaigns, period), [data, activeCampaigns, period]);
+  const metrics = useMemo(() => campaignMetricsForRange(data, activeCampaigns, range.start, range.end), [data, activeCampaigns, range.start, range.end]);
 
   const kpis = useMemo(() => {
     const spend = metrics.reduce((s, c) => s + c.spend, 0);
@@ -28,33 +24,15 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
   }, [metrics, settings.qualificationRate]);
 
   const prevKpis = useMemo(() => {
-    const [start, end] = previousPeriodRange(period, data.today);
+    const [start, end] = comparisonRangeFor(range.start, range.end);
     return sumDaily(data.daily, activeIds, start, end);
-  }, [data, activeIds, period]);
-
-  const byUnit = useMemo(() => {
-    const [start, end] = periodRange(period, data.today);
-    const activeAll = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    const byCampaign = new Map<string, { spend: number; leads: number }>();
-    for (const r of data.daily) {
-      if (r.date < start || r.date > end) continue;
-      const cur = byCampaign.get(r.campaign_id) || { spend: 0, leads: 0 };
-      cur.spend += r.spend; cur.leads += r.leads;
-      byCampaign.set(r.campaign_id, cur);
-    }
-    return ['Méier', 'Taquara'].map((u) => {
-      const sub = activeAll.filter((c) => c.unit === u);
-      let spend = 0, leads = 0;
-      for (const c of sub) { const a = byCampaign.get(c.id); if (a) { spend += a.spend; leads += a.leads; } }
-      return { unit: u, spend: round2(spend), leads };
-    });
-  }, [data, period]);
+  }, [data, activeIds, range.start, range.end]);
 
   const trendRows = useMemo(() => {
-    const days = period === '30d' ? 30 : 7;
-    const end = data.today;
+    const start = range.start, end = range.end;
+    const d1 = new Date(start + 'T00:00:00'), d2 = new Date(end + 'T00:00:00');
+    const days = Math.max(1, Math.round((d2.getTime() - d1.getTime()) / 86400000) + 1);
     const byDate = new Map<string, { spend: number; leads: number; cpl: number }>();
-    const start = addDays(end, -(days - 1));
     for (const r of data.daily) {
       if (r.date < start || r.date > end) continue;
       if (!activeIds.has(r.campaign_id)) continue;
@@ -69,7 +47,7 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
       out.push({ date: d, spend: round2(r.spend), leads: r.leads, cpl: r.leads ? round2(r.spend / r.leads) : 0 });
     }
     return out;
-  }, [data, period, activeIds]);
+  }, [data, range.start, range.end, activeIds]);
 
   const creativesStats = useMemo(() => {
     let total = 0, activeCount = 0, video = 0, image = 0;
@@ -94,7 +72,7 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
     return { ok, learning, alert };
   }, [metrics, settings, data.generated_at]);
 
-  const ranking = useMemo(() => topBottomByCPL(metrics.map((m) => ({ name: m.name, cpl: m.cpl, leads: m.leads })), 5), [metrics]);
+  const ranking = useMemo(() => topBottomByCPL(metrics.map((m) => ({ name: simplifyCampaignName(m), cpl: m.cpl, leads: m.leads })), 5), [metrics]);
 
   const todayPacing = useMemo(() => {
     let spent = 0;
@@ -109,13 +87,13 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
   return (
     <section className="wrap main-col">
       <div className="kpi-grid">
-        <KpiCard glow="#36d1a8" icon="users" title={`Leads · ${PERIOD_LABEL[period]}`} value={fmtInt(kpis.leads)}>
+        <KpiCard glow="#36d1a8" icon="users" title="Leads" value={fmtInt(kpis.leads)}>
           <Delta curr={kpis.leads} prev={prevKpis.leads} />
         </KpiCard>
-        <KpiCard glow="#ffc857" icon="target" title={`CPL médio · ${PERIOD_LABEL[period]}`} value={fmtCPL(kpis.cpl)}>
+        <KpiCard glow="#ffc857" icon="target" title="CPL médio" value={fmtCPL(kpis.cpl)}>
           {kpis.cpl !== null && prevKpis.cpl !== null ? <Delta curr={kpis.cpl} prev={prevKpis.cpl} invert /> : <span className="delta flat">sem leads suficientes</span>}
         </KpiCard>
-        <KpiCard glow="#ff7900" icon="wallet" title={`Investimento · ${PERIOD_LABEL[period]}`} value={fmtBRL(kpis.spend)}>
+        <KpiCard glow="#ff7900" icon="wallet" title="Investimento" value={fmtBRL(kpis.spend)}>
           <Delta curr={kpis.spend} prev={prevKpis.spend} />
         </KpiCard>
         <KpiCard glow="#ff5d8f" icon="target" title="CPL de lead qualificado" value={fmtCPL(kpis.cplQualified)}
@@ -130,7 +108,7 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
         <div className="panel wide">
           <div className="panel-head">
             <h3>Leads &amp; CPL</h3>
-            <span className="panel-sub">últimos {period === '30d' ? 30 : 7} dias{unit !== 'all' ? ` · ${unit}` : ''}</span>
+            <span className="panel-sub">{trendRows.length} dia(s){unit !== 'all' ? ` · ${unit}` : ''}</span>
           </div>
           <TrendArea rows={trendRows} series={[
             { key: 'leads', color: '#36d1a8', label: 'Leads', values: trendRows.map((r) => r.leads) },
@@ -141,27 +119,15 @@ export default function Overview({ data, settings, period, unit }: { data: ApiDa
           <div className="panel-head"><h3>Criativos por tipo</h3><span className="panel-sub">campanhas ativas</span></div>
           <Donut segments={creativesStats.kindSegments} centerValue={String(creativesStats.total)} centerLabel="criativos" />
         </div>
-        <div className="panel">
-          <div className="panel-head"><h3>Investimento por unidade</h3><span className="panel-sub">{PERIOD_LABEL[period]}</span></div>
-          <UnitBars rows={byUnit} />
-        </div>
       </div>
 
       <div className="panel-grid two">
         <div className="panel">
-          <div className="panel-head"><h3>Status das campanhas</h3><span className="panel-sub">visão rápida</span></div>
-          <div className="status-row-list">
-            <div className="status-row-item"><HealthPill state="ok" /><span>{statusCounts.ok} campanha(s) dentro da meta</span></div>
-            <div className="status-row-item"><HealthPill state="learning" /><span>{statusCounts.learning} campanha(s) em fase de aprendizado</span></div>
-            <div className="status-row-item"><HealthPill state="alert" /><span>{statusCounts.alert} campanha(s) com alerta (CPL/frequência)</span></div>
-          </div>
-        </div>
-        <div className="panel">
-          <div className="panel-head"><h3>Top 5 melhores · CPL</h3><span className="panel-sub">{PERIOD_LABEL[period]}</span></div>
+          <div className="panel-head"><h3>Top 5 melhores · CPL</h3></div>
           <RankList title="" rows={ranking.best.map((r) => ({ label: r.name, value: r.cpl as number }))} color="#36d1a8" valueFmt={fmtCPL as any} />
         </div>
         <div className="panel">
-          <div className="panel-head"><h3>Top 5 piores · CPL</h3><span className="panel-sub">{PERIOD_LABEL[period]}</span></div>
+          <div className="panel-head"><h3>Top 5 piores · CPL</h3></div>
           <RankList title="" rows={ranking.worst.map((r) => ({ label: r.name, value: r.cpl as number }))} color="#ff5d6c" valueFmt={fmtCPL as any} />
         </div>
       </div>

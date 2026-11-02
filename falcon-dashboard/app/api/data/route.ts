@@ -17,7 +17,9 @@ function classify(name: string) {
   let kind = 'Outro';
   if (n.includes('ALCANCE')) kind = 'Alcance';
   else if (n.includes('BOLS')) kind = 'Bolsão';
-  else if (n.includes('KIDS') || n.includes('CONVIV')) kind = 'Kids';
+  else if (n.includes('COLEGIO') || n.includes('COLÉGIO')) kind = 'Colégio';
+  else if (n.includes('CONVIV')) kind = 'Convivendo';
+  else if (n.includes('KIDS')) kind = 'Kids';
   else if (n.includes('CONCURSO') || n.includes('MILITAR')) kind = 'Concurso';
   else if (n.includes('RODRIGO')) kind = 'Institucional';
 

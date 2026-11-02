@@ -2,16 +2,12 @@
 
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { fmtCPL, fmtInt } from '../../lib/format';
-import { campaignMetricsForPeriod, adMetrics, fatigueByAd, computeAlerts, weekOverWeek, topBottomByCPL } from '../../lib/metrics';
+import { fmtCPL, fmtInt, simplifyCampaignName } from '../../lib/format';
+import { campaignMetricsForPeriod, adMetrics, fatigueByAd, computeAlerts, weekOverWeek, topBottomByCPL, filterCampaigns } from '../../lib/metrics';
 import { AlertCard, Icon } from '../ui';
 
-export default function Alerts({ data, settings, unit }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const campaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Alerts({ data, settings, unit, vertente }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const campaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
   const ids = useMemo(() => new Set(campaigns.map((c) => c.id)), [campaigns]);
 
   const metrics30 = useMemo(() => campaignMetricsForPeriod(data, campaigns, '30d'), [data, campaigns]);
@@ -20,7 +16,7 @@ export default function Alerts({ data, settings, unit }: { data: ApiData; settin
   const alerts = useMemo(() => computeAlerts(data, metrics30, adM, fatigue, settings, data.generated_at), [data, metrics30, adM, fatigue, settings]);
 
   const wow = useMemo(() => weekOverWeek(data.daily, ids, data.today), [data, ids]);
-  const ranking = useMemo(() => topBottomByCPL(metrics30.map((m) => ({ name: m.name, cpl: m.cpl, leads: m.leads })), 1), [metrics30]);
+  const ranking = useMemo(() => topBottomByCPL(metrics30.map((m) => ({ name: simplifyCampaignName(m), cpl: m.cpl, leads: m.leads })), 1), [metrics30]);
 
   const insights = useMemo(() => {
     const list: string[] = [];

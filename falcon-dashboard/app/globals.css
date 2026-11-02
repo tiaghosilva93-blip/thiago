@@ -420,3 +420,56 @@ table.datatable tbody tr:hover { background: rgba(255,255,255,0.03); }
   .segment-bar-row { grid-template-columns: 6rem 1fr; }
   .compare-row { grid-template-columns: 4.5rem 4.5rem 1fr; }
 }
+
+/* ======================================================================
+   V2: vertente filter, unit screens, Ads-Manager-style date picker
+   ====================================================================== */
+
+.screen-tabs { display: inline-flex; gap: 2px; padding: 3px; background: rgba(255,255,255,0.04); border: 1px solid var(--border); border-radius: 999px; }
+.screen-tabs button { font-size: 13px; font-weight: 700; background: none; border: none; color: var(--muted); cursor: pointer; padding: 8px 18px; border-radius: 999px; transition: all .15s; }
+.screen-tabs button[data-active="true"] { color: #0a0d1f; background: linear-gradient(135deg, var(--orange), #ffb15c); box-shadow: 0 2px 10px rgba(255,121,0,.4); }
+
+.vertente-filter { display: inline-flex; gap: 2px; padding: 3px; background: rgba(255,255,255,0.04); border: 1px solid var(--border); border-radius: 999px; flex-wrap: wrap; }
+.vertente-filter button { font-size: 12.5px; font-weight: 600; background: none; border: none; color: var(--muted); cursor: pointer; padding: 7px 14px; border-radius: 999px; transition: all .15s; white-space: nowrap; }
+.vertente-filter button[data-active="true"] { color: #0a0d1f; background: linear-gradient(135deg, #4fa3ff, #7fc1ff); }
+
+/* date range picker (Ads Manager style) */
+.date-picker-wrap { position: relative; }
+.date-picker-trigger {
+  display: inline-flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; color: var(--text);
+  background: rgba(255,255,255,0.04); border: 1px solid var(--border); border-radius: 999px; padding: 9px 16px; cursor: pointer;
+}
+.date-picker-trigger:hover { background: rgba(255,255,255,0.08); }
+.date-picker-pop {
+  position: absolute; top: calc(100% + 8px); right: 0; z-index: 30; display: flex; background: var(--panel-solid);
+  border: 1px solid var(--border); border-radius: 16px; box-shadow: 0 24px 60px -20px rgba(0,0,0,.6); overflow: hidden; width: min(30rem, 92vw);
+}
+.date-picker-presets { display: flex; flex-direction: column; padding: .6rem; gap: 1px; width: 11.5rem; flex-shrink: 0; border-right: 1px solid var(--border); max-height: 22rem; overflow-y: auto; }
+.date-picker-presets .dp-section-label { font-size: 10px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; padding: 8px 10px 4px; }
+.date-picker-presets button {
+  display: flex; align-items: center; gap: 8px; text-align: left; font-size: 13px; color: var(--text); background: none; border: none;
+  padding: 8px 10px; border-radius: 8px; cursor: pointer;
+}
+.date-picker-presets button:hover { background: rgba(255,255,255,0.05); }
+.date-picker-presets button[data-active="true"] { background: rgba(255,121,0,.14); color: var(--orange); font-weight: 700; }
+.dp-radio { width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--muted); flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; }
+.dp-radio.on { border-color: var(--orange); }
+.dp-radio.on::after { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--orange); }
+.date-picker-body { padding: 1rem; display: flex; flex-direction: column; gap: .85rem; flex: 1; min-width: 0; }
+.dp-range-label { font-size: 13px; font-weight: 700; color: #fff; }
+.dp-range-sub { font-size: 12px; color: var(--muted); }
+.dp-compare-row { display: flex; align-items: center; gap: 8px; font-size: 12.5px; color: var(--text); padding-top: .5rem; border-top: 1px solid var(--border); }
+.dp-check { width: 16px; height: 16px; border-radius: 4px; border: 2px solid var(--muted); flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; }
+.dp-check.on { background: var(--orange); border-color: var(--orange); }
+.dp-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: auto; padding-top: .5rem; }
+
+/* ---- creative lightbox performance panel ---- */
+.lb-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr)); gap: 10px; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); }
+.lb-stat { display: flex; flex-direction: column; gap: 2px; }
+.lb-stat-label { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.lb-stat-value { font-size: 15px; font-weight: 800; color: #fff; font-variant-numeric: tabular-nums; }
+
+@media (max-width: 640px) {
+  .date-picker-pop { flex-direction: column; width: 92vw; right: -2.5rem; }
+  .date-picker-presets { flex-direction: row; flex-wrap: wrap; width: auto; border-right: none; border-bottom: 1px solid var(--border); max-height: none; }
+}

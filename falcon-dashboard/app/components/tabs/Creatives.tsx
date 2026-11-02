@@ -2,12 +2,12 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import { ApiData, Settings, Creative } from '../../lib/types';
-import { imgProxy, fmtBRL, fmtInt, fmtCPL, fmtPct, fmtFreq, KIND_COLOR } from '../../lib/format';
-import { adMetrics, fatigueByAd, sparklineForAd, topBottomByCPL } from '../../lib/metrics';
+import { imgProxy, fmtBRL, fmtInt, fmtCPL, fmtPct, fmtFreq, KIND_COLOR, simplifyCampaignName } from '../../lib/format';
+import { adMetrics, fatigueByAd, sparklineForAd, topBottomByCPL, filterCampaigns, AdMetric } from '../../lib/metrics';
 import { Chip, StatusPill, Icon, Sparkline, RankList } from '../ui';
 
-export default function Creatives({ data, settings, unit }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const [lightbox, setLightbox] = useState<{ ad: Creative; group: { name: string } } | null>(null);
+export default function Creatives({ data, settings, unit, vertente }: { data: ApiData; settings: Settings; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const [lightbox, setLightbox] = useState<{ ad: Creative; group: { name: string }; m: AdMetric | undefined } | null>(null);
 
   useEffect(() => {
     if (!lightbox) return;
@@ -16,25 +16,27 @@ export default function Creatives({ data, settings, unit }: { data: ApiData; set
     return () => window.removeEventListener('keydown', onKey);
   }, [lightbox]);
 
-  const activeCampaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+  const activeCampaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
   const activeIds = useMemo(() => new Set(activeCampaigns.map((c) => c.id)), [activeCampaigns]);
 
   const adMetricMap = useMemo(() => new Map(adMetrics(data, activeIds).map((m) => [m.ad_id, m])), [data, activeIds]);
   const fatigueMap = useMemo(() => fatigueByAd(data, settings), [data, settings]);
 
+  const campaignByIdMap = useMemo(() => new Map(data.campaigns.map((c) => [c.id, c])), [data]);
+
   const creativeGroups = useMemo(() => {
-    const map = new Map<string, { name: string; status: string; unit: string; kind: string; rows: Creative[] }>();
+    const map = new Map<string, { id: string; name: string; status: string; unit: string; kind: string; rows: Creative[] }>();
     for (const row of data.creatives) {
       if (!activeIds.has(row.campaign_id)) continue;
-      if (!map.has(row.campaign_id)) map.set(row.campaign_id, { name: row.campaign_name, status: row.campaign_status, unit: row.unit, kind: row.kind, rows: [] });
+      if (!map.has(row.campaign_id)) {
+        const c = campaignByIdMap.get(row.campaign_id);
+        const label = c ? simplifyCampaignName(c) : row.campaign_name;
+        map.set(row.campaign_id, { id: row.campaign_id, name: label, status: row.campaign_status, unit: row.unit, kind: row.kind, rows: [] });
+      }
       map.get(row.campaign_id)!.rows.push(row);
     }
     return Array.from(map.values());
-  }, [data, activeIds]);
+  }, [data, activeIds, campaignByIdMap]);
 
   const ranking = useMemo(() => {
     const rows = data.creatives
@@ -58,7 +60,7 @@ export default function Creatives({ data, settings, unit }: { data: ApiData; set
 
       <div className="panel">
         {creativeGroups.map((grp) => (
-          <div className="creatives-group" key={grp.name}>
+          <div className="creatives-group" key={grp.id}>
             <h3>{grp.name}</h3>
             <div className="ad-grid">
               {grp.rows.map((ad) => {
@@ -68,7 +70,7 @@ export default function Creatives({ data, settings, unit }: { data: ApiData; set
                 const fat = fatigueMap.get(ad.ad_id);
                 const spark = sparklineForAd(data, ad.ad_id, 'ctr');
                 return (
-                  <div className="ad-card" key={ad.ad_id} onClick={() => setLightbox({ ad, group: { name: grp.name } })}>
+                  <div className="ad-card" key={ad.ad_id} onClick={() => setLightbox({ ad, group: { name: grp.name }, m })}>
                     <div className="thumb-wrap">
                       {proxiedThumb && <img src={proxiedThumb} alt={ad.ad_name} loading="lazy" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />}
                       {isVideo && <div className="play-badge"><Icon name="play" /></div>}
@@ -128,6 +130,13 @@ export default function Creatives({ data, settings, unit }: { data: ApiData; set
               {lightbox.ad.format === 'Vídeo' && lightbox.ad.video_embed_url && lightbox.ad.video_permalink && (
                 <a className="lb-fb-link" href={lightbox.ad.video_permalink} target="_blank" rel="noopener noreferrer">Abrir no Facebook ↗</a>
               )}
+              <div className="lb-stats">
+                <div className="lb-stat"><span className="lb-stat-label">Leads</span><span className="lb-stat-value">{lightbox.m ? fmtInt(lightbox.m.leads) : '—'}</span></div>
+                <div className="lb-stat"><span className="lb-stat-label">CPL</span><span className="lb-stat-value">{lightbox.m ? fmtCPL(lightbox.m.cpl) : '—'}</span></div>
+                <div className="lb-stat"><span className="lb-stat-label">Investimento</span><span className="lb-stat-value">{lightbox.m ? fmtBRL(lightbox.m.spend) : '—'}</span></div>
+                <div className="lb-stat"><span className="lb-stat-label">CTR</span><span className="lb-stat-value">{lightbox.m ? fmtPct(lightbox.m.ctr) : '—'}</span></div>
+              </div>
+              <p className="empty-note" style={{ paddingTop: 2 }}>Dados dos últimos 30 dias.</p>
             </div>
           </div>
         </div>

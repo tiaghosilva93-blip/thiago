@@ -1,10 +1,11 @@
 'use client';
 
 import { useCallback, useEffect, useState } from 'react';
-import { ApiData } from './lib/types';
-import { Period, PERIOD_LABEL } from './lib/format';
+import { ApiData, UNIT_VERTENTES } from './lib/types';
+import { DateRange, rangeForPreset, DatePreset } from './lib/format';
 import { useSettings } from './lib/settings';
 import { Icon } from './components/ui';
+import { DateRangePicker } from './components/DateRangePicker';
 import Overview from './components/tabs/Overview';
 import Campaigns from './components/tabs/Campaigns';
 import Creatives from './components/tabs/Creatives';
@@ -16,6 +17,7 @@ import Alerts from './components/tabs/Alerts';
 import SettingsTab from './components/tabs/SettingsTab';
 
 type Tab = 'overview' | 'campaigns' | 'creatives' | 'funnel' | 'audience' | 'quality' | 'trends' | 'alerts' | 'settings';
+type Screen = 'geral' | 'taquara' | 'meier';
 
 const TAB_LABEL: Record<Tab, string> = {
   overview: 'Visão Geral',
@@ -30,14 +32,18 @@ const TAB_LABEL: Record<Tab, string> = {
 };
 const TAB_ORDER: Tab[] = ['overview', 'campaigns', 'creatives', 'funnel', 'audience', 'quality', 'trends', 'alerts', 'settings'];
 
+const SCREEN_LABEL: Record<Screen, string> = { geral: 'Geral', taquara: 'Taquara', meier: 'Méier' };
+const SCREEN_UNIT: Record<Screen, 'all' | 'Méier' | 'Taquara'> = { geral: 'all', taquara: 'Taquara', meier: 'Méier' };
+
 export default function Page() {
   const [data, setData] = useState<ApiData | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
   const [tab, setTab] = useState<Tab>('overview');
-  const [period, setPeriod] = useState<Period>('7d');
-  const [unit, setUnit] = useState<'all' | 'Méier' | 'Taquara'>('all');
+  const [screen, setScreen] = useState<Screen>('geral');
+  const [vertente, setVertente] = useState<string>('all');
+  const [range, setRange] = useState<DateRange | null>(null);
   const { settings, update, reset, ready } = useSettings();
 
   const load = useCallback(async () => {
@@ -48,16 +54,29 @@ export default function Page() {
       if (json.error) throw new Error(json.error);
       setData(json);
       setError(null);
+      setRange((prev) => {
+        if (prev) return prev;
+        const preset = (settings.defaultPeriod as DatePreset) || '7d';
+        const [s, e] = rangeForPreset(preset, json.today);
+        return { preset, start: s, end: e, compare: false };
+      });
     } catch (e: any) {
       setError(e?.message || 'Falha ao carregar dados.');
     } finally {
       setLoading(false);
       setRefreshing(false);
     }
-  }, []);
+  }, [settings.defaultPeriod]);
 
   useEffect(() => { load(); }, [load]);
-  useEffect(() => { if (ready) setPeriod(settings.defaultPeriod); }, [ready]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const unit = SCREEN_UNIT[screen];
+  const vertenteOptions = screen !== 'geral' ? UNIT_VERTENTES[screen === 'taquara' ? 'Taquara' : 'Méier'] : [];
+
+  const onScreenChange = (s: Screen) => {
+    setScreen(s);
+    setVertente('all');
+  };
 
   return (
     <div>
@@ -69,6 +88,11 @@ export default function Page() {
               <span className="brand-title">FALCON 7 DASHBOARD</span>
               <span className="brand-sub mono">{data ? new Date(data.generated_at).toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo', day: '2-digit', month: 'long', year: 'numeric' }) : '—'}</span>
             </div>
+          </div>
+          <div className="screen-tabs">
+            {(['geral', 'taquara', 'meier'] as Screen[]).map((s) => (
+              <button key={s} data-active={screen === s} onClick={() => onScreenChange(s)}>{SCREEN_LABEL[s]}</button>
+            ))}
           </div>
           <div className="nav-actions">
             <button className="btn-ghost" onClick={load} disabled={refreshing} aria-label="Atualizar">
@@ -86,16 +110,15 @@ export default function Page() {
       </nav>
 
       <div className="wrap toolbar-row">
-        <div className="period-filter mono">
-          {(['today', 'yesterday', '7d', '30d'] as Period[]).map((p) => (
-            <button key={p} data-active={period === p} onClick={() => setPeriod(p)}>{PERIOD_LABEL[p]}</button>
-          ))}
-        </div>
-        <div className="unit-filter">
-          {(['all', 'Méier', 'Taquara'] as const).map((u) => (
-            <button key={u} data-active={unit === u} onClick={() => setUnit(u)}>{u === 'all' ? 'Todas as unidades' : u}</button>
-          ))}
-        </div>
+        {vertenteOptions.length > 0 ? (
+          <div className="vertente-filter">
+            <button data-active={vertente === 'all'} onClick={() => setVertente('all')}>Todas as vertentes</button>
+            {vertenteOptions.map((v) => (
+              <button key={v} data-active={vertente === v} onClick={() => setVertente(v)}>{v}</button>
+            ))}
+          </div>
+        ) : <span />}
+        {data && range && <DateRangePicker value={range} onChange={setRange} today={data.today} />}
       </div>
 
       {error && (
@@ -112,16 +135,16 @@ export default function Page() {
         </div>
       )}
 
-      {data && (
+      {data && range && (
         <>
-          {tab === 'overview' && <Overview data={data} settings={settings} period={period} unit={unit} />}
-          {tab === 'campaigns' && <Campaigns data={data} settings={settings} period={period} unit={unit} />}
-          {tab === 'creatives' && <Creatives data={data} settings={settings} unit={unit} />}
-          {tab === 'funnel' && <Funnel data={data} settings={settings} period={period} unit={unit} />}
-          {tab === 'audience' && <Audience data={data} settings={settings} unit={unit} />}
-          {tab === 'quality' && <Quality data={data} settings={settings} period={period} unit={unit} />}
-          {tab === 'trends' && <Trends data={data} unit={unit} />}
-          {tab === 'alerts' && <Alerts data={data} settings={settings} unit={unit} />}
+          {tab === 'overview' && <Overview data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
+          {tab === 'campaigns' && <Campaigns data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
+          {tab === 'creatives' && <Creatives data={data} settings={settings} unit={unit} vertente={vertente} />}
+          {tab === 'funnel' && <Funnel data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
+          {tab === 'audience' && <Audience data={data} settings={settings} unit={unit} vertente={vertente} />}
+          {tab === 'quality' && <Quality data={data} settings={settings} range={range} unit={unit} vertente={vertente} />}
+          {tab === 'trends' && <Trends data={data} unit={unit} vertente={vertente} />}
+          {tab === 'alerts' && <Alerts data={data} settings={settings} unit={unit} vertente={vertente} />}
           {tab === 'settings' && <SettingsTab settings={settings} update={update} reset={reset} />}
         </>
       )}

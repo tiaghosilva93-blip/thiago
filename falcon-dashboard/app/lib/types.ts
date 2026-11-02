@@ -156,3 +156,12 @@ export const DEFAULT_SETTINGS: Settings = {
     learningPhase: true,
   },
 };
+
+// ---- unit / vertente (campaign "kind") taxonomy ----
+export type Unit = 'all' | 'Méier' | 'Taquara';
+
+// Vertentes disponíveis para o filtro de cada unidade, na ordem de exibição.
+export const UNIT_VERTENTES: Record<'Méier' | 'Taquara', string[]> = {
+  Méier: ['Bolsão', 'Concurso', 'Colégio', 'Convivendo'],
+  Taquara: ['Bolsão', 'Concurso', 'Colégio', 'Kids'],
+};

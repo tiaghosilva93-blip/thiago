@@ -2,11 +2,11 @@
 
 import { Fragment, useMemo, useState } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { Period, fmtBRL, fmtInt, fmtCPL, fmtPct, fmtFreq, KIND_COLOR } from '../../lib/format';
-import { campaignMetricsForPeriod, campaignHealth, adsetMetrics, adMetricsForAdset } from '../../lib/metrics';
+import { DateRange, fmtBRL, fmtInt, fmtCPL, fmtPct, fmtFreq, KIND_COLOR, simplifyCampaignName } from '../../lib/format';
+import { campaignMetricsForRange, campaignHealth, adsetMetrics, adMetricsForAdset } from '../../lib/metrics';
 import { Chip, StatusPill, HealthPill, Icon } from '../ui';
 
-export default function Campaigns({ data, settings, period, unit }: { data: ApiData; settings: Settings; period: Period; unit: 'all' | 'Méier' | 'Taquara' }) {
+export default function Campaigns({ data, settings, range, unit, vertente }: { data: ApiData; settings: Settings; range: DateRange; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
   const [statusFilter, setStatusFilter] = useState<'all' | 'ACTIVE' | 'PAUSED'>('ACTIVE');
   const [objectiveFilter, setObjectiveFilter] = useState<string>('all');
   const [search, setSearch] = useState('');
@@ -19,13 +19,14 @@ export default function Campaigns({ data, settings, period, unit }: { data: ApiD
   const filteredCampaigns = useMemo(() => {
     let rows = data.campaigns;
     if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
+    if (vertente !== 'all') rows = rows.filter((c) => c.kind === vertente);
     if (statusFilter !== 'all') rows = rows.filter((c) => c.status === statusFilter);
     if (objectiveFilter !== 'all') rows = rows.filter((c) => c.objective === objectiveFilter);
-    if (search) rows = rows.filter((c) => c.name.toLowerCase().includes(search.toLowerCase()));
+    if (search) rows = rows.filter((c) => c.name.toLowerCase().includes(search.toLowerCase()) || simplifyCampaignName(c).toLowerCase().includes(search.toLowerCase()));
     return rows;
-  }, [data, unit, statusFilter, objectiveFilter, search]);
+  }, [data, unit, vertente, statusFilter, objectiveFilter, search]);
 
-  const metrics = useMemo(() => campaignMetricsForPeriod(data, filteredCampaigns, period), [data, filteredCampaigns, period]);
+  const metrics = useMemo(() => campaignMetricsForRange(data, filteredCampaigns, range.start, range.end), [data, filteredCampaigns, range.start, range.end]);
 
   const sorted = useMemo(() => {
     const rows = metrics.slice();
@@ -89,7 +90,7 @@ export default function Campaigns({ data, settings, period, unit }: { data: ApiD
                   <Fragment key={c.id}>
                     <tr className="row-clickable" onClick={() => toggleExpand(c.id)}>
                       <td><span className={`expander ${open ? 'open' : ''}`}><Icon name="chevron" /></span></td>
-                      <td>{c.name} <Chip text={c.kind} color={KIND_COLOR[c.kind] || KIND_COLOR.Outro} /></td>
+                      <td title={c.name}>{simplifyCampaignName(c)} <Chip text={c.kind} color={KIND_COLOR[c.kind] || KIND_COLOR.Outro} /></td>
                       <td><StatusPill status={c.status} /></td>
                       <td>{fmtBRL(c.spend)}</td>
                       <td>{fmtInt(c.leads)}</td>

@@ -41,11 +41,103 @@ export function previousPeriodRange(period: Period, today: string): [string, str
 export const KIND_COLOR: Record<string, string> = {
   'Bolsão': '#ff7900',
   'Kids': '#36d1a8',
+  'Convivendo': '#ffc857',
+  'Colégio': '#9b7dff',
   'Concurso': '#4fa3ff',
   'Institucional': '#ffc857',
   'Alcance': '#ff5d8f',
   'Outro': '#8c93b8',
 };
+
+// ---- Ads-Manager-style date range picker ----
+export type DatePreset =
+  | 'today' | 'yesterday' | 'today_yesterday'
+  | '7d' | '14d' | '28d' | '30d'
+  | 'this_week' | 'last_week' | 'this_month' | 'last_month'
+  | 'custom';
+
+export const DATE_PRESET_LABEL: Record<DatePreset, string> = {
+  today: 'Hoje',
+  yesterday: 'Ontem',
+  today_yesterday: 'Hoje e ontem',
+  '7d': 'Últimos 7 dias',
+  '14d': 'Últimos 14 dias',
+  '28d': 'Últimos 28 dias',
+  '30d': 'Últimos 30 dias',
+  this_week: 'Esta semana',
+  last_week: 'Semana passada',
+  this_month: 'Este mês',
+  last_month: 'Mês passado',
+  custom: 'Personalizado',
+};
+
+export const DATE_PRESET_ORDER: DatePreset[] = [
+  'today', 'yesterday', 'today_yesterday', '7d', '14d', '28d', '30d',
+  'this_week', 'last_week', 'this_month', 'last_month',
+];
+
+function startOfWeek(iso: string) {
+  // Semana começando na segunda-feira, como no Gerenciador de Anúncios.
+  const d = new Date(iso + 'T00:00:00');
+  const dow = d.getDay(); // 0 = domingo
+  const diff = dow === 0 ? -6 : 1 - dow;
+  return addDays(iso, diff);
+}
+
+function startOfMonth(iso: string) {
+  const d = new Date(iso + 'T00:00:00');
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-01`;
+}
+
+export type DateRange = { preset: DatePreset; start: string; end: string; compare: boolean };
+
+export function rangeForPreset(preset: DatePreset, today: string, custom?: { start: string; end: string }): [string, string] {
+  switch (preset) {
+    case 'today': return [today, today];
+    case 'yesterday': { const y = addDays(today, -1); return [y, y]; }
+    case 'today_yesterday': return [addDays(today, -1), today];
+    case '7d': return [addDays(today, -6), today];
+    case '14d': return [addDays(today, -13), today];
+    case '28d': return [addDays(today, -27), today];
+    case '30d': return [addDays(today, -29), today];
+    case 'this_week': return [startOfWeek(today), today];
+    case 'last_week': { const thisWeekStart = startOfWeek(today); const lastWeekEnd = addDays(thisWeekStart, -1); return [addDays(lastWeekEnd, -6), lastWeekEnd]; }
+    case 'this_month': return [startOfMonth(today), today];
+    case 'last_month': { const thisMonthStart = startOfMonth(today); const lastMonthEnd = addDays(thisMonthStart, -1); return [startOfMonth(lastMonthEnd), lastMonthEnd]; }
+    case 'custom': return custom ? [custom.start, custom.end] : [today, today];
+  }
+}
+
+export function comparisonRangeFor(start: string, end: string): [string, string] {
+  const d1 = new Date(start + 'T00:00:00'), d2 = new Date(end + 'T00:00:00');
+  const spanDays = Math.round((d2.getTime() - d1.getTime()) / 86400000) + 1;
+  const prevEnd = addDays(start, -1);
+  const prevStart = addDays(prevEnd, -(spanDays - 1));
+  return [prevStart, prevEnd];
+}
+
+export function formatDateBR(iso: string): string {
+  const [y, m, d] = iso.split('-');
+  return `${d}/${m}/${y}`;
+}
+
+export function dateRangeLabel(range: DateRange): string {
+  if (range.preset !== 'custom' && range.start === range.end) return `${DATE_PRESET_LABEL[range.preset]}: ${formatDateBR(range.start)}`;
+  return `${DATE_PRESET_LABEL[range.preset]}: ${formatDateBR(range.start)} - ${formatDateBR(range.end)}`;
+}
+
+export const DEFAULT_DATE_RANGE_PRESET: DatePreset = '7d';
+
+// ---- campaign name simplification (para leitura rápida pelo cliente) ----
+export function simplifyCampaignName(c: { name: string; kind: string; unit: string }): string {
+  const dateTokens = c.name.match(/\b(\d{1,2})[./-](\d{1,2})\b/g);
+  const lastDate = dateTokens && dateTokens.length ? dateTokens[dateTokens.length - 1].replace(/\./g, '/').replace(/-/g, '/') : null;
+  const unit = c.unit && c.unit !== 'Outro' ? ` ${c.unit}` : '';
+  const kind = c.kind && c.kind !== 'Outro' ? c.kind : 'Campanha';
+  const base = `${kind}${unit}`.trim();
+  return lastDate ? `${base} · ${lastDate}` : base;
+}
 
 export const PLACEMENT_LABEL: Record<string, string> = {
   facebook_stories: 'Stories',

@@ -2,19 +2,15 @@
 
 import { useMemo } from 'react';
 import { ApiData, Settings } from '../../lib/types';
-import { Period, periodRange, fmtBRL, fmtCPL, fmtInt } from '../../lib/format';
-import { sumDaily, funnelSteps, destinationGroup, cplOf, round2 } from '../../lib/metrics';
+import { DateRange, fmtBRL, fmtCPL, fmtInt } from '../../lib/format';
+import { sumDaily, funnelSteps, destinationGroup, cplOf, round2, filterCampaigns } from '../../lib/metrics';
 import { FunnelChart, EstimateBadge, Chip } from '../ui';
 
-export default function Funnel({ data, settings, period, unit }: { data: ApiData; settings: Settings; period: Period; unit: 'all' | 'Méier' | 'Taquara' }) {
-  const campaigns = useMemo(() => {
-    let rows = data.campaigns.filter((c) => c.status === 'ACTIVE');
-    if (unit !== 'all') rows = rows.filter((c) => c.unit === unit);
-    return rows;
-  }, [data, unit]);
+export default function Funnel({ data, settings, range, unit, vertente }: { data: ApiData; settings: Settings; range: DateRange; unit: 'all' | 'Méier' | 'Taquara'; vertente: string }) {
+  const campaigns = useMemo(() => filterCampaigns(data.campaigns, unit, vertente), [data, unit, vertente]);
   const ids = useMemo(() => new Set(campaigns.map((c) => c.id)), [campaigns]);
 
-  const [start, end] = periodRange(period, data.today);
+  const start = range.start, end = range.end;
   const agg = useMemo(() => sumDaily(data.daily, ids, start, end), [data, ids, start, end]);
 
   const steps = useMemo(() => funnelSteps(agg, settings), [agg, settings]);
