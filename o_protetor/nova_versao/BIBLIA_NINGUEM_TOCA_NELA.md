@@ -1,4 +1,4 @@
-# INTOCÁVEL
+# NINGUÉM TOCA NELA
 ### *(título de trabalho: O Protetor)*
 **Bíblia de série — nova versão para apresentação à AfroReggae Audiovisual**
 Criação e argumento original: Thiago Silva
@@ -22,7 +22,9 @@ O título original, **O Protetor**, tem dois problemas para o mercado. Primeiro,
 | 6 | **SEM ARREGO** | Gíria do Rio para "sem acordo, sem propina". Traduz o herói incorruptível e a rede de propinas, mas é regional e soa mais a polícia do que a família. |
 | 7 | **LINHA DE TIRO** | Ação pura, porém genérico e já usado no mercado. |
 
-**Recomendação:** **INTOCÁVEL**. É a única opção que contém a premissa, o conflito (a proteção que cai) e o tema (quem no Rio é de fato intocável, a menina ou os homens do asfalto?). A virada da temporada mora no próprio título: a menina deixa de ser intocável e os poderosos continuam sendo. **FAROL** fica como alternativa e como nome da comunidade.
+**Título escolhido pelo autor: NINGUÉM TOCA NELA.** É a regra da série dita em voz alta, a ordem que Matias repete há cinco anos. Gera tensão imediata, rende cartaz e trailer e coloca a menina no centro. Outras opções consideradas: Arrego, Cria, Contenção, Fogo Amigo, 2º Turno.
+
+*Recomendação original do roteirista:* **INTOCÁVEL**. É a única opção que contém a premissa, o conflito (a proteção que cai) e o tema (quem no Rio é de fato intocável, a menina ou os homens do asfalto?). A virada da temporada mora no próprio título: a menina deixa de ser intocável e os poderosos continuam sendo. **FAROL** fica como alternativa e como nome da comunidade.
 
 ---
 
@@ -100,7 +102,7 @@ O preço chega com o sol. Kalila tinha gravado um vídeo, e o Barão o vaza: Rob
 - **Ambiguidade e operação:** *Sicario*.
 
 ### Por que cabe no Afroverso (sem depender dele)
-- Mesmo Rio, mesmo BOPE e a mesma tese da casa: *"o verdadeiro traficante nunca pisou na favela"*. *Intocável* materializa isso numa imagem concreta: o dinheiro do tráfico mora num apartamento de luxo de frente para o morro.
+- Mesmo Rio, mesmo BOPE e a mesma tese da casa: *"o verdadeiro traficante nunca pisou na favela"*. *Ninguém Toca Nela* materializa isso numa imagem concreta: o dinheiro do tráfico mora num apartamento de luxo de frente para o morro.
 - Bruno é um ex-colega de batalhão, de outra geração, dos personagens de *Arcanjo*. Uma participação de um oficial do BOPE já estabelecido no universo (na operação do episódio 4, ou como contraponto ético a Bruno) é um crossover natural. Uma advogada criminalista do universo também poderia defender Joana ou cuidar da guarda de Sofia.
 - **A série se sustenta sozinha.** Nenhuma informação essencial depende de outra obra; os crossovers são bônus e devem ser negociados com a produtora.
 - Protagonismo negro e periférico na frente das câmeras (Bruno, Sofia, Camila, Matias, Joana, Dona Lourdes, o Barão, Kalila) e potencial de franquia (gancho de 2ª temporada, spin-off possível sobre o Barão ou sobre Joana).
