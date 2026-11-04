@@ -674,3 +674,221 @@ A fonte de verdade continua sendo a `BIBLIA_NINGUEM_TOCA_NELA.md`. Aqui está o 
 - **Dona Zezé e Mãe Dôra** estão expostas à Firma.
 - **Sofia não deve saber antes do EP5** que a mulher do pingente é a mãe dela.
 - **Camila, o protocolo 2746 e a DH:** a pergunta continua aberta e a resposta (Renato) fica para o EP5.
+
+> O EP4 resolveu as pendências acima, com estas exceções: a cantiga e a ordem do código seguem para o EP5 e o EP7; o protocolo 2746 e a DH continuam abertos; Dona Zezé foi exposta, mas não atacada; Mãe Dôra só aparece. Ver a seção "EP4", §5 e §8.
+
+---
+---
+
+## EP4 — "Operação" (`EP04_OPERACAO.fountain`)
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–5 | 3h30: o briefing da "Operação Sentinela", com a casa de Dona Lourdes como alvo um e a foto de Sofia tirada do vídeo da campanha. Pacheco avisa Bruno do banheiro e manda "Te amo" a Joana. A Firma veste coletes de polícia sem nome e sem câmera. Dona Lourdes devolve a pistola a Bruno ("Hoje eu tô dando"). O drone vê os blindados; fogos. |
+| Ato Um | 6–16 | Jotapê guarda o rádio e não avisa ninguém. A cama feita da "companhia". O ônibus das 5h vira barricada com Bruno, Sofia e Lourdes dentro ("Ela não sai do Farol"). O botijão aceso debaixo do ônibus (planta). O PC no posto de gasolina, a equipe sem câmera, Renato e a foto "Encaminhada", Marlene no sedã. O blindado contra o ônibus. Choquito cai. Escola, clínica, creche e salão fechados. A mãe barrada no cerco. "Isso aí é de cima, Paulão." A Firma manda Paulão tirar a contenção da mata. Beka guia Tom pelos fundos da Kalila. |
+| Ato Dois | 17–27 | O cruzamento sob fogo cruzado e a casa da senhora de bobes. O Barão se recusa a mandar gente. Jotapê é morto de capacete na mão. Pacheco vê o revólver plantado, reconhece Tom ("Deus me chamou de volta") e vê Lemos desligar a própria câmera. Dona Cida. Tom apaga a vela e vira o retrato; Beka dobra o vestido amarelo; Bruno, Sofia e Lourdes passam pelo quintal. Matias vê Beka guiando a polícia. Gabriel e Dona Celeste. A creche: a foto de Dandara cai do pingente e Joana vê Sofia repetir o gesto de Matias. Pacheco liga para Renato, Renato fala com Romildo, Romildo liga para Tom: "O cabo baiano. E a câmera dele." Beka: "Ia direto na creche." |
+| Ato Três | 28–38 | Pacheco chega à creche e o plano é a mata. Dona Lourdes senta na porta. Camila desobedece ("O comando é o major") e sobe; poupa o menino da caixa d'água. A mata está fechada. "Hoje não tem aula." Matias desce e vai atrás da irmã. Sofia acende o botijão. Tom mata Pacheco pelas costas, arranca a câmera dele e derruba o drone. "Tô com sede." "Cuida dela." O impasse sobre o corpo, "NINGUÉM ATIRA!", "Ele tinha nome", "Hoje ele desce pela escada" e "Deixa descer". |
+| Ato Quatro | 39–50 | O cortejo pela escadaria. No PC: "A senhora está em choque." / "Tô. E vi." A câmera sumida, o rabecão ("Só família"), o "auto de resistência" e o capacete, Henrique ao telefone. Dona Zezé enfrenta o Major. "Hoje é dia de luto." Renato apaga a ligação e Camila o confronta. Roberto e a "manga". O Barão abre o piano. Joana e Matias na laje ("Tu faz igual a ela"). A vela acesa de novo. A vigília do Jotapê. O baile vazio e a VOZ ("Você tem mais"). Gabriel resgata o drone no telhado da igreja. O fundo falso do pingente. O vídeo, a tatuagem e o gancho. |
+
+50 cenas e cerca de 9.500 palavras. O roteiro tem 1.405 linhas com texto, contra 1.480 do EP3, o que dá algo entre 50 e 52 páginas.
+
+**Gancho:** no vídeo do drone, Gabriel congela e aproxima o antebraço do atirador: uma caveira com punhal e um terço. Há um flash de 2021, com a mesma tatuagem atrás da viatura no Leblon. Bruno toca a xuxinha: "Ele estava no Leblon." (cena 50)
+
+---
+
+### 1. Cronologia fixada
+| Data e hora | O quê |
+|---|---|
+| **Quarta, 14/10/2026** | Todo o EP4. Faltam 11 dias para o 2º turno. |
+| Terça, 13/10, 18h | A Vara da Infância expede o mandado de busca e apreensão de menor contra a casa de Lourdes da Costa, com base na ocorrência de Marlene (domingo, 11/10). Romildo: "Eu segurei até onde deu." |
+| 3h10 | Comunicação ao MP (Romildo). Dona Zezé põe em dúvida quem atende telefone a essa hora. |
+| 3h30 | Briefing no quartel de Laranjeiras. |
+| ~3h50 | Pacheco liga para Bruno e manda "Te amo" a Joana. Pela fala do Barão, também ligou para ele "às quatro". |
+| 4h50 | Bruno, Sofia e Lourdes descem. Jotapê vai junto. |
+| ~5h02 | Fogos. O ônibus é tomado e atravessado na curva. |
+| ~5h10 | O blindado chega à barricada. |
+| ~6h30 | Jotapê é morto na escadaria do Cruzeiro. |
+| **7h21** | Pacheco liga para Renato (2 minutos). Renato **apagou** a chamada do registro (cena 43). |
+| ~8h | Pacheco é morto na laje da creche. |
+| 9h40 | O cortejo desce a escadaria. |
+| Tarde | Telejornal: "sete mortos, seis suspeitos e um cabo". Entrevista de Roberto. |
+| Noite | Vigília do Jotapê na escadaria. Baile vazio. O drone é resgatado. O vídeo. |
+
+---
+
+### 2. Personagens novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Major Freitas** | 48 | Comandante da Operação Sentinela (BOPE). Correto, mas cede a Romildo duas vezes (a equipe sem câmera e o canal fechado). No fim, pergunta: "Cadê a câmera do meu cabo?" | 1, 11, 13, 29, 40, 41 |
+| **Sargento Lemos** | 40 | Comandante da equipe de Pacheco. **Desliga a própria câmera** depois de ver o revólver plantado ("Bateria, Pacheco. A tua também tá acabando."). | 13, 20, 25 |
+| **Dona Cida** | 44 | Mãe de Jotapê. "Tava de capacete." | 20, 30, 39, 40, 47 |
+| **Seu Wanderley** | 58 | Motorista do ônibus "SÃO CONRADO — FAROL" ("Vinte e dois anos nessa linha"). | 8, 10, 12 |
+| **Henrique** (só a voz) | 22 | Irmão de Pacheco. Primeira manifestação: ao telefone, Bruno e Camila dão a notícia. Já sabe de Bruno ("O Bruno da menina que morreu? Ele falava do senhor."). | 37, 40 |
+| **Senhora de bobes** | — | Moradora que abriga os três por um minuto, com um bebê no carrinho (a "vizinha que esconde", da análise). | 17, 39 |
+| **Mulher de uniforme** | — | Mãe barrada no cerco; os filhos Kauã (6) e Vitória (9) ficaram sozinhos "depois da clínica, portão azul". Camila repassa pelo rádio. **Destino não mostrado.** | 15 |
+| Técnica de enfermagem, domésticas, Motorista do blindado, Soldado do Charlie, Funcionário do IML, PM da prancheta, Socorrista, Apresentadora, Repórter | — | Figurantes, com ou sem fala. | vários |
+
+**Recorrentes com informação nova**
+- **Pacheco:** o primeiro nome é **Paulo** (telejornal e Henrique). O "Paulo de Cachoeira" do baile (EP3) era o nome verdadeiro. **Morto** na cena 36.
+- **Tom:** a tatuagem fica fixada como **caveira atravessada por um punhal com um terço enrolado no punhal**. O terço a distingue da "faca na caveira" comum no batalhão, e é por ele que Bruno a identifica (corrige o risco de a tatuagem ser genérica). Pacheco o chama de "Sargento Vieira". Tom usa balaclava o episódio inteiro e Bruno **não viu o rosto dele**.
+- **Choquito:** morto na laje da pista (cena 13).
+- **Jotapê:** morto na escadaria do Cruzeiro, de capacete na mão, com um revólver plantado (cenas 19 e 20). Escolheu não avisar Matias da fuga (cena 6).
+- **Matias:** ganha o **gesto de pensar**, o polegar alisando a sobrancelha de dentro para fora (cenas 7, 22 e 46). **Sofia faz o mesmo gesto** (cena 24).
+- **Beka e Tarso:** saem da casa de Matias de madrugada (deixam as camas feitas) e guiam a Firma. Beka dobra o vestido amarelo de Sofia em quatro.
+- **Pastor Josias:** vê o furo de bala no drone e não pergunta nada.
+
+---
+
+### 3. Locais novos
+- **Sala de briefing do BOPE (Laranjeiras):** telão com o slide "OPERAÇÃO SENTINELA". O nome vem do salmo pintado no galpão da Firma, e Romildo o escolheu.
+- **Posto de comando:** estacionamento de um posto de gasolina na avenida, ao pé do morro. Tem a mesa dobrável de Renato com dois rádios e a ambulância do SAMU com o papel "PRONTIDÃO", que nunca sobe.
+- **Ponto final do ônibus** na pista e a **curva da estrada**, onde o ônibus foi atravessado, queimado e empurrado barranco abaixo pelo blindado. O ônibus ficou destruído.
+- **Beco da contenção:** um cruzamento de becos com sacos de areia, onde Vavá atira.
+- **Casa da senhora de bobes:** uma cozinha de dois metros por dois.
+- **Fundos do salão da Kalila:** a Firma usou o corredor para chegar à escadaria (Kalila: "Polícia que sabe o caminho da minha escada").
+- **Creche Pingo de Gente (novos detalhes):** sala com colchonetes, cadeirinhas e o mural "OUTUBRO — MÊS DAS CRIANÇAS". **Na laje**, debaixo de uma lona azul, um fogão de duas bocas e um botijão. Há **duas muretas**: a da trilha, onde Firma fechou a passagem, e a de trás, que dá para a laje vizinha e para um caminho pela beira da mata. **A caixa d'água está furada** pelo tiro de Bruno.
+- **Telhado da igreja do pastor Josias**, com a placa "FAROL DA ESPERANÇA". Foi ali que o drone caiu.
+- **Escola Municipal do Farol** e **Clínica da Família**, fechadas.
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP4 | Pagamento previsto |
+|---|---|---|---|
+| **Tom estava lá em 2021** (bíblia, a tatuagem no drone) | 3, 19, 20, 36, 50 | **Pago aos heróis.** Bruno viu a tatuagem no vídeo e a ligou ao Leblon por memória (flash). Já sabia, por Pacheco, que o atirador da creche era "o Vieira". | EP5 (o laudo). |
+| **Joana olha Sofia "como quem reconhece alguém"** (bíblia, pista de que Matias é o pai) | 24, 46 | Joana viu a foto de Dandara no pingente e viu Sofia repetir o gesto de Matias. Na laje, viu o mesmo gesto em Matias: "Tu faz igual a ela." / "Igual a quem?" / "Nada." | EP5 (Joana conta a Sofia). |
+| **O gesto do polegar na sobrancelha** | 7, 22, 24, 46 | Plantado neste episódio como traço hereditário. | EP5: Dandara pode mencionar o gesto no vídeo, ou o flashback pode mostrá-lo no Matias jovem. |
+| **Câmeras corporais "com falha"** (bíblia) | 3, 11, 12, 19, 20, 36, 40 | A equipe Sentinela não tinha câmera. Lemos desligou a dele. **A câmera de Pacheco foi arrancada por Tom** e está com a Firma. O Major viu o suporte vazio e a presilha quebrada. Romildo: "Vamos apurar." | EP5–EP6. A gravação da câmera de Pacheco existe e mostra o revólver plantado e Tom no patamar. Romildo vai destruí-la ou guardá-la. **Decisão de sala.** |
+| **O revólver plantado na mão de Jotapê** ("kit") | 20, 40 | O registro oficial é "auto de resistência" com apreensão de revólver. Testemunhas: Pacheco (morto), Lemos (cúmplice pela omissão), a câmera de Pacheco (sumida) e Dona Cida (não viu o tiro). | EP8 (Joana depõe) ou T2. |
+| **O capacete laranja de Jotapê** | 6, 8, 18–20, 39, 40, 47 | Com Dona Cida, na escadaria, como altar da vigília. | Símbolo para o EP8 (a comunidade enterra os seus). |
+| **A pistola de Pacheco** (EP3, no vão da caixa d'água) | 31, 36, 38, 46 | **Paga.** Joana disparou três vezes contra Tom e errou. A arma ficou na mureta da laje; ao entardecer, **Matias tirou o carregador (faltavam três balas) e o guardou no bolso**. A pistola descarregada ficou na mureta, ao lado de Joana. | Livre. É prova balística: tem projéteis de Joana na laje (os três tiros). |
+| **A chave de Laranjeiras** | 46 | Com Joana. "Depois da eleição." | EP5–EP6 (o luto e a gravidez). |
+| **O lençol de bichinhos da creche** | 31, 39, 40 | Envolveu a pistola e depois o corpo de Pacheco até o asfalto. Foi com o corpo ao IML. | — |
+| **A foto de Camila na garupa** (pendência do EP3) | 11 | **Decidido:** o Cabo da Viatura a mandou para **Renato**, que a encaminhou. O público vê só a tela, com a palavra "Encaminhada". O destinatário (Romildo) não aparece. | EP5 (Renato informante). |
+| **A ligação das 7h21 de Pacheco para Renato** | 25, 26, 43 | **Renato contou a Romildo, e foi isso que matou Pacheco.** O público viu a cadeia inteira: Pacheco → Renato → Romildo → Tom ("O cabo baiano. E a câmera dele."). Renato apagou a chamada do aparelho, mas **o registro existe na operadora**. | EP5 (a culpa de Renato), EP7 (a redenção), e a quebra de sigilo como prova. |
+| **"Tu repetiu duas vezes. A segunda foi tua."** / "Ele falou alguma coisa? Antes?" | 29, 43 | Camila estranhou a pergunta de Renato. | EP5. |
+| **A mensagem da Firma a Paulão** ("Tira teus menor da mata que tu sai vivo") | 15 | Paulão obedeceu ("A guerra é aqui"). Foi por isso que a mata estava fechada. **Ninguém sabe.** Matias o mediu com os olhos ("Tu vai na frente"). | EP6 (Paulão vende o morro). |
+| **"Isso aí é de cima"** (o arrego não impede a operação) | 15 | Pago. | — |
+| **O botijão aceso** | 10 (Choquito, planta), 34 (Sofia, pagamento), 37 (Sofia fecha a válvula) | Pago no próprio episódio. A chama serviu de barreira e de sinal (a bíblia: "o botijão como sinal"). | — |
+| **O pingente: fundo falso** (pendência do EP3, cartão de memória do EP8) | 24 (a foto cai), 50 | **Plantado.** Debaixo da foto, o fundo de metal levanta como uma tampa e há um vão raso e vazio. Gabriel: "Tem fundo. Eu fiz. Pra caber mais coisa." A dobradiça entortou e Gabriel a consertou. | EP8 (o cartão de memória com as fotos do livro-caixa). |
+| **O pen-drive** | 49 | Inteiro, ainda no compartimento da bateria do drone. **O drone está quebrado** (hélice e carcaça furada). | EP5 (Gabriel quebra o FAROL.hc). |
+| **O cartão de memória do drone** (o vídeo) | 49, 50 | Com Gabriel. Mostra a execução de Pacheco, Tom arrancando a câmera e a tatuagem. **Não mostra o rosto de Tom.** | EP5 (prova); EP6 (Renato copia um trecho editado, pela bíblia). **Atenção:** Renato precisa ter acesso ao vídeo antes do EP6. Sugestão: Camila leva uma cópia à DH e Renato a pega. |
+| **O vestido amarelo dobrado em quatro** | 21, 47 | Sofia: "Foi a moça de Realengo." Lourdes: "Ladrão não dobra." | Arco de Beka (EP6–EP7). |
+| **O retrato virado e a vela apagada por Tom** | 21, 47 | Lourdes desvirou o retrato e acendeu a vela de novo. Ninguém sabe quem apagou. | O assassino da neta esteve na sala da avó. Pode ser revelado a Lourdes no EP5. |
+| **O mandado com o nome de Lourdes** ("Tira a velha de lá") | 1, 40 | É a forma legal do plano do motel (EP3). A casa foi revirada e Lourdes não foi levada. | EP7 (Lourdes amarrada) continua intacto. |
+| **"Equipe Sentinela"** sem marcador no mapa do PC e sem fala no canal aberto | 13 | O Major estranhou. | EP5–EP6 (o Major como testemunha possível). |
+| **A foto de Sofia no telão** | 1 | É um quadro do vídeo da campanha (o cartão de memória que Romildo guardou no EP3). | Romildo usa o cartão contra a menina, não só contra Roberto. |
+| **A mão enfaixada de Roberto** (pendência do EP3) | 44 | **Desculpa pública:** "Fui descascar manga pros meus netos. Coisa de avô." Kalila: "Manga." | Mantida até o fim. |
+| **A chamada de Henrique** | 37, 40 | Bruno deu a notícia ("Ele não ficou sozinho"). O celular de Pacheco foi com os pertences para a família (carteira, terço de madeira, cocada). | EP5 (o enterro). |
+
+---
+
+### 5. Decisões tomadas além da bíblia
+1. **O número de raios do farol e a regra dos quatro dígitos ocultos.** O farol tem **16 raios**, desenhados em **quatro feixes** separados por intervalos sem raio, como o facho de luz que gira. Cada feixe dá um dígito pela **quantidade de raios**. Lidos em sentido horário a partir do feixe de cima à esquerda, os feixes têm **3, 1, 8 e 4** raios. Os quatro dígitos ocultos são **3, 1, 8 e 4**, e os visíveis, **7, 6, 5 e 9**. A **ordem** dos oito dígitos na fechadura **não** é a ordem da leitura: está na cantiga (EP7). Para a arte da tatuagem (e para refilmar o plano da cena 32 do EP3), os feixes precisam estar visivelmente separados, com nenhum dígito zero. **O número não foi dito nem mostrado em cena no EP4.**
+2. **A foto de Camila foi para Renato**, que a repassou (a Romildo, fora de quadro).
+3. **O fundo falso do pingente** foi plantado (cena 50). A foto de Dandara continua por cima.
+4. **Renato causou, sem querer e sem perguntar, a morte de Pacheco.** Pacheco pediu que ele avisasse o Major. Ele foi a Romildo. O público sabe; os heróis não. É a dívida que o EP7 cobra.
+5. **A Firma entrou como "equipe de apoio da Subsecretaria de Inteligência"**, codinome **Sentinela**, de colete "POLÍCIA" sem identificação e sem câmera, amparada numa "resolução da Secretaria" que ninguém leu. Romildo invocou a ADPF 635 (MP comunicado às 3h10, excepcionalidade e ambulância de prontidão) e burlou cada exigência.
+6. **O ônibus do material original** voltou como barricada da boca: Bruno tentou tirar Sofia e Lourdes do Farol no primeiro ônibus, e foi a ordem de Matias ("Ela não sai do Farol") que os segurou dentro do morro.
+7. **Dona Lourdes devolveu a pistola** a Bruno. Inverte o EP1 (cena 9) e o "Aqui não" do EP2. A condição de Matias ("não anda armado no meu morro") foi quebrada diante dele, e ele deixou passar.
+8. **A morte de Pacheco segue a bíblia** (por causa de Joana, pelas costas, Tom, nos braços de Bruno, "Cuida dela") e reaproveita do original "Tô com sede" e a ambulância que não sobe em dia de guerra. **Tom arrancou a câmera corporal de Pacheco:** é a "falha" das câmeras, concreta.
+9. **Joana atirou em Tom** com a pistola de Pacheco e errou. Ela é testemunha e também atiradora (o confronto balístico vai mostrar três disparos dela).
+10. **Joana impôs o cortejo pela escadaria** ("Ele subiu pela mata um ano inteiro pra me ver. Escondido. Hoje ele desce pela escada.") e **Matias deixou** ("Deixa descer"). O namoro com um policial ficou público no Farol inteiro.
+11. **O baile vazio** (bíblia): Matias mandou fazer o baile na noite da guerra, como demonstração de força. O morro foi à vigília do Jotapê.
+12. **Camila desobedeceu** e subiu (bíblia). Teve um menino da boca na mira e não atirou.
+13. **O Barão recusou mandar gente** ("Eu não ponho gente minha em guerra de polícia"), reaproveitando a recusa do original. Depois **abriu o piano pela primeira vez** e decidiu ir ao enterro: será a primeira aparição pública dele em sete anos.
+14. **Bruno contou a Camila sobre o Covil**, implicitamente, por telefone entre o EP3 e o EP4 (cena 40: "O que o teu bicheiro sabia disso?").
+15. **A morte do Jotapê** paga a ordem do EP3 ("Se alguém encostar nela, tu morre antes"), mas de forma invertida: ele morreu indo verificar o caminho para ela, sem ninguém ter encostado.
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Cinco anos atrás eu tirei isso da tua mão. Hoje eu tô dando." | Dona Lourdes | 4 | Eco do EP1, cena 9. |
+| "Sempre dá tempo de café." | Dona Lourdes | 4 | — |
+| "Deus acorda cedo." | Dona Lourdes | 6 | — |
+| "Ninguém arruma a cama pra ir comprar cigarro." | Matias | 7 | — |
+| "Ela não sai do Farol." | Matias | 9 | Matias protege a menina prendendo-a. |
+| "Ninguém chega perto de botijão aceso, princesa. Nem caveirão." | Jotapê | 10 | Planta do botijão. |
+| "Isso aí é de cima, Paulão." | Cabo da Viatura | 15 | Eco de "De cima" (EP3). |
+| "O chefe mandou eu morrer antes dela. Ninguém mandou eu morrer antes de tu." | Jotapê | 17 | — |
+| "Deus me chamou de volta." | Tom | 20 | — |
+| "Com falha." / "Bateria, Pacheco." | Tom e Lemos | 20 | — |
+| "Tava de capacete." | Dona Cida | 20, 40 | — |
+| "Polícia que sabe o caminho da minha escada." | Kalila | 16 | — |
+| "Não é minha." | Bruno | 28 | Quarta vez. Pacheco a ouve "como quem conhece essa frase". |
+| "Aqui só tem criança quando tem aula. Hoje não tem aula." | Dona Lourdes | 32 | — |
+| "Eu sei. Mas eu sentei." | Dona Lourdes | 32 | — |
+| "Rapaz." | Pacheco | 34 | Eco do "Rapaz" da trilha (EP3). |
+| "Tô com sede." / "Cuida dela." / "Cuido." | Pacheco e Bruno | 37 | Original e bíblia. |
+| "Ela é dele." | Bruno | 38 | — |
+| "NINGUÉM ATIRA!" | Joana | 38 | **A regra da série na boca de Joana**, eco de "Ninguém atira! Ninguém toca nela!" (Matias, EP1). |
+| "Ele tinha nome." | Joana | 38 | — |
+| "Hoje ele desce pela escada." | Joana | 38 | — |
+| "Deixa descer." | Matias | 38 | — |
+| "A senhora está em choque." / "Tô. E vi." | Romildo e Joana | 40 | — |
+| "Inteligência não tem nome, Bruno." | Romildo | 40 | Eco de "Ele é Inteligência" (EP3). |
+| "Conta comigo. Pro que for." | Romildo | 40 | A ironia começa a pesar. |
+| "Elementos." | Dona Zezé | 41 | — |
+| "Hoje é dia de luto." | Romildo | 42 | — |
+| "Tu repetiu duas vezes. A segunda foi tua." | Camila | 43 | — |
+| "Coisa de avô." / "Manga." | Roberto e Kalila | 44 | — |
+| "Então já passou da hora." | Barão | 45 | — |
+| "Tu faz igual a ela." / "Igual a quem?" | Joana e Matias | 46 | Pista do pai. |
+| "Ladrão não dobra." | Dona Lourdes | 47 | Beka. |
+| "O pote de botão não serve mais." | Dona Lourdes | 47 | — |
+| "Você tem mais." | A VOZ | 48 | — |
+| "Pra caber mais coisa." / "Sei lá. Coisa." | Gabriel | 50 | Fundo falso. |
+| "Ele estava no Leblon." | Bruno | 50 | Gancho da bíblia. |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP4 (noite de quarta, 14/10)
+- **Bruno:** em casa, armado, de camiseta dura de sangue. Viu Pacheco morrer nas mãos dele. Sabe que o atirador é Tomás Vieira, da Firma, e que **Tom estava no Leblon em 2021**. Ainda não sabe que foi o fuzil de Tom que matou a filha (isso é o laudo, no EP5), mas agora suspeita. Ainda não desconfia de Renato. A dúvida sobre Romildo cresceu (o mandado, "Inteligência não tem nome"), sem certeza. Atirou em Tom e não o acertou. Matias o viu armado e não reagiu.
+- **Sofia:** em casa, com o pingente consertado (e o fundo falso que ela agora conhece), o canivete e o tênis branco. Viu Jotapê morrer (de longe, o capacete) e Pacheco morrer (do outro lado da mureta). Acendeu e apagou o botijão. Foi à vigília e consolou Dona Cida. Ouviu "Ele estava no Leblon". Não sabe que repete o gesto de Matias.
+- **Camila:** desobedeceu a ordem e subiu. Carregou o corpo. Ouviu o testemunho de Joana. Deu a notícia a Henrique (e não conseguiu falar). Estranhou a pergunta de Renato ("Ele falou alguma coisa? Antes?"). Sabe do Barão por Bruno. Pode sofrer sanção disciplinar.
+- **Renato:** entregou Pacheco a Romildo e apagou a ligação. Está destruído e calado.
+- **Romildo:** a menina não desceu. Marlene ficou sem nada. Fez de Pacheco um "herói" diante das câmeras e põe tarja de luto. Tem a câmera de Pacheco, via Tom. Tem o Major desconfiado e uma testemunha (Joana).
+- **Tom:** matou Pacheco e Jotapê (por meio do Homem da Firma) e derrubou o drone. Tem a câmera de Pacheco. Não sabe que o drone gravou a tatuagem. Joana e Bruno atiraram nele, sem acertar.
+- **Beka:** trocou de casa: agora está com a Firma. Dobrou o vestido de Sofia, olhou Dona Lourdes nos olhos e ainda guarda o recorte com o rosto de Tom.
+- **Tarso:** com a Firma.
+- **Matias:** perdeu Jotapê, Choquito e outros quatro. Perdeu a "companhia", o baile e, por uma noite, o morro. Ouviu da VOZ: "Você tem mais". Sabe que a irmã namorava um policial e deixou o corpo descer pela escadaria. Ficou com o carregador da pistola de Pacheco. Desconfia de Paulão.
+- **Paulão:** obedeceu à Firma e tirou a contenção da mata. Ninguém sabe.
+- **Joana:** testemunha (falou diante de Romildo, do Major e de Camila). Atirou três vezes. Foi barrada no rabecão. Tem a chave de Laranjeiras; a pistola descarregada ficou na laje. Desconfia, pela foto e pelo gesto, do segredo de Sofia, que pela bíblia já conhecia.
+- **Pacheco:** morto, no IML.
+- **Dona Lourdes:** a casa foi revirada, o retrato estava virado e a vela apagada. Ela acendeu de novo. Sentou na porta da creche diante de Tom.
+- **Gabriel:** tem o vídeo, o pen-drive e o drone quebrado. Desta vez **não mentiu**: disse a Matias onde estava Sofia ("Subindo pra creche"), hesitando no botão, e foi isso que levou Matias à laje. Viu Jotapê morto pela tela. Dona Celeste esteve com ele na laje.
+- **Dona Celeste:** viu Jotapê morto pela tela do drone e ficou rezando ao lado do filho.
+- **Barão:** vai ao enterro de Pacheco.
+- **Clovis:** sem mudança.
+- **Kalila:** viu Beka e um homem de balaclava passarem pelos fundos do salão e entendeu que a polícia "sabe o caminho".
+- **Roberto:** explicou a mão ("manga") e defendeu a operação na televisão.
+- **Marlene:** não recuperou a "filha".
+- **Dona Zezé:** enfrentou o Major em público e acionou a Defensoria. Está mais exposta.
+- **Dona Cida:** está na vigília, com o capacete do filho.
+- **Major Freitas:** desconfia da equipe Sentinela e da câmera desaparecida.
+- **Sargento Lemos:** desligou a câmera. Cúmplice por omissão.
+- **Seu Wanderley:** perdeu o ônibus.
+- **Choquito e Jotapê:** mortos.
+
+---
+
+### 8. Pendências para o EP5 — "Laudo"
+- **O enterro de Pacheco** (abertura do EP5). Pela cronologia, quinta (15/10) ou sexta (16/10). Família de Cachoeira (BA). Possibilidades: o corpo vai para a Bahia ou o enterro é no Rio, com honras militares. O Barão aparece em público pela primeira vez desde 2017. Joana é proibida de chegar perto do caixão (bíblia), o que repete o "Só família" do rabecão. Henrique jura vingança.
+- **O vídeo do drone** é a peça que abre o laudo. Bruno precisa levá-lo a Camila. Decidir quem mais vê o vídeo e como ele chega a Renato antes do EP6 (bíblia: Renato copia um trecho editado).
+- **A câmera de Pacheco** está com Tom e Romildo. Usá-la, destruí-la ou deixá-la sumida?
+- **A ligação das 7h21:** Camila pode chegar a Renato pela quebra de sigilo telefônico de Pacheco, que mostra a ligação, além da assinatura na cadeia de custódia.
+- **Henrique** entra fisicamente no EP5. Já sabe quem é Bruno.
+- **Joana** é testemunha diante de Romildo. Ela corre perigo e Romildo sabe. A bíblia guarda a gravidez para o EP6.
+- **Joana conta a Sofia** quem é o pai. O gesto da sobrancelha e a foto do pingente estão plantados.
+- **Gabriel quebra o FAROL.hc.** O pen-drive está bom, mas o drone, quebrado (ele vai precisar de outro drone para o EP7).
+- **A DH** tem agora dois casos ligados ao nome de Bruno: Seu Geraldo e a operação, já que Bruno estava armado na laje onde um policial morreu. Prepara a acusação do EP6 ("matou Pacheco").
+- **Camila desobedeceu ordem em operação.** Romildo pode usar isso (um procedimento disciplinar) ou deixar passar como favor, para cobrar depois.
+- **Paulão** traiu em silêncio. Matias desconfia. Manter até o EP6.
+- **Beka e o vestido dobrado:** a semente da protetora.
+- **O Major Freitas e o Sargento Lemos** são pontas soltas úteis: o Major como testemunha honesta possível, Lemos como elo fraco.
+- **Os filhos da mulher de uniforme** (Kauã e Vitória, portão azul): o destino não foi mostrado. Pode virar uma linha de uma cena no EP5 ("as crianças do portão azul passaram o dia escondidas debaixo da cama") ou ficar em aberto.
+- **Dona Lourdes** não sabe que o homem que apagou a vela da neta é o homem que a matou. Pode saber no EP5.
+- **O número dos raios** (16, em feixes 3-1-8-4) precisa entrar na arte e no plano da tatuagem antes das filmagens. A cantiga define a ordem (EP7).
