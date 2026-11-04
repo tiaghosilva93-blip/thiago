@@ -3,21 +3,22 @@
 
 Uso: python3 fountain2pdf.py entrada.fountain [saida.pdf]
 
-Layout: A4, fonte monoespaçada 12 pt (Liberation Mono, métrica de Courier),
+Layout: A4, Courier 12 pt,
 10 caracteres por polegada e 6 linhas por polegada.
 """
 import re
 import sys
 
 from reportlab.lib.pagesizes import A4
-from reportlab.pdfbase import pdfmetrics
-from reportlab.pdfbase.ttfonts import TTFont
+from reportlab import rl_config
 from reportlab.pdfgen import canvas
 
-FONT_DIR = '/usr/share/fonts/truetype/liberation/'
-for name, f in (('Mono', 'LiberationMono-Regular.ttf'), ('Mono-B', 'LiberationMono-Bold.ttf'),
-                ('Mono-I', 'LiberationMono-Italic.ttf'), ('Mono-BI', 'LiberationMono-BoldItalic.ttf')):
-    pdfmetrics.registerFont(TTFont(name, FONT_DIR + f))
+rl_config.useA85 = 0  # fluxos binários: arquivo menor
+
+# Courier padrão do PDF (não embutida): é a fonte tradicional de roteiro e
+# mantém o arquivo leve. Cobre os acentos do português (WinAnsi).
+FONTS = {'Mono': 'Courier', 'Mono-B': 'Courier-Bold',
+         'Mono-I': 'Courier-Oblique', 'Mono-BI': 'Courier-BoldOblique'}
 
 IN = 72
 PW, PH = A4
@@ -153,19 +154,29 @@ def wrap(s, width):
 # ---------------------------------------------------------------- composição
 class Writer:
     def __init__(self, path, title):
-        self.c = canvas.Canvas(path, pagesize=A4)
+        self.c = canvas.Canvas(path, pagesize=A4, pageCompression=1)
         self.c.setTitle(title)
         self.page = 0
         self.y = None
+        self.t = None
+        self.font = None
 
-    def new_page(self):
-        if self.page:
-            self.c.showPage()
-        self.page += 1
-        self.y = TOP
-        if self.page > 1:
-            self.c.setFont('Mono', SIZE)
-            self.c.drawRightString(PW - 1 * IN, PH - 0.5 * IN, f'{self.page - 1}.')
+    def put(self, x, y, text, font):
+        """Escreve texto num único objeto de texto por página (PDF compacto)."""
+        if self.t is None:
+            self.t = self.c.beginText()
+            self.font = None
+        if font != self.font:
+            self.t.setFont(font, SIZE)
+            self.font = font
+        self.t.setTextOrigin(x, y)
+        self.t.textOut(text)
+
+    def page_end(self):
+        if self.t is not None:
+            self.c.drawText(self.t)
+            self.t = None
+        self.c.showPage()
 
     def remaining(self):
         return int(round((self.y - BOTTOM) / LH))
@@ -189,8 +200,7 @@ class Writer:
     def _run(self, x, text, style):
         bold, ital, und = style or (False, False, False)
         font = 'Mono' + ('-' if bold or ital else '') + ('B' if bold else '') + ('I' if ital else '')
-        self.c.setFont(font, SIZE)
-        self.c.drawString(x, self.y, text)
+        self.put(x, self.y, text, FONTS[font])
         if und:
             self.c.line(x, self.y - 1.5, x + len(text) * CW, self.y - 1.5)
 
@@ -198,32 +208,30 @@ class Writer:
         self.y -= LH * n
 
     def save(self):
-        self.c.showPage()
+        self.page_end()
         self.c.save()
 
 
 def title_page(w, tp):
     w.page = 0
-    w.c.setFont('Mono', SIZE)
+    centre = lambda y, s, f: w.put(PW / 2 - len(s) * CW / 2, y, s, f)
     y = PH - 3.3 * IN
     for t in tp.get('title', []):
         for ln in wrap(t, 60):
             txt = ''.join(c for c, _ in ln)
-            w.c.setFont('Mono-B' if t == tp['title'][0] else 'Mono', SIZE)
-            w.c.drawCentredString(PW / 2, y, txt)
+            centre(y, txt, FONTS['Mono-B'] if t == tp['title'][0] else FONTS['Mono'])
             y -= LH * 1.5
     y -= LH * 3
-    w.c.setFont('Mono', SIZE)
     for k in ('credit', 'author', 'authors', 'source'):
         for t in tp.get(k, []):
-            w.c.drawCentredString(PW / 2, y, t)
+            centre(y, t, FONTS['Mono'])
             y -= LH * 1.5
     y = 1.5 * IN
     for k in ('draft date', 'contact', 'copyright'):
         for t in tp.get(k, []):
-            w.c.drawString(1.5 * IN, y, t)
+            w.put(1.5 * IN, y, t, FONTS['Mono'])
             y -= LH
-    w.c.showPage()
+    w.page_end()
 
 
 def render(src, dst):
@@ -238,11 +246,11 @@ def render(src, dst):
 
     def ensure(lines_needed):
         if w.remaining() < lines_needed:
-            w.c.showPage()
+            w.page_end()
             w.page += 1
             w.y = TOP
-            w.c.setFont('Mono', SIZE)
-            w.c.drawRightString(PW - 1 * IN, PH - 0.5 * IN, f'{w.page}.')
+            num = f'{w.page}.'
+            w.put(PW - 1 * IN - len(num) * CW, PH - 0.5 * IN, num, FONTS['Mono'])
 
     for idx, (kind, text, extra) in enumerate(els):
         if kind == 'pagebreak':
@@ -256,9 +264,8 @@ def render(src, dst):
             ind, wd = LAYOUT['scene']
             lines = wrap('**' + text + '**', wd)
             if extra:
-                w.c.setFont('Mono-B', SIZE)
-                w.c.drawString(0.9 * IN, w.y, extra)
-                w.c.drawString(PW - 0.9 * IN - len(extra) * CW, w.y, extra)
+                w.put(0.9 * IN, w.y, extra, FONTS['Mono-B'])
+                w.put(PW - 0.9 * IN - len(extra) * CW, w.y, extra, FONTS['Mono-B'])
             for ln in lines:
                 w.draw_line(ln, ind)
         elif kind in ('action', 'center', 'transition'):
