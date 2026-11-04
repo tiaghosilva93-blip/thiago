@@ -439,3 +439,238 @@ A fonte de verdade continua sendo a `BIBLIA_NINGUEM_TOCA_NELA.md`. Aqui está o 
 - **O Barão:** Pacheco já foi avisado por ele, sem nome. No EP3, Clovis leva Bruno ao Covil.
 - **Beka:** decidir se ela guardou o recorte de jornal (sugestão no §4).
 - **Romildo e Marlene revelados ao público** no final do EP3. Até lá, a VOZ continua sem rosto. Romildo esteve em cena no EP2 sem ser mostrado como a VOZ, mas com sinais: "Traz a menina", "Sozinha.", o homem de costas nas fotos.
+
+> O EP3 resolveu todos os pontos acima, com duas exceções que seguem abertas de propósito. A primeira é a pergunta de Camila sobre o protocolo 2746, cuja resposta (Renato) fica para o EP5. A segunda é Seu Geraldo: o inquérito da DH continua aberto. Ver a seção "EP3", §5 e §8.
+
+---
+---
+
+## EP3 — "A Lei do Morro" (`EP03_A_LEI_DO_MORRO.fountain`)
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–3 | Terça, 6/10, à noite. Matias entra "de cabeça baixa" na casa de Dona Lourdes, encara Bruno e deixa a menina ficar, com condições ("Porque essa vale muito", "Segunda ela faz treze"). Jotapê é posto de guarda na escada. A VOZ diz "Por enquanto". Matias desdobra pela metade uma foto antiga. |
+| Ato Um | 4–10 | Montagem de quarta a domingo. Segunda, 12/10: às 5h12 Renato atende o celular fora do quarto. A farofa, o canivete e a cicatriz na palma. O arrego dentro do jornal, na viatura. Clovis leva Bruno ao Covil. A fita do rádio de 2021, a foto de Dandara: "A filha da mulher que o senhor caçou tá dormindo na casa da sua mãe." |
+| Ato Dois | 11–19 | Marlene é a tia. O Consórcio, a torre a 400 metros, o livro-caixa. A DH e a caderneta. Kalila acerta a nuca e não cobra. O cofre, a pele da filha, o seguro e a aliança ("Me ajude a chegar no Roberto..."). O Dia das Crianças na pista. Marlene encena, Roberto pega Sofia e ela abre a mão dele com o canivete. "Sorri, Roberto." "Agora a gente tá quite." |
+| Ato Três | 20–32 | Romildo cita o arquivamento e sabe da ligação de 20h12. Sofia conta a história da vela. O morro reconta o caso. Matias ri. Romildo enquadra Roberto. Renato aponta para Pacheco. O pano amarelo e o nome da filha de Bruno. A festa na laje, o parabéns, Beka cantarolando, o pingente e a senha. A tatuagem é mostrada a Bruno e Camila. |
+| Ato Quatro | 33–46 | Pacheco sobe pela mata. O baile. A chave de Laranjeiras ("Depois da eleição eu vou"). Bruno e Camila na laje. Matias e "Paulo de Cachoeira". "Dá o aviso." O tiro interrompe o beijo. Camila desce. Roberto entra pelos fundos da Kalila. A viatura fotografa Camila. A foto de Dandara no pingente. A VOZ ganha rosto no motel da Barra. |
+
+46 cenas, cerca de 10.000 palavras. O perfil de linhas é praticamente o do EP2 (1.479 linhas com texto contra 1.453), o que dá algo entre 52 e 54 páginas.
+
+**Gancho:** num motel da Barra, Romildo desliga o telefonema com Matias. É a mesma voz da VOZ ("Boa noite, Matias"). Na cama, Marlene diz que enquanto Dona Lourdes estiver lá a menina não sai. Romildo apaga o abajur: "Então a gente tira a velha de lá." (cena 46)
+
+---
+
+### 1. Cronologia fixada
+| Data | O quê |
+|---|---|
+| **Terça, 6/10, ~21h30–22h** | Teaser: Matias na sala de Dona Lourdes. |
+| Quarta, 7/10 | Enterro de Seu Geraldo no Cemitério do Caju (cena 4). A DH já sabe da ligação de 20h12 ("desde quarta", Romildo, cena 20). |
+| Quarta a domingo | Sofia escondida na casa de Dona Lourdes, aprendendo a costurar. Jotapê na escada dia e noite. Oficina fechada. Bruno não atende Romildo (4 chamadas perdidas), pela primeira vez em vinte anos. Bruno e Camila se falam por telefone à noite. |
+| Domingo, 11/10 | Marlene registra ocorrência de **subtração de incapaz** contra Bruno (Romildo, cena 20: "Teu nome tá no papel. Por enquanto eu seguro."). |
+| **Segunda, 12/10** (Dia das Crianças e de Nossa Senhora Aparecida; feriado) | Sofia faz 13 anos. Faltam 13 dias para o 2º turno; Prates tem quatro pontos de vantagem (rádio, cena 7). |
+| 5h12 | Renato atende o celular fora do quarto: "Era o plantão." |
+| Manhã | Farofa e canivete. Arrego na viatura. Clovis busca Bruno. Covil. Camila na portaria com a DH. Kalila acerta a nuca. |
+| ~Meio-dia | Entrega de brinquedos do "Farol da Esperança" na pista. O corte na mão de Roberto. |
+| Tarde | Romildo e Bruno na pista; Romildo e Roberto no comitê; Camila mente a Renato; Dona Lourdes faz a prova do vestido. |
+| ~18h–21h | A festa na laje. |
+| ~22h | Começa o baile. |
+| ~0h | O tiro de aviso. Camila desce. |
+| ~0h15 | Roberto nos fundos do salão da Kalila. |
+| ~0h30 | Camila passa pela viatura e é fotografada. A VOZ liga para Matias. O motel. |
+
+---
+
+### 2. Personagens: novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **André, o Barão** | 66 | Primeira aparição. Negro, terno de linho branco. Monta uma **pistola dourada** peça por peça durante a conversa. Trata Bruno de "o senhor" e de "sargento". Preso em Bangu de 2017 a 2024, entregue pelo "rosto do esquema" (Roberto), que ficou com a parte dele: "O primeiro dinheiro daquele cofre era meu." | 10, 11, 14 |
+| **Clovis** | 50 | Braço direito do Barão. Magro, bigode fino, camisa de seda estampada de araras. Dirige um **Mercedes preto dos anos 80**. "Vinte anos de motorista." "De banco?" "De fuga." Humor com função: ele é quem diz a Bruno que "o canivete é teu". | 8, 9, 10, 11, 14, 18 |
+| **Dandara** | morta | **Nomeada pela primeira vez** (cena 10). Foto de carnaval ao lado do Barão, de prancheta no braço. "Cria do Farol, primeira da família a entrar numa faculdade, ciências contábeis." | 10, 11, 14, 44 |
+| **Inspetora Solange** | 45 | Delegacia de Homicídios (Polícia Civil). Não engole a hipótese de latrocínio. | 12 |
+| **Cabo da Viatura** | 40 | O PM que vive no celular dentro da viatura da fronteira (EP1 e EP2). Recebe o **arrego toda segunda, dentro de um jornal**. Faz parte da escolta de Roberto na pista. Fotografa Camila saindo do morro e manda a foto para um número sem nome. | 7, 15, 16, 43 |
+| **Mãe Dôra** | 70 | Ialorixá, toda de branco. Primeira aparição em cena. Cobre com cal o "SÓ JESUS SALVA" pichado no muro do terreiro. Dá a Sofia uma guia de Oxum. | 4, 28 |
+| **Dona Ivone** | 60 | Merendeira da creche. Leva os salgadinhos à festa. | 28 |
+| **DJ Nanda** | 25 | DJ do baile do Farol (a "DJ do baile" da bíblia). | 34 |
+| **Seu Jair** | 60 | Mototaxista que leva Camila ao asfalto "sem perguntar nada". | 41, 43 |
+| Porteiro Novo, Voluntária, Assessor de Roberto, Cinegrafista da campanha, Moça da farmácia (a mesma do EP2) | — | Figurantes, com ou sem fala. | 4, 12, 15–17, 22, 24 |
+| **A VOZ = Romildo** | — | **Ganha rosto na cena 46.** A revelação se faz pela mesma fala dita no telefone e na cama: "Boa noite, Matias." | 2, 45, 46 |
+
+**Recorrentes com informação nova**
+- **Romildo** usa **aliança** (é casado; a mulher não foi mostrada). No motel, veste polo branca, a mesma do homem de costas na foto do pen-drive (EP2, cena 38).
+- **Matias**: Dona Lourdes o chama de **"Alexandre"** e ele aceita. Bebe água até no baile. Ri pela primeira vez (cena 23).
+- **Kalila** chama Roberto de **"Beto"**.
+- **Jotapê** foi rebaixado a guarda permanente da escada de Dona Lourdes. Chama Camila de "tia".
+- **Pacheco** usa no morro o nome **"Paulo, primo da Kátia, da creche"** (Kátia não existe).
+- **Dona Celeste** frequenta a festa, apesar de Mãe Dôra.
+
+---
+
+### 3. Locais novos
+- **O Covil:** casarão no alto do Joá. A **sala branca** (paredes, sofás e um piano de cauda fechado, tudo branco; cortinas grossas; uma mesa comprida). A cortina, quando se abre, mostra São Conrado inteiro: o Farol à esquerda e a torre espelhada à direita. Há uma **varanda** sobre o precipício, com cadeiras de vime. O Barão guarda um **gravador de fita** e uma pasta de couro com fotos.
+- **Casa de Dona Lourdes (novos detalhes):** a **porta de batente baixo** (quem é alto entra de cabeça baixa) e o **filtro de barro**. O **quarto de costura** tem manequim de arame e uma cômoda antiga; na última gaveta ficava o pano amarelo. O **quarto da neta** (cama de solteiro, colcha de fuxico, pôster descolando) é onde Sofia dorme, e a janela gradeada dá para o beco. A **laje** tem escada de ferro, caixa d'água, varal e gambiarra de lâmpadas amarelas.
+- **Quadra do Farol (baile):** paredão de vinte caixas de som. O "camarote" de Matias é um mezanino de andaime com um sofá velho. Choquito revista na entrada "só por cima da roupa". Atrás do paredão há um vão escuro onde ninguém escuta ninguém.
+- **Laje da creche:** além da trilha da mata (EP2), há **um vão entre a caixa d'água e a parede** onde Joana escondeu a pistola de Pacheco.
+- **Terreiro de Mãe Dôra:** muro branco, a cem metros da igreja do pastor Josias.
+- **Motel na Barra da Tijuca:** cama redonda, espelho no teto, neon azul pela persiana.
+- **Cemitério do Caju:** onde Seu Geraldo foi enterrado. **O regador verde ficou sobre o túmulo.**
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP3 | Pagamento previsto |
+|---|---|---|---|
+| **A mulher que foge no prólogo:** "era a contadora" (bíblia) | 10, 11 | **Pago.** Bruno sabe o nome, a função e que ela morreu "em confronto" três semanas depois. | — |
+| **"Não posso tocar nela" / "vale muito" → o seguro** (bíblia) | 1 ("Porque essa vale muito"), 14 | **Pago.** Bruno sabe do seguro: "Se alguém soubesse, a menina já tava morta." | EP6 (o seguro morre). |
+| **O farol tatuado e "7659" → o Barão e o código** (bíblia) | 14, 32 | O Barão explicou: são oito números, quatro à vista e quatro "no desenho", e a fechadura trava de vez na terceira tentativa errada. **Bruno e Camila viram a tatuagem.** Bruno contou os raios em silêncio; o número não é dito. | EP7. **A sala precisa fixar o número de raios.** |
+| **"A ordem tá na cabeça dela. Ela sabe sem saber."** | 14 | **Bruno mentiu ao Barão ("Ela canta alguma coisa?" "Não.").** Ele suspeita que a cantiga é a ordem. Sofia a cantarolou logo depois de mostrar a tatuagem (32), e Bruno e Camila se olharam. Ninguém disse isso em voz alta. | EP5 (vídeo de Dandara) e EP7. |
+| **Fita do rádio de 2021** ("Bravo Dois. Tô com visual" e "Ninguém atira. Eu quero a mochila") | 10 | Com o Barão. Bruno ouviu e sabe que deu o visual na mãe de Sofia. | EP5: a ordem oficial gravada contra a ordem real. |
+| **Foto de carnaval: o Barão e Dandara** | 10, 11 | Com o Barão. | Livre (EP6: Barão e o passado de Roberto). |
+| **Marlene é irmã de Dandara** | 11 | **Bruno sabe. Sofia não.** Bruno não contou. "Pergunta pra Marlene quem foi no enterro da Dandara. Ninguém. Nem ela." | EP5 e EP6. |
+| **O Consórcio**: arrego (toda segunda), taxa da milícia (toda sexta, de Campo Grande), obra do Farol Legal ("volta pela metade"), dízimo, cesta básica e "o que sobra, sobra em nota". Cerca de R$ 80 milhões e o livro-caixa na cobertura da torre. | 11, 14 | Bruno sabe. Camila não (Bruno ainda não contou a ela; a sala decide quando). | EP7. |
+| **"Tem polícia no Consórcio. Gente de patente."** | 14 | **O Barão não nomeia Romildo** e diz por quê: "Se eu disser agora, o senhor levanta e vai embora. E eu preciso do senhor sentado." | EP5 ("Foi o seu padrinho"). |
+| **A aliança com o Barão** ("Me ajude a chegar no Roberto que eu te entrego quem você quiser." / "Eu quero o Matias.") | 14 | **Bruno aceitou sentando-se.** O Barão quer Roberto "sem nada" e "o que é meu". | EP6 e EP7 (a traição). |
+| **Pacheco é informante do Barão** | 8, 14 | Bruno sabe. Pacheco ainda não sabe que Bruno sabe. | EP4. |
+| **O arrego na viatura** (envelope dentro do jornal, "Semana que vem aumenta. Eleição. De cima.") | 7, 11, 15, 16, 23 | Matias manda pagar o aumento. Bruno viu a entrega. Paulão e o cabo se entendem com um gesto de queixo, e é esse gesto que desarma a escolta na pista. | EP4: o arrego não impede a operação. |
+| **Vale-gás da Firma com o rosto de Roberto** | 15, 22 | Dona Zezé jogou os papéis no lixo diante da pista. O Homem da Firma viu. | Ameaça a Zezé (EP4 ou EP6). |
+| **A mão queimada de Sofia** (bíblia) | 6 (a cicatriz), 16, 19, 21 | Aos nove anos, no Natal da igreja, Sofia pegou um envelope numa salinha atrás do altar. Roberto segurou a mão dela sobre uma vela até ela soltar, depois sorriu e lhe deu um panetone. **Marlene passou a pomada.** | **Pago** com o canivete. |
+| **O canivete** | 6, 10, 16, 19, 21 | Presente de aniversário de Bruno ("A lâmina nunca aponta pra você"). Usado na mão esquerda de Sofia. **Está com ela, limpo por Bruno**, que não o tomou de volta. | Livre (EP6 e EP7). |
+| **O corte na palma direita de Roberto** | 16, 17, 24, 42 | Fechado por Kalila com três tiras de fita de sutura. Romildo: "Amanhã você grava com a esquerda." | **Roberto aparece com a mão enfaixada até o fim da temporada** e precisa de uma desculpa pública. |
+| **Cartão de memória da câmera da campanha** | 16, 24 | **No bolso do paletó de Romildo.** Mostra Roberto puxando Sofia pelo pulso. | Livre. Arma de Romildo contra Roberto (EP6). |
+| **Vídeo tremido de celular** | 22 | Circula no ponto de mototáxi. Não se vê nada claro. | — |
+| **Ocorrência de subtração de incapaz** feita por Marlene | 20 | Registrada no domingo, 11/10. Romildo "segura". | **EP6: base para tornar Bruno foragido.** |
+| **O arquivamento citado por Romildo** (pista do laudo na bíblia) | 20 | "O inquérito da tua filha tá arquivado há cinco anos. Laudo, balística, tudo assinado." Bruno pergunta "Então por que mataram ele?" e fica sem resposta. **A dúvida sobre Romildo foi plantada, não resolvida.** | EP5. |
+| **Romildo sabia da ligação de 20h12** | 20, 21 | Sofia: "Ele sabia do telefonema." Bruno: "Ele é Inteligência." Sofia: "Tu já falou isso." | EP5. |
+| **Renato atende o celular fora do quarto** (bíblia) | 5 | Às 5h12, e volta dizendo "Era o plantão" sem que ninguém tenha perguntado. | EP5. |
+| **Renato aponta para Pacheco** ("Tava perto o bastante pra perguntar 'que menina'." / "Cuidado com quem tu confia, Camila.") | 25 | Falsa pista. Camila não compra inteira. Na laje começa a dizer "O Renato..." e se cala (36). | EP4–EP5. |
+| **Caderneta "SARGENTO BRUNO"** | 12, 36 | Com a DH, num saco de evidência. Camila disse à inspetora que não sabe onde Bruno está. | O nome de Bruno está num inquérito de homicídio (EP6). |
+| **A foto dobrada de Matias** (bíblia) | 3, 45 | Só metade foi vista: Matias aos vinte e poucos, sem camisa, rindo, com o braço no ombro de alguém. | EP5 (Dandara). |
+| **Matias sabe o dia do aniversário** | 1 | "Segunda ela faz treze." Sofia: "Eu nunca contei pra ele." | EP5 (Matias é o pai). |
+| **Matias ri do canivete** | 23 | "O senhor gosta dela." / "Eu odeio criança." Beka viu. | EP5. |
+| **Kalila sabe o aniversário** ("Passarinho"), **lava o sangue da calçada** e quase diz "A mãe dela..." a Roberto | 13, 22, 42 | Ninguém percebeu, a não ser Dona Lourdes, pelo espelho (13). | EP6 (a guardiã do seguro). |
+| **Roberto entra pelos fundos do salão da Kalila** (bíblia) | 41, 42 | De capuz e boné. Ela o trata, recusa que ele fique ("Hoje não") e o manda embora pela escada de trás. | EP6. |
+| **O pingente de farol** (bíblia: "tem espaço pra foto dentro") | 31, 44 | Presente de Gabriel. **Dentro está a foto de Dandara rindo**, impressa por Gabriel em papel de bobina e recortada em círculo a pedido de Sofia ("Pra caber"). Sofia não sabe que é a mãe. **Bruno viu e sabe.** | EP5 (o vídeo) e EP8 (o cartão de memória). **Atenção:** o cartão de memória do EP8 precisa caber junto da foto ou no lugar dela. |
+| **Senha 12102013 = o aniversário de Sofia** | 29, 31 | Gabriel contou a ela: "Quem é que sabia o dia que eu nasci?" / "Quem botou a senha." | EP5. |
+| **O pen-drive** | 31 | Continua no compartimento da bateria do drone. "FAROL.hc" fechado. | EP5. |
+| **O pano amarelo** ("P/ O VESTIDO DOS 13 ANOS DA SOFIA — NÃO MEXER") | 26 | O bilhete está no bolso do avental de Dona Lourdes. **Sofia sabe que a filha de Bruno se chamava Sofia e tinha doze anos.** | — |
+| **Vestido amarelo, guia de Oxum (contas amarelas), tênis branco nº 36, o chinelo** | 26, 28 | Sofia dormiu de vestido. Agora tem "um par e meio". | O amarelo liga Sofia à xuxinha (EP7 e EP8). |
+| **Polo "SGT. RENATO"** | 1, 6, 28, 40 | **Na mochila de Camila.** | Renato pode encontrá-la (EP4 e EP5). |
+| **A chave de Laranjeiras** (chaveiro de fitinha do Bonfim) | 35, 39 | Com Joana: "Depois da eleição eu vou." | EP4 (a morte de Pacheco). |
+| **A pistola de Pacheco** | 33 | Enrolada num lençol de bichinhos, no vão entre a caixa d'água da creche e a parede. **Não se mostra se Pacheco a pegou de volta.** | Livre. Pode ser achada por uma criança ou por Joana no EP4. |
+| **"Paulo de Cachoeira"** | 37, 39 | Matias sentiu o calo no indicador, viu o cabelo de quartel e a mão de Pacheco endurecer ao ouvir "tenente". Desconfia, mas não sabe. **Beka viu tudo** e sorriu "como quem guarda um troco". | EP4. |
+| **O recorte de jornal com o rosto de Tom** | 4 | **Beka guardou** na carteira (resolve a pendência do EP2). | EP7 (bíblia). |
+| **Mensagem da Firma a Paulão** ("Teu patrão não passa da eleição. A gente paga o dobro.") | 34 | Apagada, mas recebida. | EP6. |
+| **A foto de Camila na garupa**, tirada pelo Cabo da Viatura e enviada a um número sem nome | 43 | Destinatário indefinido. | **Decisão de sala:** Romildo, Tom ou Renato. |
+| **Aliança de Romildo** | 46 | Na mesinha do motel. | Livre. |
+| **"Então a gente tira a velha de lá."** | 46 | Dona Lourdes vira alvo declarado. | EP4 (a operação) e EP7 (o vídeo de Lourdes amarrada). |
+
+---
+
+### 5. Decisões tomadas além da bíblia
+1. **Dandara foi contadora do Barão antes de ser do Consórcio** ("Minha, no começo. Depois, de gente maior que eu."). Foi o Barão quem a levou para dentro do esquema. Isso dá a ele culpa e um interesse pessoal.
+2. **Como o Barão sabe do segredo:** Dandara o visitou em Bangu três semanas antes de morrer e disse "Na pele da minha filha". Ele **não sabe** quem guarda o seguro, não sabe os números e não conhece a cantiga.
+3. **O Barão não nomeia Romildo, e a cena diz por quê.** Isso corrige o defeito do original (análise, §6.2, item 7), em que o Barão conduzia Bruno às cegas sem motivo. Aqui ele omite por estratégia, e o público entende.
+4. **O Barão tem a gravação de rádio de 2021.** É a forma de pôr Bruno em conflito com a própria culpa (ele deu o visual da mãe de Sofia) sem flashback e sem discurso. A voz de Romildo soa na sala branca.
+5. **A exposição do Consórcio** foi dividida em três cenas (10, 11 e 14), intercaladas com outras linhas, e construída como interrogatório: Bruno deduz o arrego pelo que viu de manhã (cena 7) e a obra pela placa da pista. O Barão confirma, nega ou provoca. Bruno tenta ir embora uma vez e só se senta no fim.
+6. **Bruno mente ao Barão sobre a cantiga.** É a primeira vez que Bruno aplica o "um passo à frente" que ensinou a Sofia.
+7. **A mão queimada foi reinventada** sem arma na mão de Roberto, o que evita o furo do original (análise, §6.2, item 6). Uma vela, aos nove anos, no Natal da igreja, por causa de um envelope de dinheiro. É contada em quatro frases, sem flashback.
+8. **O "comício" virou a entrega de brinquedos do Dia das Crianças** do projeto "Farol da Esperança". Roberto age por conta própria ("Era a cena perfeita") e Romildo o enquadra ("Você lê o que eu escrevo"). O episódio mostra Romildo mandando em Roberto sem revelá-lo como a VOZ antes da cena 46.
+9. **O canivete é presente de aniversário de Bruno**, dado de manhã, com instrução de uso.
+10. **O nome da filha de Bruno chega a Sofia por um objeto:** o pano amarelo que Dona Lourdes comprou para os 13 anos da neta e guardou por cinco anos. "O vestido é teu. O pano é que esperou."
+11. **O tiro de aviso** é ordem de Matias ("Dá o aviso"), dada no meio do baile e motivada pela regra "polícia não dorme no Farol". Quem atira não aparece em quadro. O mesmo chamado de rádio que salva Pacheco interrompe o beijo.
+12. **Matias impõe condições:** Sofia não desce à pista sem alguém dele olhando, não sai do Farol, e Bruno não anda armado no morro ("eu esqueço quem é tua mãe"). A pistola continua em cima do armário.
+13. **Dona Lourdes desafia o asfalto em público** ("Quem quiser essa menina sobe a minha escada... De cabeça baixa."). É o motivo direto do gancho: Marlene repete a frase no motel.
+14. **Marlene obedece a Romildo em público antes de o público saber por quê.** Na pista, ela para de chorar e recua para a multidão quando Romildo faz um "não" mínimo com a cabeça (cena 16). É o primeiro sinal visível da ligação entre os dois antes do motel.
+15. **Joana aceita ir para Laranjeiras "depois da eleição".** Isso dá à morte de Pacheco no EP4 um futuro interrompido.
+16. **O Barão e Clovis souberam onde Bruno estava por Pacheco**, que soube por Joana. A cadeia fica explícita.
+17. **Sofia pediu a Gabriel a foto da "moça que ri"** sem saber que é a mãe. É intuição, não informação.
+18. **A guia de Oxum** dada por Mãe Dôra e a convivência com Dona Celeste ("Deus é um só e a farofa também") cumprem a bíblia (igreja e terreiro a cem metros) sem virar tema do episódio.
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Na minha casa tu entra de cabeça baixa." | Dona Lourdes | 1 | Bíblia. Retomada em público na cena 16 e citada por Marlene na 46. Matias literalmente abaixa a cabeça sob o batente baixo. |
+| "Eu nasci nele." / "Eu também. Só que eu fiquei." | Bruno e Matias | 1 | — |
+| "Eu mando da escada pra cima." | Matias | 1 | Eco de "Da escada pra cima, o morro é meu" (EP2). |
+| "Porque essa vale muito." | Matias | 1 | Bruno a repete ao Barão (14). |
+| "Tu me deixou manco." / "Eu mirei no peito." | Matias e Bruno | 1 | — |
+| "Por enquanto, Matias." | A VOZ | 2 | — |
+| "Ninguém deixa de ser. A gente só para de receber." | Barão | 10 | Sobre ser policial. |
+| "Rádio de polícia é aberto... rádio de cento e vinte reais" | Barão | 10 | **Eco involuntário de Renato** (EP2, cena 20). Ninguém nota. |
+| "Não sou pai dela." | Bruno | 14 | Eco de "Não é minha" (EP2). A inverter no fim da temporada. |
+| "Me ajude a chegar no Roberto que eu te entrego quem você quiser." | Barão | 14 | Bíblia. |
+| "E eu preciso do senhor sentado." | Barão | 14 | — |
+| "Mão leve se queima." | Roberto | 16 | — |
+| "Sorri, Roberto." | Roberto | 17 | O ator se dirigindo a si mesmo. |
+| "Agora a gente tá quite." | Sofia | 19 | — |
+| "Deixa a tua filha descansar, Bruno." | Romildo | 20 | Ironia a partir do EP5. |
+| "Ele é Inteligência." / "Tu já falou isso." | Bruno e Sofia | 21 | Eco do EP2, cena 8. |
+| "Até eu acabar de contar, já vai ser peixeira." | Mototaxista Novo | 22 | — |
+| "Eu odeio criança." | Matias | 23 | Bíblia. |
+| "Você lê o que eu escrevo." / "Amanhã você grava com a esquerda." | Romildo | 24 | — |
+| "O vestido é teu. O pano é que esperou." | Dona Lourdes | 26 | — |
+| "Deus é um só e a farofa também." | Dona Lourdes | 28 | — |
+| "Tem espaço pra foto dentro." | Gabriel | 31 | Bíblia. |
+| "Valeu, Jobs." / "Gabriel." / "Valeu, Gabriel." | Sofia e Gabriel | 31 | O apelido dá lugar ao nome. |
+| "Ninguém consegue ver as próprias costas." | Sofia | 32 | — |
+| "Depois da eleição eu vou." | Joana | 35 | — |
+| "Sorte do Exército." | Matias | 37 | — |
+| "Polícia de folga é polícia." | Jotapê | 40 | — |
+| "Vinte e seis." | Bruno e Camila | 36, 40 | O casamento dito como obstáculo e como despedida. |
+| "Ninguém te olha de perto, Beto." | Kalila | 42 | — |
+| "Boa noite, Matias." | A VOZ / Romildo | 45, 46 | A revelação. |
+| "Então a gente tira a velha de lá." | Romildo | 46 | Gancho da bíblia. |
+| "Farinha é por último." / "Lá na tua casa..." | Dona Lourdes | 6 | Eco do tempero do miojo (EP2, cena 23). |
+| "Agora eu tenho um par e meio." | Sofia | 28 | Paga o "Você tem problema com sapato" (EP2). |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP3 (madrugada de 12 para 13 de outubro de 2026)
+- **Bruno:** no quarto da neta, sentado no chão ao lado de Sofia adormecida. Sabe que ela é filha de Dandara, que Marlene é tia, o que é o Consórcio e onde fica o cofre. Sabe do seguro. Desconfia que a cantiga é a ordem e não contou a ninguém. Fez aliança com o Barão, quer Matias e ouviu que "no fim vai querer outro". Desarmado no morro por ordem de Matias. Tem a primeira dúvida concreta sobre Romildo ("Então por que mataram ele?"), mas ainda confia nele. Quase beijou Camila. Ainda culpa Matias pela morte da filha. Seu nome está numa ocorrência de subtração de incapaz e num inquérito de homicídio.
+- **Sofia:** 13 anos. Dorme de vestido amarelo, com o pingente na mão. Tem canivete, tênis, guia de Oxum e "um par e meio". Sabe que a filha de Bruno se chamava Sofia, que a senha do pen-drive é a data do seu nascimento e que "o homem de branco" queria saber das suas costas. Mostrou a tatuagem a Bruno e Camila. Cortou a mão de Roberto. Desconfia ainda mais de Romildo. Não sabe que Dandara é a mãe, que Marlene é a tia nem que Matias é o pai.
+- **Camila:** foi fotografada saindo do Farol à meia-noite. Mentiu a Renato ("na DH") e à inspetora ("não sei onde ele está"). Começa a desconfiar de Renato, mas ele a desviou para Pacheco. Viu a tatuagem e ouviu a cantiga. Levou a polo de Renato na mochila. Não respondeu se ainda vai casar no dia 26.
+- **Renato:** fez uma ligação escondida às 5h12. Plantou a suspeita sobre Pacheco. Ficou em casa olhando o celular.
+- **Romildo (a VOZ):** **revelado ao público** como a VOZ e como amante de Marlene. Tem o cartão de memória da campanha. "Segura" a ocorrência contra Bruno. Sabe que Camila subiu o morro. Decidiu tirar Dona Lourdes do caminho.
+- **Marlene:** no motel com Romildo. Encenou o desespero em público e recuou quando Romildo mandou. Odeia Dona Lourdes.
+- **Roberto:** com a palma direita cortada e fechada por Kalila. Humilhado por Romildo. Sem dinheiro para a reta final. Foi aos fundos do salão e não conseguiu ficar.
+- **Matias:** deixou Sofia ficar na casa de Dona Lourdes, sob vigilância. Riu do canivete. Desconfia de "Paulo de Cachoeira". Mandou o tiro de aviso. Paga o arrego mais caro. Relata tudo à VOZ e guarda a foto dobrada.
+- **Paulão:** recebeu da Firma a oferta do dobro e apagou. Paga o arrego.
+- **Jotapê:** guarda a escada dia e noite.
+- **Beka:** guardou o recorte com o rosto de Tom. Cantarolou o parabéns. Percebeu que "Paulo" é polícia.
+- **Tarso:** sem mudança.
+- **Barão:** aliado de Bruno por interesse. Não revelou Romildo. Quer Roberto e o dinheiro.
+- **Clovis:** levou e trouxe Bruno.
+- **Pacheco:** entrou no baile desarmado, foi examinado por Matias e saiu vivo. Deixou a pistola na caixa d'água da creche. Joana aceitou morar com ele depois da eleição.
+- **Joana:** com a chave de Laranjeiras. Devolveu o chinelo.
+- **Dona Lourdes:** desafiou o pastor e a "mãe" em público. Costurou o vestido da neta para Sofia. **É alvo declarado.**
+- **Gabriel:** contou a Sofia sobre a senha, deu o pingente e imprimiu a foto de Dandara. O pen-drive continua no drone.
+- **Kalila:** cortou o cabelo de Sofia de graça pela segunda vez. Lavou o sangue de Roberto da calçada e tratou a mão dele. Quase disse "a mãe dela..." e ficou olhando a escadaria.
+- **Dona Zezé:** jogou fora o vale-gás da Firma na frente de todos. Está exposta.
+- **Mãe Dôra:** apagou a pichação; deu a guia a Sofia.
+- **Tom:** não aparece no EP3.
+- **Seu Geraldo:** enterrado no Caju; o regador verde ficou sobre o túmulo.
+
+---
+
+### 8. Pendências para o EP4 — "Operação"
+- **"Tira a velha de lá."** É preciso definir como a ameaça a Dona Lourdes se materializa no EP4 sem queimar o EP7 (o vídeo de Lourdes amarrada). Sugestão: a operação do BOPE entra no Farol com um mandado de busca na casa dela, baseado na ocorrência de subtração de incapaz feita por Marlene, e a "excepcionalidade" da ADPF 635 é justificada com o nome da menina. A casa de Lourdes vira o primeiro alvo.
+- **A condição de Matias** (Bruno desarmado no morro) é posta à prova: na operação, Bruno pega a pistola de cima do armário?
+- **Pacheco:** o EP4 deve partir do que ficou armado: a chave e o "depois da eleição", a pistola na caixa d'água da creche, a desconfiança de Matias e o olhar de Beka. Pela bíblia, ele morre tentando tirar Joana de casa.
+- **Bruno sabe que Pacheco é informante do Barão.** Os dois ainda não conversaram sobre isso.
+- **A primeira tarefa da aliança com o Barão:** o que o Barão pede ou oferece no EP4? Sugestão: informação antecipada da operação, via Pacheco.
+- **Bruno contou a Camila o que ouviu no Covil?** Decidir no início do EP4, ou deixar implícito que contou ao telefone.
+- **Romildo não pode ser exposto aos heróis antes do EP5.** Manter a dúvida de Bruno viva, sem resolver.
+- **A mão enfaixada de Roberto** precisa de uma explicação pública ("acidente doméstico", "corte numa obra") se ele aparecer no horário eleitoral.
+- **O cartão de memória** está com Romildo.
+- **Tom volta no EP4** (ausente no EP3) e mata Pacheco. A tatuagem de caveira aparece no vídeo do drone.
+- **Gabriel e o drone:** o pen-drive continua na bateria do drone e o drone vai filmar a operação. Risco de perder o pen-drive se o drone cair.
+- **Joana "olha Sofia como quem reconhece alguém"** (bíblia, EP4). Ainda não aconteceu.
+- **O número de raios da tatuagem:** a sala precisa defini-lo antes de filmar o plano da cena 32.
+- **O destinatário da foto de Camila** tirada pelo Cabo da Viatura.
+- **Renato:** pela bíblia, no EP4 ele dá a Camila a ordem de "não subir". Ela agora tem motivo para desobedecer.
+- **Dona Zezé e Mãe Dôra** estão expostas à Firma.
+- **Sofia não deve saber antes do EP5** que a mulher do pingente é a mãe dela.
+- **Camila, o protocolo 2746 e a DH:** a pergunta continua aberta e a resposta (Renato) fica para o EP5.
