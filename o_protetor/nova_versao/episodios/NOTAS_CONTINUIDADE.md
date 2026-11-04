@@ -218,3 +218,224 @@ A fonte de verdade continua sendo a `BIBLIA_NINGUEM_TOCA_NELA.md`. Aqui está o 
 - A Sofia de 2026 ainda **não ouviu** que a filha de Bruno também se chamava Sofia e tinha 12 anos.
 - Formiga, Vavá e Paulão podem identificar Bruno diante de qualquer um. Vavá, baleado, é um problema para a boca.
 - A sala ainda precisa definir a mãe da filha de Bruno.
+
+> Todos os pontos acima foram resolvidos no EP2. Ver a seção "EP2", §5.
+
+---
+---
+
+## EP2 — "Um Passo à Frente" (`EP02_UM_PASSO_A_FRENTE.fountain`)
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–5 | Madrugada: Seu Geraldo ("não foi o bandido que atirou primeiro"), Bruno devolve o Onix e liga para Romildo, Sofia desenha um farol num adesivo, o GPS da locadora entrega o Leblon a Paulão, Tom e a tatuagem de caveira |
+| Ato Um | 6–13 | Manhã: o protocolo do Conselho, a casa de Romildo (Sofia não entrega o pen-drive), "Ele não perguntou", Renato pede o táxi, a Firma na pista, Dona Lourdes apaga o "X9" e enfrenta Marlene, "Você vai ter companhia", o táxi chega e as travas descem |
+| Ato Dois | 14–25 | Tarde: a emboscada na Niemeyer, Camila tira Sofia do mar, Tom contrata Beka e Tarso ("ninguém toca nela", "então é o triplo"), "Quem sabia desse táxi?", o vídeo viral no Farol, o miojo, "pré-pré adolescente", "um passo à frente", o pen-drive verdadeiro na meia |
+| Ato Três | 26–36 | Entardecer: o bilhete para Jobs, Seu Geraldo manda o envelope por Luiz, Pacheco e Joana na laje, a playlist na perícia ("Sozinha."), Tom na banca, a falsa conselheira, a fuga pela escada de serviço, a casa revirada, o ponto de ônibus, "Ele me viu em 2021. Volta." |
+| Ato Quatro | 37–53 | Noite: o ônibus pela Niemeyer (a mãe da filha de Bruno), Gabriel abre parte do pen-drive, Seu Geraldo reconhece Tom e liga para Bruno, Bruno recusa a chamada, Beka volta, "três semanas", o corte de cabelo no salão da Kalila, a portaria vazia, Renato na varanda, Jotapê entrega a menina, Beka e Tarso como "companhia" de Matias, a casa de Dona Lourdes, o gancho |
+
+53 cenas, cerca de 10.000 palavras.
+
+**Gancho:** Bruno leva Sofia para dentro do Farol, até a casa de Dona Lourdes. Matias bate três vezes, **espera** e diz: "Boa noite, tia. Vim buscar a menina." (cena 53)
+
+---
+
+### 1. Cronologia fixada
+| Data | O quê |
+|---|---|
+| **Terça, 6 de outubro de 2026** | Todo o EP2, da madrugada (5h40) até cerca de 21h30. Faltam 19 dias para o 2º turno (rádio, cena 5). |
+| 7h10 | Camila liga para o plantão do Conselho Tutelar. **Protocolo 2746.** Apresentação marcada para as 14h. |
+| 8h | Bruno e Sofia na casa de Romildo. |
+| 13h20 | O táxi chega dez minutos adiantado. |
+| ~13h50 | O táxi cai no costão da Niemeyer, num trecho de mureta aberto para obra. |
+| ~17h | Bruno sai do apartamento levando o pen-drive falso. |
+| ~17h20 | Luiz, o motoboy, leva o envelope ao Farol. |
+| ~17h45 | Beka e Tarso invadem o apartamento 403. |
+| ~18h15 | Bruno e Sofia pegam o ônibus "SÃO CONRADO — FAROL". |
+| **20h12** | Seu Geraldo liga para Bruno do telefone fixo da portaria. **Bruno recusa a chamada.** |
+| ~20h15 | Beka e Tarso voltam. Seu Geraldo é morto, fora de quadro, e o corpo fica na garagem. |
+| ~20h30 | Horário eleitoral com a frase do Neemias (cenas 42 e 43). |
+| ~21h | Camila e Renato encontram a portaria vazia. |
+| ~21h30 | Matias à porta de Dona Lourdes. |
+| Segunda, 12 de outubro | Kalila: "Volta segunda que vem pra eu acertar essa nuca" (cena 46). É o aniversário de Sofia e o dia do EP3. |
+
+---
+
+### 2. Personagens novos ou vistos pela primeira vez
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Tom** (Tomás Vieira) | 47 | Primeira aparição com rosto. Branco, cabelo raspado. Chefe da Firma num galpão de gás em Campo Grande. Reza antes do café. Recebe ordens do "NÚMERO PRIVADO" (a VOZ). **Tatuagem de caveira no antebraço** mostrada ao público (cenas 5 e 30). Conhece Bruno: "Era o melhor atirador do batalhão" (cena 30). Sabe que Seu Geraldo o viu em 2021 (cena 36). | 5, 19 (V.O.), 30, 36 |
+| **Beka** | 38 | Parda, unhas curtas sem esmalte, rosto manso. Matadora de aluguel contratada por Tom. Disfarce: **conselheira tutelar** com crachá falso. Cobra o dobro por criança e o triplo se "ninguém toca nela". Semente de humanidade: devolve o tênis de Sofia ao lugar (cena 34). Olha o recorte de Seu Geraldo "um tempo a mais" (cena 41). | 19, 30, 31, 34, 36, 41, 50, 52 |
+| **Tarso** | 42 | Branco, grandalhão, marido de Beka. Arromba a porta, rasga as almofadas e a capa do vestido. Lava as mãos na pia de Matias e a água desce rosada (cena 50). | 19, 30, 31, 34, 36, 41, 50, 52 |
+| **Taxista** | 45 | Homem da Firma num táxi com adesivo falso de cooperativa. Trava as portas, segue pela Niemeyer e foge para a van. | 13, 14, 16, 17 |
+| **Homem da Firma** | 30 | Simpático e de barba feita, vende gás na pista. "A gente sabe o nome de todo mundo." Chama Paulão pelo nome. | 10 |
+| **Zé** | — | Motorista de Romildo, de óculos escuros. Sem fala. | 7, 8 |
+| **Técnico** | 30 | Da sala de perícia da Subsecretaria ("máquina isolada"). | 29 |
+| **Luiz** | 22 | Motoboy que entrega remédio para o prédio de Camila. Leva o envelope ao Farol. (Nome mantido do original do Thiago.) | 27 |
+| **Dona Nilza** | 70 | Cliente da Kalila, de bobes debaixo do secador. Reconhece a fala do Neemias. | 43 |
+| **Luana** | — | **Mãe da filha de Bruno. Só citada.** Ver §5. | 37 |
+| Eletricista do gato, Açougueiro, Mototaxista velho, Mototaxista novo, Vizinha de Marlene, Sargento PM, Socorrista, Voz no vídeo | — | Figurantes, com ou sem fala. | 4, 10, 11, 20, 22 |
+
+**Recorrentes com informação nova**
+- **Dona Zezé** aparece pela primeira vez em cena falada (cena 10) e repara no bolso de Paulão.
+- **Jotapê** reconhece Sofia pelo andar, mesmo de cabelo curto, e a entrega pelo rádio (cena 49). Coerente com o EP1: "Desde que eu nasci".
+- **Formiga** apaga o "X9" com a mão boa, sob o olhar de Dona Lourdes (cena 11). Ganha uma cocada de Joana (cena 28).
+- **Dona Celeste** recebe o envelope de casamento "com letra de menina" (cena 38).
+
+---
+
+### 3. Locais novos
+- **Casa de Romildo (Jardim Botânico):** casa térrea atrás de um muro com trepadeira. Velocípede cor-de-rosa da neta na grama, orquídeas penduradas em vasos de fibra de coco na varanda, cadeiras de vime e geladeira coberta de desenhos infantis. Romildo veste polo branca e sandália.
+- **Subsecretaria de Inteligência (Centro):** o gabinete de Romildo tem vista para a torre do relógio da Central do Brasil, uma orquídea na mesa e um porta-retrato de Romildo e Roberto de braços erguidos num culto. A **sala de perícia** é pequena e fria, com o cartaz "MÁQUINA ISOLADA — SEM REDE".
+- **Galpão da Firma (Campo Grande):** botijões azuis, caminhonete branca, homens de colete preto sem identificação e, pintado na parede, "SE O SENHOR NÃO GUARDAR A CIDADE, EM VÃO VIGIA A SENTINELA — SL 127".
+- **Casa de Beka e Tarso (Realengo):** cozinha com um canário na gaiola e TV num programa de culinária.
+- **Avenida Niemeyer:** trecho de mureta aberto para obra, cercado por cones. É ali que o táxi desce o costão e para de bico na beira do mar. O ônibus de volta passa pelo guincho (cena 37).
+- **Comitê de campanha de Roberto:** sala reservada com caixas de santinhos e um monitor com o horário eleitoral.
+- **Laje da creche Pingo de Gente:** varais com lençóis estampados e uma caixa d'água. Por trás dela sai uma **trilha da mata**, o caminho de Pacheco para entrar no Farol sem passar pela pista.
+- **Salão da Kalila (por dentro):** espelhos, cadeiras de couro rachado, secador de capacete e TV na parede. Pelos **fundos**, um corredor entre duas casas e uma escada sem luz levam à escadaria do Cruzeiro sem passar pela pista.
+- **Prédio de Camila (detalhes):** o **apartamento é o 403**, número do original. Tem porta de serviço na cozinha, **escada de serviço** com lixeira por andar e lâmpada piscando, **rampa da garagem** para a rua, **câmera de cúpula** na marquise com gravador na portaria, a **gaveta que emperra** (onde ficavam o recorte e os cardápios) e a plaquinha "VOLTO JÁ" na porta de vidro.
+- **Ponto de ônibus em frente ao prédio:** Sofia espera no **mesmo banco onde Dandara se virou em 2021** (cena 35). Ninguém sabe disso.
+- **Ônibus "SÃO CONRADO — FAROL":** linha que liga o Leblon ao pé do morro pela Niemeyer.
+- **Casa de Dona Lourdes:** a pistola de Bruno fica **em cima do armário, atrás do pote de botões**. A vela do retrato é nova.
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP2 | Pagamento previsto |
+|---|---|---|---|
+| **"Não foi o bandido que atirou primeiro"** (pista do laudo, da bíblia) | 1 | Bruno ouviu e respondeu "Hoje não". Depois, "Depois. Eu prometo" (24). Seu Geraldo morreu antes do "depois". | EP5 (contraperícia). |
+| **Recorte de jornal de 2021**: foto da rua com um PM de perfil, balaclava enrolada na testa e o rosto descoberto, acendendo um cigarro. É **Tom**. | 1, 24, 39, 41 | Na mão de Seu Geraldo quando Beka entra. **Destino não mostrado:** Beka o olha "um tempo a mais". | **Sugestão:** Beka guardou o recorte e o entrega a Sofia ou a Bruno no EP7 antes de morrer, como confirmação física do que o drone mostra no EP4. |
+| **Gravação da câmera da portaria** com o rosto e a tatuagem de Tom | 39 | Levada por Beka e Tarso (os cabos ficam pendurados, cena 44). | Perdida. Não pode reaparecer antes do EP4. |
+| **A chamada recusada das 20h12** | 39, 40, 41, 46 | Bruno vê "1 CHAMADA RECUSADA" depois de saber da morte. Seu Geraldo não deixou recado. | Culpa de Bruno. Pode voltar no EP4, quando ele ligar o rosto de Tom ao que Seu Geraldo queria contar. |
+| **Caderneta de Seu Geraldo** com "SARGENTO BRUNO" em letra antiga | 39 | Na portaria (não foi levada). | Livre. Camila pode encontrá-la. |
+| **Tom sabia que Seu Geraldo o viu** ("Ele me viu em 2021") | 30, 36 | Só o público sabe. | EP4 e EP5. |
+| **Romildo: "Traz a menina"** antes de Bruno falar em menina | 2 | Bruno estranha por um segundo e deixa passar. | EP5 ("Foi o seu padrinho"). |
+| **Romildo não pergunta por que Sofia não estuda** | 7, 8 | É a desconfiança de Sofia, da bíblia. | EP3 e EP5. |
+| **A mão de Romildo nas costas de Sofia, sobre a tatuagem** | 7 | Sofia se esquiva e esfrega as costas no carro (8). | — |
+| **Romildo: "Ele não viu nada. Tava abaixado atrás do balcão."** | 7 | Mentira sobre Seu Geraldo, aceita por Bruno. | EP5. |
+| **Romildo: "Sozinha."** | 29 | Romildo descobre que a menina está sozinha e Beka e Tarso já estão no prédio. | EP5. |
+| **"Três semanas" / "Você sorriu duzentos capítulos de novela"** | 42 | Romildo e Roberto falam de dinheiro em espécie para a campanha. Romildo **não é revelado** como a VOZ nem como amante de Marlene. | EP3, final. |
+| **Pen-drive falso**: preto, com a etiqueta "PLAYLIST — CERIMÔNIA" e um adesivo de farol desenhado por Sofia por cima | 3, 7, 23, 29 | Com Romildo. Ele descolou o adesivo e mandou "devolver pra noiva". | Livre. Pode voltar às mãos de Camila como lembrete. |
+| **Pen-drive verdadeiro** | 3 (a palma fechada), 7 ("Tá comigo"), 18 (na meia, no mar), 25, 26, 27, 38 | **Com Gabriel, preso com fita isolante no compartimento da bateria do drone.** Gabriel abriu a pasta "FAROL". | EP5: Gabriel quebra o "FAROL.hc". |
+| **Senha da pasta "FAROL": 12102013** | 38 | É a data de nascimento de Sofia (Dia das Crianças de 2013). Gabriel não sabe que é dela. | EP3 (Gabriel descobre na festa que o aniversário é dela) ou EP5. |
+| **Conteúdo aberto**: a subpasta "fotos" (14 fotos, incluindo Roberto e Matias numa laje anos atrás, Roberto entregando um envelope e três homens numa mesa, o terceiro **de costas, de cabelo branco e camisa polo**) | 38 | Só Gabriel viu. | O terceiro homem é Romildo. Pagamento: EP5. |
+| **"FAROL.hc"**: volume criptografado | 38 | Fechado. "12102013" não abre. | EP5 (vídeo de Dandara e páginas do livro-caixa). |
+| **Bilhete "EU VI A LUZ DO DRONE APAGAR. S."** | 26, 38 | Com Gabriel. | É a primeira cumplicidade explícita entre Sofia e Gabriel. |
+| **Envelope de casamento "CAMILA & RENATO — 26.10.2026"** | 26, 38 | Com Gabriel e Dona Celeste ("Quem é Camila e Renato?"). | Livre. |
+| **Protocolo do Conselho Tutelar 2746** | 6, 9, 20, 31 | Registrado. A menina **nunca foi apresentada**. A falsa conselheira sabia o número, o horário e o apartamento. Quem viu a tela: Renato (9). Quem sabia das 14h: Romildo (7). | EP5 (Renato). **Risco útil para o EP6:** o registro oficial diz que Bruno trouxe uma menor, e ela sumiu com ele. |
+| **O táxi pedido por Renato** ("cooperativa que atende o batalhão") | 9, 13, 20 | Desculpa de Renato: "o rádio da cooperativa é aberto". Bruno: "Nada." | É a pista da bíblia ("só ele sabia do endereço do táxi"). Pagamento: EP5. |
+| **Renato ao celular na varanda, de costas** | 45 | Camila vê e não pergunta. | EP3 (bíblia: atende o celular fora do quarto) e EP5. |
+| **PPCAAM** oferecido por Romildo ("acertado pra hoje à noite") | 6, 7, 29 | Nunca foi feito. Bruno sumiu. | Romildo vai cobrar no EP3. |
+| **"Um passo à frente"** | 23 | Ensinado depois de a manobra já estar armada: o público vê a consequência (3, 7, 23) antes da explicação (25). | Pago no EP2 (26 e 27). EP7 (duas tentativas erradas). EP8 (o pingente). |
+| **Kalila corta o cabelo de Sofia e não cobra** (pista da bíblia) | 43, 46 | "Volta segunda que vem pra eu acertar essa nuca. Aí eu cobro." | EP3: Kalila acerta a nuca no dia do aniversário. A bíblia punha o corte no EP3 C; **foi antecipado** porque serve de disfarce para a subida. |
+| **Kalila vê a ponta da tatuagem** (o alto do farol e dois raios) | 43 | Ela fecha a capa sem dizer nada. | EP6 (Kalila guardiã do seguro). |
+| **"Capítulo cento e doze." / "Eu sei ele de cor."** | 43 | Kalila sobre Roberto. | EP3 (Roberto entra pelos fundos do salão) e EP6. |
+| **Roberto "é um ator"** (pista da bíblia) | 42, 43 | Roberto repete a própria fala junto com a TV. Dona Nilza: "Isso aí é do Neemias! Na das muralhas!" | EP6 (o Barão expõe). **Novela fictícia:** novela bíblica sobre Neemias, "a das muralhas", com Roberto como Neemias. Fala: "Quem levanta o muro com as próprias mãos não tem medo de quem vem derrubar." |
+| **Paulão e a Firma** | 10 (guarda o panfleto), 12 (salva o WhatsApp da Firma), 50 (a mão no bolso) | Contato salvo, nenhuma mensagem enviada. Dona Zezé viu. | EP6 (Paulão vende o morro). |
+| **GPS do Onix** | 4, 12 | Paulão tem a foto do histórico ("dormiu no Leblon"). Matias proibiu descer: "Asfalto não é nosso." | Resolvido. O Onix voltou para Cleiton com R$ 150 no porta-luvas. |
+| **Chinelo de Sofia** | 28 | Com Joana, na bolsa de pano. | EP3: Joana o devolve na festa. Sofia está **descalça** desde a cena 18. |
+| **Tênis de Camila com algodão na ponta** | 6, 18 (um pé fica no mar), 34 (Beka) | O que sobrou está no banheiro de Camila, com a roupa molhada. | Livre. |
+| **Polo "SGT. RENATO"** que Bruno veste | 6, 20, 23, 29, 35 | Bruno ainda está com ela. | Running gag possível no EP3 (Renato ou Camila a reconhecem). |
+| **Vestido de noiva rasgado** e casa revirada | 34, 45 | A capa foi rasgada e o vestido ficou para fora. | EP3 a EP5 (o casamento em crise). |
+| **"X9" na porta da oficina** | 4, 11 | Apagado. Sobrou uma sombra cor-de-rosa. | O morro trata Bruno como informante. |
+| **A pistola .40 de brasão raspado** | 2, 23, 51 | Em cima do armário de Dona Lourdes, atrás do pote de botões. "Aqui não." | EP3. |
+| **Tarso lava as mãos e a água desce rosada** | 50 | É a morte de Seu Geraldo, sugerida na casa de Matias. | Matias sabe agora que a "companhia" mata. |
+| **Beka e Tarso como "companhia"** | 12 (a VOZ anuncia), 50 | Instalados no Farol. Beka chama Matias de **"Alexandre"** e cita Joana. Homens da Firma na porta de Matias. | EP3 a EP7 (bíblia). |
+| **"Ninguém toca nela"** na boca de Tom | 19 | A regra vale até para a milícia (o seguro). | EP6 (o seguro morre). |
+
+---
+
+### 5. Decisões tomadas além da bíblia
+1. **A mãe da filha de Bruno: Luana.** Morreu em 2011, de um aneurisma ("uma veia na cabeça, dormiu e não acordou"), quando a menina tinha dois anos. Bruno criou a filha com Dona Lourdes ("Depois era eu e a minha mãe", cena 37). Não abre trama nova. Reforça a culpa de Bruno, que era o único responsável, e o lugar de Dona Lourdes como segunda mãe da neta e agora de Sofia. **O autor não respondeu; a decisão é do roteirista e pode ser revista.**
+2. **A manobra do pen-drive, em quatro passos:**
+   - (a) de madrugada, Sofia tira o verdadeiro da jaqueta de Bruno e prepara um falso com a playlist do casamento e um farol desenhado (cena 3);
+   - (b) de manhã, recusa entregá-lo a Romildo: "Tá comigo" (cena 7);
+   - (c) à tarde, entrega o falso a Bruno, que o leva pessoalmente à Subsecretaria (23, 29);
+   - (d) manda o verdadeiro a Gabriel pelo motoboy de Seu Geraldo (26, 27).
+   
+   O verdadeiro sobreviveu ao mar enrolado em plástico-filme dentro da meia (18, 25).
+3. **Bruno descobre a troca diante de Romildo** e quase ri pela primeira vez em cinco anos (cena 29). Ele não denuncia a menina nem toma o pen-drive à força.
+4. **O táxi não queria matar ninguém.** O objetivo da Firma era sequestrar Sofia: travas, desvio para a Niemeyer e uma van esperando. O carro só cai porque **Camila reage** e disputa o volante. Isso corrige o furo do original, em que Romildo tentava matar a menina de quem precisava viva (análise, §6.2, item 4).
+5. **Quem pediu o táxi foi Renato**, como gentileza de noivo, já que o carro de Camila estava na revisão. Renato também leu na tela de Camila o protocolo, o horário e o endereço.
+6. **Camila comunicou o Conselho Tutelar** (protocolo 2746) e pretendia apresentar a menina às 14h. A pendência do EP1 está resolvida. A instituição foi usada como disfarce (a falsa conselheira).
+7. **Seu Geraldo não contou a ninguém sobre Tom.** Ele reconhece o rosto pelo recorte e pela câmera e morre antes de falar. A Bruno disse só "não foi o bandido que atirou primeiro", **sem mencionar a tatuagem**. Isso preserva o gancho do EP4 ("Ele estava no Leblon"). A morte acontece fora de quadro; ficam o regador tombado, a água no chão (eco da cena 7 do EP1) e o rosto de Camila.
+8. **Tom conhece Bruno do batalhão** ("o melhor atirador"). Bruno também conhece Tom, o que mantém a bíblia: no EP4, Bruno "reconhece Tom" no vídeo.
+9. **Pela bíblia, quem mata Seu Geraldo são Beka e Tarso.** No EP2 a ordem é de Tom ("Volta"), e quem mata é Tarso (a água rosada). Beka só olha o recorte.
+10. **Jotapê, e não a Firma, entrega Sofia a Matias** (cena 49). Mas Beka ouve o rádio na casa de Matias e o humilha: "O senhor nem sabia quem tava entrando no seu morro."
+11. **Matias bate e espera** (cena 53), o oposto de "Eu bato. Só não espero" (EP1, cena 29). É a deferência à lei de Dona Lourdes ("Aqui ninguém bate sem pedir licença"). Beka e Tarso ficam no pé da escadaria por ordem dele: "Da escada pra cima, o morro é meu."
+12. **Dona Lourdes admite em público, diante de Marlene e da rua, que ajudou Sofia a fugir** (cena 11). Isso a transforma em alvo e prepara o "Então a gente tira a velha de lá" (EP3).
+13. **Marlene encena o desespero em público e para de chorar na esquina** (cena 11). Segue a bíblia: as cenas de vítima são encenação.
+14. **Pacheco entra no Farol pela trilha da mata** atrás da creche. Um "amigo velho que me deu emprego quando eu cheguei do Recôncavo" (o Barão, ainda sem nome) mandou ele ficar longe da menina. Pacheco é de **Cachoeira (BA)**.
+15. **Joana chama Pacheco de "Pacheco"; ele a chama de "Jô".** Ela recusou o convite para morar em Laranjeiras: "O Alexandre tem catorze. Desde os catorze."
+16. **A Firma no Farol:** caminhonete branca, gás a R$ 110, "internet sem queda", gerador e panfletos com WhatsApp. O apagão do EP1 vira argumento de venda. O açougue perdeu duzentos quilos de carne.
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Pré-pré adolescente." / "É o quê, então?" | Sofia e Bruno | 23 | **Eco do EP1 pago.** Bruno para no batente. "Que foi?" "Nada." espelha a filha no prólogo. |
+| "Um basta." | Bruno | 23 | Eco discreto de "Uma vez basta" da filha (EP1, cena 1). |
+| "Isso não é resposta." / "É a que eu tenho." | Bruno e Sofia | 8 | **Terceira vez, invertida**, como previsto: agora é Sofia quem responde assim. Encerrar o bordão ou guardá-lo para uma última inversão no EP8. |
+| "Tudo que sai de graça alguém paga depois." / "Às vezes alguém já pagou antes." | Sofia e Seu Geraldo | 27 | A frase de Marlene (EP1) é respondida. |
+| "Ninguém toca nela." | Tom | 19 | A regra na boca da milícia. |
+| "Então é o triplo." | Beka | 19 | — |
+| "Dessa vez eu não soltei." | Camila | 20 | Fala da culpa de 2021. Avanço da linha Bruno e Camila. |
+| "Você tem problema com sapato." | Bruno | 20 | Running gag possível (Sofia descalça). |
+| "Sua menina é esperta." / "Não é minha." | Romildo e Bruno | 29 | A inverter no fim da temporada. |
+| "Devolve pra noiva." | Romildo | 29 | — |
+| "O lobo é o único que não pode morder." | Bruno | 51 | A lógica da fuga para dentro do morro. |
+| "Da escada pra cima, o morro é meu." | Matias | 50 | — |
+| "Com cocada e com medo." | Pacheco | 28 | Assinatura do casal Pacheco e Joana. |
+| "Eu sei ele de cor." | Kalila | 43 | — |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP2 (terça, 6 de outubro de 2026, cerca de 21h30)
+- **Bruno:** na sala de Dona Lourdes, diante de Matias à porta. A pistola está em cima do armário. Veste a polo de Renato. Sabe que Seu Geraldo morreu e que recusou a ligação dele às 20h12; tinha prometido "Depois". Ainda culpa Matias e ainda confia em Romildo, mas sabe que alguém vazou o táxi e encarou Renato. Sabe que o pen-drive está com Gabriel. Quase riu.
+- **Sofia:** cabelo curto, descalça, de camiseta de Camila, alimentada por Dona Lourdes. Desconfia de Romildo. Viu o retrato da neta com a xuxinha amarela e ligou-a ao pulso de Bruno. **Ainda não sabe o nome da filha de Bruno.** Sabe que a mãe da menina se chamava Luana e morreu. Bateu a cabeça no táxi (marca na testa).
+- **Camila:** corte na têmpora, depoimento dado na 14ª DP. Encontrou Seu Geraldo morto na garagem. Apartamento revirado, vestido rasgado. Viu Renato telefonando na varanda e não perguntou. Prometeu a Bruno não contar a ninguém, e "ninguém" incluía Renato. Não sabe onde Bruno está.
+- **Renato:** passou o táxi, o protocolo e o endereço. Agiu como noivo protetor, pôs o próprio blusão em Camila e devolveu a jaqueta de Bruno. Telefonou escondido na varanda.
+- **Romildo:** tem o pen-drive falso. Sabe que o verdadeiro está "com a menina" (não sabe de Gabriel). Ofereceu o PPCAAM, que não aconteceu. Disse a Roberto: "três semanas". Bruno não voltou com "os dois".
+- **Tom:** o táxi falhou. Mandou matar Seu Geraldo. Levou o gravador das câmeras. Infiltrou Beka e Tarso na casa de Matias.
+- **Beka e Tarso:** mataram Seu Geraldo. Estão no pé da escadaria do Cruzeiro como "companhia" de Matias. Beka viu o recorte com o rosto de Tom.
+- **Matias:** à porta de Dona Lourdes, sozinho. Sabe que está vigiado ("Alexandre", Joana citada). Sabe que a "companhia" mata (a pia). Proibiu a boca de descer ao asfalto.
+- **Paulão:** humilhado de novo ("Tu também fica"). Tem o WhatsApp da Firma salvo. Tem a foto do GPS do Onix.
+- **Gabriel:** tem o pen-drive verdadeiro no drone. Viu Roberto com Matias e não sabe o que fazer com isso: trabalha para Matias, e a mãe é da igreja de Roberto. Mentiu no rádio pela segunda vez ("Cruzeiro limpo"). Sabe a senha 12102013 sem saber de quem é a data.
+- **Jotapê:** entregou Sofia.
+- **Joana:** está com o chinelo de Sofia. Recusou sair do morro. Ainda não sabe que a "companhia" chegou.
+- **Pacheco:** desceu pela mata. Foi avisado pelo "amigo velho" para ficar longe da menina.
+- **Dona Lourdes:** abrigou Sofia. Admitiu em público que ajudou a menina a fugir. Disse "Aqui não" para a arma.
+- **Marlene:** encenou o desespero na pista e ligou para alguém depois (o público não vê para quem). Ainda tem as marcas no pescoço.
+- **Kalila:** cortou o cabelo de Sofia e viu a ponta da tatuagem. Marcou o retoque para segunda, 12/10.
+- **Roberto:** Prates abriu quatro pontos. Precisa de dinheiro em espécie.
+- **Cleiton:** recuperou o carro e R$ 150.
+- **Formiga:** apagou o "X9". O pulso continua machucado.
+- **Vavá:** a bala foi tirada pelo "doutor". Vai mancar.
+- **Dona Zezé:** viu Paulão guardar o panfleto.
+- **Seu Geraldo:** morto.
+
+---
+
+### 8. Pendências para o EP3 — "A Lei do Morro" (segunda, 12 de outubro, aniversário de Sofia)
+- **O salto de seis dias.** O EP2 termina na terça, 6/10, à noite, e o EP3 precisa cair na segunda, 12/10. Sugestão:
+  - abrir o EP3 na mesma noite com o confronto na sala de Dona Lourdes e a decisão de Matias de deixar a menina ficar, "sob a vigilância dele";
+  - em seguida, um letreiro ("SEGUNDA-FEIRA, 12 DE OUTUBRO") ou uma passagem curta de rotina: a menina escondida na casa de Dona Lourdes, Beka e Tarso instalados, Bruno sem sair do morro.
+  - Definir o que aconteceu nesses dias: o enterro de Seu Geraldo, a Delegacia de Homicídios no prédio e Romildo cobrando o PPCAAM.
+- **A primeira frase de Dona Lourdes a Matias** deve pagar "Aqui ninguém bate sem pedir licença" e a bíblia: "aqui você entra de cabeça baixa". Ele já bateu e esperou.
+- **Romildo vai cobrar Bruno** pelo pen-drive verdadeiro e pela menina ("traz os dois"). Bruno sumiu da Subsecretaria. É a primeira vez que Bruno não atende Romildo?
+- **Gabriel precisa chegar a Sofia** com o pen-drive escondido no drone. A senha 12102013 é o aniversário dela, e a festa é o lugar natural para Gabriel perceber isso. O pingente de farol é o presente (bíblia, EP3).
+- **Joana devolve o chinelo** de Sofia, que está descalça desde a Niemeyer.
+- **Kalila acerta a nuca** de Sofia no dia do aniversário, como prometido.
+- **A morte de Seu Geraldo:** inquérito na DH, o gravador sumido, a culpa de Camila e de Bruno (a chamada recusada). Camila pode achar a caderneta "SARGENTO BRUNO".
+- **Camila e o protocolo 2746:** como a falsa conselheira sabia o número, o horário e o apartamento? Camila pode começar a perguntar, mas a resposta (Renato) fica para o EP5.
+- **Renato:** a bíblia prevê no EP3 que ele "atende o celular fora do quarto". Escalar a partir da varanda (cena 45).
+- **O vestido rasgado e o casamento de 26/10:** no EP3, o quase beijo na laje.
+- **A polo "SGT. RENATO"** ainda está no corpo de Bruno.
+- **O nome da filha de Bruno** (Sofia) ainda não foi dito à Sofia de 2026. Lugar natural: Dona Lourdes, diante do retrato.
+- **Dona Lourdes exposta** (cena 11). Romildo sabe por Marlene, o que prepara o gancho do EP3: "Então a gente tira a velha de lá."
+- **A Firma na pista e Paulão** com o contato salvo. Manter a pressão.
+- **O Barão:** Pacheco já foi avisado por ele, sem nome. No EP3, Clovis leva Bruno ao Covil.
+- **Beka:** decidir se ela guardou o recorte de jornal (sugestão no §4).
+- **Romildo e Marlene revelados ao público** no final do EP3. Até lá, a VOZ continua sem rosto. Romildo esteve em cena no EP2 sem ser mostrado como a VOZ, mas com sinais: "Traz a menina", "Sozinha.", o homem de costas nas fotos.
