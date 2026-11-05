@@ -1160,3 +1160,279 @@ A fonte de verdade continua sendo a `BIBLIA_NINGUEM_TOCA_NELA.md`. Aqui está o 
 - **O casamento acabou.** O vestido vai ser devolvido na segunda (19/10). Romildo era convidado: como Camila justifica o fim do noivado a ele e ao batalhão sem se expor?
 - **Gabriel precisa de um drone novo** para o EP7.
 - **Beka** começa a rachar com Tarso por causa do vestido dobrado e do recorte.
+
+> O EP6 resolveu as pendências acima, com estas exceções. Seguem abertas: a pista do rádio de 2021 (fica para o EP7 ou o EP8); a câmera corporal de Pacheco (ainda com a Firma); o drone novo de Gabriel; e a ordem do código, que agora tem mecânica proposta (ver "EP6", §8). Dona Zezé aparece, mas não é atacada. Iolanda volta, mas Bruno ainda não ligou para ela. O codinome "Padrinho" aparece na cópia que chega às mãos de Romildo, e os heróis não o usam. Ver a seção "EP6", §5 e §8.
+
+---
+---
+
+## EP6 — "Ninguém Toca Nela" (`EP06_NINGUEM_TOCA_NELA.fountain`)
+
+Título na bíblia: "Intocável". Título final: "Ninguém Toca Nela", o mesmo da série.
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–5 | Sexta, 16/10, 22h: Renato atende Romildo no viva-voz ("Terminou comigo") e confessa que filmou o vídeo. Bruno pega a pistola no degrau. Tom manda editar: "Tira o braço." Sábado de manhã: Camila cancela o casamento no grupo dos convidados e Romildo responde com um coração. Solange avisa da temporária. Os onze segundos na TV. Camila parte o chip, Bruno sai pela garagem e Clovis o recolhe ("De fuga."). |
+| Ato Um | 6–11 | Joana defende Bruno na escadaria. Sofia ao telefone ("Tu é muito ruim de sequestro"). Romildo põe Renato de escolta ("Onde eu te veja"), e Henrique liga do celular do irmão. Henrique vê Renato abrir a porta do sedã. No Covil, a fita de "Neemias": "Rosto se troca. Arquiteto não." Na varanda: sem o seguro, ela é só chave. Iolanda acha a emenda no vídeo. Kalila liga o celular velho: "DANDA". |
+| Ato Dois | 12–23 | Joana entrega a chave em silêncio. O apartamento de Pacheco ("JÔ" no dia 26). Camila diante de Romildo ("Bonfim. Você nunca foi pra Bahia."). Bruno sobe pela trilha da mata. A aliança: "Inimigo do meu inimigo". Joana entrega a pistola de Pacheco e Matias, o carregador. Renato avisa do mandado. Sofia vai para o terreiro. Bruno na rede de Pacheco. Kalila não abre a porta para Roberto. Roberto entrega Kalila a Romildo ("Eu não sabia que sabia" / "Obrigado, Roberto"). Paulão vende o morro, e Tom pergunta: "Me fala da Kalila." |
+| Ato Três | 24–32 | Domingo, 18/10, 6h: o mandado na casa vazia e "Alguém sempre avisa". Sofia decifra "passarinho". Joana faz o teste e conta a Dona Lourdes. No salão: a mensagem de Dandara, o envelope no secador, a mordida, o toque nas costas. Paulão abafa o alarme de Formiga. "Voa, passarinho." / "Isso é brega." O vídeo, o envio, o celular de Dandara no balde, o batom. "Ninguém toca nela." / "Por isso que eu vim falar com a senhora." A porta de aço desce. |
+| Ato Quatro | 33–41 | Dona Nilza acha o salão. Mãe Dôra cobre o corpo com um lençol branco, e Dona Lourdes tampa o batom. O Barão recebe o vídeo: "Ainda não." Tom entrega a cópia a Romildo: "Agora pode." Sofia ao telefone com Bruno ("Agora eu sou só a chave, né?"), e Camila o segura em casa. Tarso agarra o pulso de Sofia e ela o corta. Beka aponta a arma para Matias. Matias examina o pulso dela. Paulão tira Formiga e Gabriel. Marlene no portão, a lanterna sem resposta, o lenço, o sedã: "Oi, filhinha." |
+
+41 cenas e cerca de 9.300 palavras (2.224 linhas, contra 2.192 do EP5). Estimativa: 51 a 53 páginas.
+
+**Gancho:** Marlene leva Sofia até a esquina do terreiro, limpa a maquiagem dos hematomas com um lenço branco, entra no sedã e beija o homem do banco de trás. Romildo se inclina para a porta aberta, de polo branca, sorrindo como um avô: "Oi, filhinha." (cena 41)
+
+---
+
+### 1. Cronologia fixada
+| Data e hora | O quê |
+|---|---|
+| 05/10/2021 | Última mensagem de Dandara para Kalila ("DANDA"), enviada antes de jogar o celular na caixa d'água (EP1). |
+| ~23/10/2021 | Roberto conta a Kalila onde Dandara está escondida e que "o coronel ia buscar". Kalila avisa Dandara. Três dias depois, Dandara é morta. |
+| **Sexta, 16/10/2026, ~22h** | Teaser: o telefonema de Romildo na cozinha. Bruno dorme no sofá-cama de Camila. |
+| Sexta, ~noite | Tom manda editar o vídeo ("BRUNO_FINAL.MP4", 11 s). Vânia é afastada. |
+| **Sábado, 17/10** | Faltam 8 dias para o 2º turno. Prates está 2,5 pontos à frente (Roberto, cena 22). |
+| 4h | O titular da DH pede a prisão temporária no plantão judiciário, por cima de Solange. |
+| 6h | A Subsecretaria requisita a cópia lacrada na DH. O vídeo editado vai ao ar. |
+| 7h | Romildo e Renato no gabinete. |
+| 7h10 | Camila cancela o casamento no grupo dos convidados e Romildo responde com um coração. |
+| ~8h | A Civil no prédio do Leblon. Bruno foge e Clovis o recolhe. Iolanda na curva da Niemeyer desde as oito. |
+| Manhã | Covil. Joana na escadaria. |
+| Tarde | A chave. Laranjeiras. |
+| 17h | Camila no gabinete de Romildo. |
+| Noite | A trilha e a aliança. O aviso de Renato. Sofia vai para o terreiro. Kalila não abre para Roberto. Roberto na casa de Romildo. Paulão na caminhonete. |
+| **Domingo, 18/10** | Faltam 7 dias para o 2º turno. |
+| 6h | Mandado na casa de Dona Lourdes, vazia. |
+| Manhã | Sofia decifra "passarinho". Joana faz o teste. Sofia vai ao salão. |
+| ~10h–11h | Kalila envia o vídeo e abre a porta. Morte fora de quadro. |
+| Tarde | Dona Nilza acha o salão. O Barão vê o vídeo. Tom entrega a cópia. |
+| Entardecer | Sofia liga para Bruno. |
+| Noite | Beka e Tarso no terreiro. Paulão tira Formiga e Gabriel. Marlene. "Oi, filhinha." |
+| Sexta, 23/10 | Romildo: "Eu ainda preciso dela até sexta." É o dia do EP7, com o jantar de doadores no salão da torre. |
+
+---
+
+### 2. Personagens novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Rapaz da Firma** | 20 | Edita o vídeo no galpão. | 3 |
+| **Porteiro Novo** | — | O mesmo do EP3, só a voz no interfone. | 4 |
+| **Apresentador** | — | Só a voz. | 4 |
+| **Moça de uniforme de farmácia** | — | No ponto de ônibus, reconhece Bruno pelo vídeo. | 5 |
+| **Cliente** do salão | — | "Esse aí não é o filho da Dona Lourdes?" | 11 |
+| **Inspetor** e **Conselheira Tutelar** (40) | — | Mandado de domingo. O inspetor bate a testa no batente. | 24 |
+| **Morador** | — | "Vão botar que foi assalto." | 33 |
+| **Inspetores** (2) | — | No prédio do Leblon. | 5 |
+
+**Recorrentes com informação nova**
+- **Kalila:** esteve na noite da tatuagem e segurou a mão de Sofia, que mordeu o dedo dela (cicatriz branca no indicador). Guardava havia cinco anos o celular velho de Dandara, com a última mensagem dela. Fez o cabelo da comissão de frente da escola do Barão por onze carnavais e fez de graça a barba dele e a de Clovis quando saíram de Bangu. Roberto a frequentava pelos fundos havia seis anos. Sabia por Roberto, três dias antes, que Dandara ia ser buscada, e avisou. **Morta** por Tom (cena 31), fora de quadro.
+- **Roberto:** foi destaque de carro alegórico na escola do Barão. O Barão pagou o primeiro templo e o apresentou a Romildo. Entregou Kalila a Romildo.
+- **Romildo:** tem uma neta que dorme na casa do Jardim Botânico. Respondeu ao cancelamento do casamento com um coração.
+- **Tom:** de camisa social abotoada até o pescoço no domingo. Educado à porta ("Limpa o pé").
+- **Iolanda:** segue o Barão desde o carro prata e achou a emenda no vídeo.
+- **Henrique:** viu Renato na escolta de Romildo e fotografou a placa do sedã.
+- **Mãe Dôra:** abriga Sofia, chama o canivete de "ferramenta", cobre Kalila com um lençol branco.
+
+---
+
+### 3. Locais novos
+- **Apartamento de Laranjeiras (de Pacheco):** quarto e sala de taco encerado, a seis quadras do quartel do BOPE. Pela janela, entre dois prédios, o telhado do **Palácio Guanabara**. Tem um colchão de casal ainda no plástico (que estala), uma rede listrada presa em dois ganchos já chumbados na sala, duas canecas (uma "SALVADOR", a outra na caixa) e o calendário da "PADARIA SÃO FÉLIX — CACHOEIRA/BA" com o dia 26 de outubro circulado e "JÔ" escrito dentro.
+- **Terreiro de Mãe Dôra (por dentro):** portão de grade no muro branco, com uma luz amarela no alto. Pátio. Barracão de chão de cimento lavado, paredes brancas, esteiras de palha e uma prateleira baixa de quartinhas de barro. Tem saída pelos fundos. A **esquina** do terreiro, com um poste, fica a cinquenta metros do portão; é ali que o sedã para.
+- **Salão da Kalila (novos detalhes):** o **secador de capacete** de Dona Nilza tem a base presa por quatro parafusos, e era ali o esconderijo. Há uma gaveta da bancada com um bloco de recibos, um balde de tintura ao lado da pia e um capacho na porta. A caixa registradora ficou intacta.
+- **Casa de Romildo (de noite):** varanda de vime, orquídeas, o velocípede no gramado.
+- **Estrada da Gávea:** acostamento debaixo das árvores, com uma padaria atrás. Ali Tom entrega a cópia.
+- **Curva da Niemeyer:** de onde Iolanda vigia o Covil.
+- **Subsecretaria (calçada):** ponto de ônibus em frente, de onde Henrique vê Renato.
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP6 | Pagamento previsto |
+|---|---|---|---|
+| **"Não posso tocar nela" / o seguro** (mapa: "o seguro morre" no EP6) | 10, 23, 28, 31, 35 | **Pago.** A cópia foi tirada do secador e entregue a Romildo ("Agora pode"). Sofia: "Agora eu sou só a chave, né?" | EP7: Sofia útil até o cofre abrir. EP8: testemunha. |
+| **Kalila guarda o seguro** (mapa: EP6) | 11, 21, 25, 28 | **Pago.** "Passarinho": o vídeo de Dandara (EP5), a pista do EP3 ("Passarinho") e Mãe Dôra ("Desde que tu cabia numa bacia"). | — |
+| **"Ninguém toca nela"**, o título | 31 (Kalila a Tom); variações em 23 (Tom: "Naquela ainda não se encosta") e 38 (Beka: "Eu cobrei o triplo pra ninguém encostar nela") | **O título dito com peso** por quem garantiu a regra durante cinco anos, no minuto em que a regra morre. A resposta de Tom: "Por isso que eu vim falar com a senhora." | EP8: a última vez, na boca de Matias. |
+| **O vídeo de Kalila** (mapa: EP6 → EP8) | 31, 34 | Enviado ao Barão ("SEU ANDRÉ — ESCOLA") pela rede "FIRMA — INTERNET SEM QUEDA" e apagado do aparelho dela. Conteúdo: o nome dela, os seis anos de Roberto pelos fundos ("da minha vida eu não peço desculpa"), os envelopes atrás do altar, a obra, o "dízimo" e Roberto sabendo do esconderijo de Dandara três dias antes ("E depois foi jantar"). **O Barão não mostrou a Bruno:** "Ainda não." | EP8: o Barão vaza e Roberto cai. |
+| **A cópia do livro-caixa** | 28, 30, 35 | Fotocópias manuscritas, embrulhadas em plástico-bolha. **Com Romildo**, debaixo do banco do sedã. O dedo dele para em "PADRINHO". | Pode ser destruída por Romildo ou servir à PF numa busca. |
+| **O celular velho de Dandara** ("DANDA", 05/10/2021: "Se eu não voltar, o passarinho é teu. O papel não sai enquanto ela respirar.") | 11, 21, 28, 31, 35 | Afogado por Kalila no balde de tintura. **Tom o recolheu** ("Dentro de um balde de tinta. Afogado."). Romildo: "Igual ao da outra." | Livre. A mensagem existe na operadora. |
+| **O toque nas costas** (a ordem do código) | 28, 36 | **Plantado.** Kalila reproduz dois toques, em dois pontos diferentes das costas, e o corpo de Sofia reconhece ("Faz de novo"). A chegada de Tom interrompe. No luto (36), Sofia leva a mão ao mesmo lugar. | **EP7.** Ver §8. |
+| **O vídeo editado "BRUNO_FINAL.MP4"** (11 s) | 3, 4, 5, 6, 7, 11 | No ar desde as 6h de sábado. **A emenda pode ser provada:** o relógio do drone salta de 08:02:14 para 08:02:51, 37 segundos de buraco (Iolanda, cena 10). O vídeo inteiro existe no cartão do drone de Gabriel (EP4). A cópia lacrada na DH foi requisitada pela Subsecretaria. | EP8: a defesa de Bruno e a PF. |
+| **A prisão temporária de Bruno** | 4 | Por homicídio do cabo e subtração de incapaz, pedida pelo titular da DH no plantão. Base: a ocorrência de Marlene, a caderneta de Seu Geraldo e o vídeo. | EP8: Bruno é preso no hospital. |
+| **A pistola .40 de brasão raspado** (pendência do EP5) | 2, 4, 13 | **Resolvida.** Bruno a pegou no degrau (2) e a entregou a Camila (13): "Foragido com arma raspada é tudo que o vídeo quer que tu seja." Está na mochila de Camila. | Livre. |
+| **A pistola de Pacheco + o carregador de Matias** | 16, 20, 37 | **Com Bruno.** Joana deu a pistola e Matias, o carregador ("Tá faltando três." / "Eu sei onde foram."). É a arma de Bruno daqui para a frente. | EP7–EP8. |
+| **O celular de flip** | 13, 15, 16, 18 | Um número só, o de Camila (aparece como "C"). O chip antigo de Bruno foi partido. | — |
+| **O chaveiro do Bonfim** | 12, 14 | Com Camila. **Romildo viu:** "Bonfim. Você nunca foi pra Bahia." O apartamento foi alugado por Pacheco, e a Inteligência pode chegar lá. | **Risco para o EP7.** |
+| **O calendário "JÔ" no dia 26** | 13 | Na cozinha de Laranjeiras. O dia em que Camila ia casar é o dia em que Joana ia se mudar. | EP7 (a noite) e EP8 (o dia 26). |
+| **A mensagem de cancelamento e o coração de Romildo** | 4, 7, 13, 14 | Pública. Romildo usou a hora (7h10) como prova contra Renato. | — |
+| **O aviso de Renato** ("6h. Mandado novo. Casa da costureira. Tira a menina.") | 17, 24, 37 | Salvou Sofia do mandado. **Romildo suspeita** (o olhar no retrovisor) e o mantém no carro: "Melhor no meu carro que no da Federal." | EP7: a redenção e a morte. |
+| **Henrique e Renato** | 7, 8 | Henrique ligou duas vezes do celular do irmão ("PACHECO"). Viu Renato abrir a porta para Romildo e fotografou a placa do sedã. | EP7. |
+| **A placa da caminhonete** (Dona Zezé, EP5) | — | Não usada. | Livre. |
+| **"Rosto se troca"** | 9 (Barão), 22 (Romildo) | Dito pelos dois lados, com o mesmo sentido. | EP8 (Roberto preso). |
+| **A fita "NEEMIAS — CAP. 112"** | 9 | Com o Barão. Roberto de barba postiça em cima de uma muralha de isopor. | Pode entrar no vazamento do EP8. |
+| **O jantar de doadores na sexta** ("Quinze mil o casal." / "Eu já tenho gravata.") | 10, 22, 35 | Plantado. Romildo: "Sexta." | EP7 (a cobertura do assalto). |
+| **A lanterna de Sofia e o LED de Gabriel** | 39, 40 | Gabriel deixou o LED apagado na mureta por ordem falsa de Paulão. Sofia piscou duas vezes, duas vezes, e ninguém respondeu. | EP7: a culpa de Gabriel, que é quem pode ter visto a última luz. |
+| **A ordem falsa de Paulão** ("O chefe chamou todo mundo. Reunião.") | 39 | Formiga e Gabriel saíram dos postos. Matias não deu essa ordem. | EP7: Matias descobre (ou não). Ver §8. |
+| **A mensagem de Paulão à Firma** ("Ela entrou na Kalila. Pelos fundos.") e o rádio ("Deixa. É gás.") | 29 | Paulão provocou a hora da chegada de Tom e calou o alarme de Formiga. Formiga ouviu. | EP7–EP8. |
+| **O pulso de Sofia** | 38 | Marcas dos dedos de Tarso. Matias o examinou com o consentimento dela: o primeiro toque dele que não é ameaça. | EP8 (a mão na escadaria). |
+| **O corte no antebraço de Tarso** | 38 | Feito pelo canivete de Sofia. Tarso pode contar a Tom a versão verdadeira. | EP7 (Beka sob suspeita). |
+| **A maquiagem de Marlene** (bíblia: as cenas de vítima são encenação) | 40, 41 | **Paga diante de Sofia.** O roxo e o vermelho saem no lenço branco. Na revisão, valem também as marcas no pescoço (EP1) e o choro na pista (EP2 e EP3). | — |
+| **O batom de Kalila** | 31, 33 | Dona Lourdes o tampou e o deixou diante do espelho. | Imagem possível para o EP8 (a comunidade enterra os seus). |
+| **O canivete** | 19, 38, 41 | Com Sofia, sujo do sangue de Tarso. | EP7. |
+| **O pingente** | 19 | No pescoço de Sofia, por cima da guia de Oxum. O fundo falso continua vazio. | EP8 (o cartão de memória). |
+
+---
+
+### 5. Decisões tomadas além da bíblia e da sinopse
+1. **A abertura do EP5 foi resolvida assim:** Renato atende Romildo no viva-voz, diante de Bruno e Camila, e diz meia verdade ("Terminou comigo. O Pacheco."). Antes de sair, confessa espontaneamente que filmou o vídeo e o mandou "às quatro". Romildo marca com ele às sete.
+2. **Romildo descobre que Renato falou** por dedução: o alerta do ICCE, as três chamadas sem resposta e a mensagem de cancelamento às 7h10. **Não pergunta e não o elimina.** Põe Renato de escolta, "banco da frente, onde eu te veja", e prefere tê-lo perto a vê-lo com a Federal. Renato vira **agente duplo por culpa**: avisa Camila do mandado de domingo (17). Romildo **suspeita do aviso** (24) e o mantém. É a base crível para o EP7: Renato na escolta, sabendo coisas, vigiado e descartável.
+3. **A pistola do degrau:** Bruno a recolheu e a entregou a Camila. A arma dele passa a ser a **pistola de Pacheco**, com o **carregador que Matias guardava** desde o EP4. A aliança se sela com essa arma.
+4. **Como Bruno vira foragido:** temporária pedida pelo titular da DH no plantão judiciário às 4h, por cima da Inspetora Solange, por homicídio do cabo e subtração de incapaz. A cópia lacrada é requisitada pela Subsecretaria às 6h. Vânia é afastada por "acesso indevido". O vídeo editado é vazado à TV como "exclusivo".
+5. **A emenda do vídeo pode ser provada.** O rapaz da Firma cortou o braço, o fogo e a menina, mas deixou o relógio do drone no canto do quadro, que salta 37 segundos. Iolanda percebeu e quer o "bruto". Prepara a defesa de Bruno e o EP8.
+6. **Camila rompe o noivado em público** com uma mensagem ao grupo dos convidados. Romildo responde com um coração e depois a interroga no gabinete. Ela mente ("Não sei, coronel") e ele nota o chaveiro do Bonfim.
+7. **Clovis tira Bruno do Leblon** e o leva ao Covil. O Barão o abriga por uma manhã e o despacha porque a Federal vigia a casa.
+8. **O Barão é cúmplice da origem do rosto:** Roberto foi destaque na escola de samba dele, o Barão pagou o primeiro templo e **foi ele quem apresentou Roberto a Romildo**. Isso amplia a culpa do Barão (ele também levou Dandara ao esquema, EP3) e torna a vingança dele pessoal.
+9. **Quem entrega Kalila é Roberto, não Paulão.** Rejeitado por ela na mesma noite ("Ela também ligou pra muita gente. Ninguém atendeu."), Roberto liga os pontos e, para voltar a valer alguma coisa para Romildo, entrega a mulher que ama. Assim se paga o "A mãe dela..." do EP3. O vídeo de Kalila, que vai derrubá-lo, fecha o círculo. Paulão entrega o caminho e a hora (a mensagem "Ela entrou na Kalila").
+10. **Kalila na mitologia:** recebeu a última mensagem de Dandara (paga a decisão 5 do EP1), segurou a mão da menina na noite da tatuagem e **não sabe os números**, porque Dandara não quis. Sabe só o gesto do toque, e incompleto. Escondeu a cópia na base do secador de Dona Nilza ("Ninguém nesse morro escuta mais fofoca que esse secador").
+11. **A dignidade de Kalila foi construída por escolhas:** ela manda Sofia embora e fica para segurar Tom ("Se eu sair, ele vai atrás. Se eu fico, ele fica."). Deixa o papel como isca ("Papel distrai homem"). Grava o depoimento com o próprio nome, sem pedir desculpa pela própria vida. Envia o vídeo, apaga, afoga o celular de Dandara (eco da caixa d'água de 2021), passa batom e **levanta ela mesma a porta de aço**. Diz o título. A morte fica fora de quadro, e o corpo nunca aparece: só o lençol branco de Mãe Dôra. Ela tem humor até o fim ("Isso é brega." / "Eu sou brega. Vai.").
+12. **O título na boca de Kalila** é a frase com peso do episódio. Tom responde com cortesia: "Por isso que eu vim falar com a senhora."
+13. **Sofia decifra "passarinho" sozinha e confirma com Mãe Dôra.** Gabriel faz a piada do "meu lindo".
+14. **Beka aponta a arma para Matias como encenação:** a mira em Matias é a história que ela vai contar a Tom ("O Matias chegou com quatro fuzis e a gente saiu de mão vazia e vivo. É verdade."). O que ela diz é "Fica com ela." Antes disso, ameaçou atirar no próprio marido. Usa a cláusula do contrato como justificativa: "Eu cobrei o triplo pra ninguém encostar nela. Ainda não devolvi o dinheiro."
+15. **Tarso é o primeiro a tocar Sofia com violência** ("Agora pode") e leva um corte de canivete.
+16. **Matias toca a filha pela primeira vez com consentimento:** ela estende o pulso, ele examina ("Tá inteiro") e solta. Nenhum dos dois diz "pai". Ciúme seco de Bruno: "O Bruno fala muito."
+17. **Paulão vende o morro** na caminhonete: a mata, a contenção da pista, o fundo da Kalila, o terreiro e a aliança com "o verme". O preço é o dobro e a pista "depois do domingo". Na noite de domingo, uma **ordem falsa** ("reunião na quadra") tira Formiga da esquina e Gabriel da laje.
+18. **Sofia sai do terreiro sabendo que Marlene não é mãe.** Marlene não pede como mãe, cobra como quem criou: a pomada na mão queimada e as três noites de sarampo. Sofia ainda tenta um passo à frente (a lanterna), que não é respondido.
+19. **Joana defende Bruno em público** na escadaria ("Eu tava lá") e descobre a gravidez sozinha. A primeira a saber é Dona Lourdes ("Agora eu sei"). Matias não sabe.
+20. **Henrique vê Renato na escolta de Romildo.** Não o confronta ainda.
+21. **A pista do EP1 ("Ninguém atira. Eu quero a mochila") continua sem pagamento**, de propósito, para não sobrecarregar o episódio.
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Dorme, filho." | Romildo | 1 | O "avô" com Renato. |
+| "Então olha pro chão. Tu sabe fazer isso." | Camila | 1 | Eco de "de olhos no chão" (EP5). |
+| "Tira o braço." | Tom | 3 | — |
+| "Não parece." | Tom | 3 | — |
+| Um coração | Romildo | 4, 13, 14 | "Achei que coração era sinto muito." |
+| "Vinte anos de motorista." / "De fuga." / "Tá aprendendo." | Clovis e Bruno | 5 | Bruno completa a piada do EP3. |
+| "Eu pari ele." | Dona Lourdes | 6 | — |
+| "Tu é muito ruim de sequestro." | Sofia | 6 | — |
+| "Ficou bom. Obrigado." | Romildo | 7 | Eco de "Obrigado, Renato" (EP4–EP5). |
+| "Onde eu te veja." | Romildo | 7 | — |
+| "Morto não liga, Renato. Quem liga é o irmão." | Romildo | 7 | — |
+| "Veio. O senhor só não sabia." | Barão | 9 | — |
+| "Eu continuo em pé." / "Mas não foi embora." | Bruno e Barão | 9 | Eco de "eu preciso do senhor sentado" (EP3). |
+| "Rosto se troca. Arquiteto não." | Barão | 9 | Romildo repete "Rosto se troca" em 22. |
+| "E chave a gente joga fora depois que a porta abre." | Barão | 10 | Bíblia e sinopse. |
+| "Eu já tenho gravata." | Clovis | 10 | Planta do EP7. |
+| "Trinta e sete segundos de buraco, visse." | Iolanda | 10 | — |
+| "Televisão mente melhor que homem." | Kalila | 11 | — |
+| "Vinte e seis." | Bruno e Camila | 13 | Terceira vez (EP3, EP5): agora o "JÔ" do calendário. |
+| "Ninguém procura do lado de casa." | Camila | 13 | — |
+| "Bonfim. Você nunca foi pra Bahia." | Romildo | 14 | — |
+| "Vinte e seis era um dia bonito." | Romildo | 14 | — |
+| "Na televisão tu tá mais bonito." | Sofia | 16 | — |
+| "Dois minutos de família. Depois é negócio." | Matias | 16 | — |
+| "Inimigo do meu inimigo." / "Não é meu amigo." / "Nem precisa." | Matias e Bruno | 16 | Bíblia e sinopse. |
+| "Tá faltando três." / "Eu sei onde foram." | Matias e Joana | 16 | — |
+| "Na tua casa tem cama arrumada de gente que mata." | Sofia | 18 | Eco de "Ninguém arruma a cama pra ir comprar cigarro" (EP4). |
+| "Isso é ferramenta." | Mãe Dôra | 19 | — |
+| "Ela também ligou pra muita gente. Ninguém atendeu." | Kalila | 21 | — |
+| "Rosto não pensa. Rosto aparece." | Romildo | 22 | — |
+| "Eu não sabia que sabia." | Roberto | 22 | — |
+| "Obrigado, Roberto." | Romildo | 22 | O "obrigado" que mata. |
+| "Naquela ainda não se encosta." | Tom | 23 | — |
+| "Me fala da Kalila." / "De quem mais?" | Tom | 23 | Fim do Ato Dois. |
+| "Deus acorda cedo." | Dona Lourdes | 24 | Eco do EP4. |
+| "Alguém sempre avisa." / "Melhor no meu carro que no da Federal." | Romildo | 24 | — |
+| "A Kalila chama todo homem de meu lindo." | Sofia | 25 | Eco do EP1 ("Bom dia, meu lindo"). |
+| "Pra mim ela abre." | Sofia | 25 | — |
+| "Todo homem quer. Depois chora quando nasce menina." | Dona Lourdes | 27 | — |
+| "O Alexandre sabe tudo que acontece nesse morro." | Dona Lourdes | 27 | Eco de Joana (EP5). |
+| "Passarinho." | Kalila | 28 | Paga o EP3 e o EP5. |
+| "Isso aqui é teu." | Kalila | 28 | A cicatriz da mordida. |
+| "Deixa. É gás." | Paulão | 29 | — |
+| "Papel distrai homem." | Kalila | 30 | — |
+| "Voa, passarinho." / "Isso é brega." / "Eu sou brega. Vai." | Kalila e Sofia | 30 | — |
+| "Da minha vida eu não peço desculpa pra ninguém." | Kalila | 31 | — |
+| "E depois foi jantar." | Kalila | 31, 34 | — |
+| "O senhor sabe que eu não erro." | Kalila | 31, 34 | — |
+| **"Ninguém toca nela."** / "Por isso que eu vim falar com a senhora." | Kalila e Tom | 31 | **O título do episódio e da série.** |
+| "Limpa o pé." | Kalila | 31 | — |
+| "Eu avisei no rádio." | Formiga | 33 | — |
+| "Ainda não." | Barão | 34 | — |
+| "Igual ao da outra." | Romildo | 35 | — |
+| "Agora pode." | Romildo e Tarso | 35, 38 | A regra revogada. |
+| "Agora eu sou só a chave, né?" / "Tu não é chave." / "Então eu sou o quê?" | Sofia e Bruno | 37 | Bruno não responde. **Reservado para o "É minha." do EP8.** |
+| "O baiano ia pela mata." / "Vem pela mata, então." | Sofia | 37 | — |
+| "Eu falei 'depois' pro seu Geraldo." / "E eu tô falando 'amanhã' pra tu ficar vivo." | Bruno e Camila | 37 | Inverte o EP5. |
+| "Ele vai acabar morrendo disso." | Camila | 37 | Prepara a morte de Renato (EP7). |
+| "Eu cobrei o triplo pra ninguém encostar nela. Ainda não devolvi o dinheiro." | Beka | 38 | Eco de "Então é o triplo" (EP2). |
+| "Tá inteiro." | Matias | 38 | — |
+| "A lâmina nunca aponta pra mim." / "O Bruno fala muito." | Sofia e Matias | 38 | Eco do EP3. |
+| "Criar não faz dono, menina." | Mãe Dôra | 40 | — |
+| "Quem passou pomada na tua mão?" | Marlene | 40 | Eco do EP3 (a vela) e do EP5 ("Passa a pomada que eu deixei", Dandara). |
+| **"Oi, filhinha."** | Romildo | 41 | **Gancho do mapa.** Vem do "Oi filhinha!!" de Marlene no EP11 original, agora na boca de Romildo. |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP6 (domingo, 18/10, à noite)
+- **Bruno:** foragido, com prisão temporária decretada por homicídio do cabo e subtração de incapaz. Está no apartamento de Pacheco, em Laranjeiras, com a pistola de Pacheco, o celular de flip e um número só. Sabe que Kalila morreu, que era a guardiã e que o seguro acabou. Fez a aliança com Matias. Prometeu subir "de madrugada, pela mata". **Não sabe que Sofia foi levada.** Não respondeu à pergunta "Então eu sou o quê?".
+- **Sofia:** no banco de trás do sedã de Romildo, com Marlene, à força (Zé atrás dela). Tem o pingente, o canivete sujo do sangue de Tarso, a lanterna, a guia de Oxum e as marcas dos dedos de Tarso no pulso. Sabe que Kalila era o passarinho e que morreu por ela, que agora é só chave e que Marlene mentiu também sobre os hematomas. O corpo dela reconheceu dois toques nas costas.
+- **Camila:** rompeu o noivado em público, mentiu a Romildo e esconde Bruno. Está com a pistola .40 raspada e a chave de Laranjeiras. Romildo viu o chaveiro do Bonfim. Pode responder a procedimento disciplinar ("Eu posso esquecer").
+- **Renato:** escolta de Romildo, banco da frente. Avisou do mandado. Romildo sabe que ele falou e suspeita do aviso. Viu Henrique e viu a caminhonete entregar alguma coisa ao sedã. Ficou fora do carro na hora do "Agora pode".
+- **Romildo:** tem a cópia do livro-caixa, o celular afogado de Dandara (via Tom) e Sofia. Precisa dela "até sexta". Suspeita de Renato e de Camila. Tem o dinheiro para descer antes de domingo e o jantar de doadores na sexta.
+- **Marlene:** com Romildo e Sofia, de rosto limpo. Foi revelada a Sofia.
+- **Tom:** matou Kalila, entregou a cópia e recolheu o celular de Dandara. Mandou Beka e Tarso, que voltaram sem a menina.
+- **Beka:** mentiu a Tom (ou vai mentir) com a história dos "quatro fuzis". Ameaçou atirar em Tarso. Continua com o recorte do rosto de Tom.
+- **Tarso:** com o antebraço cortado. Sabe que Beka mirou nele.
+- **Matias:** aliado de Bruno contra Tom. Sabe que a VOZ é Romildo. Examinou o pulso da filha. Deixou Formiga na esquina e não sabe que Paulão o tirou de lá. Não sabe da gravidez de Joana.
+- **Paulão:** vendeu o morro à Firma (o dobro e a pista "depois do domingo"). Entregou a hora da Kalila e o terreiro, e calou o alarme de Formiga, que ouviu. Deu uma ordem falsa em nome de Matias.
+- **Joana:** grávida de Pacheco. Só Dona Lourdes sabe. Deu a chave de Laranjeiras e a pistola de Pacheco. Testemunhou em público na escadaria.
+- **Dona Lourdes:** a casa foi revirada de novo. Sabe da gravidez. Tampou o batom de Kalila.
+- **Kalila:** morta. O vídeo está com o Barão.
+- **Barão:** tem o vídeo de Kalila e a fita de "Neemias". Não mostrou o vídeo a Bruno. Iolanda o vigia.
+- **Clovis:** tirou Bruno do Leblon. Mediu o patrão com os olhos.
+- **Roberto:** entregou Kalila. Foi desprezado ("Rosto se troca"). Ainda não aparece sabendo da morte dela.
+- **Gabriel:** decifrou "passarinho" com Sofia. Obedeceu à ordem falsa e deixou o LED na mureta. Não viu a lanterna. Tem o notebook, o pen-drive e o cartão do drone com o vídeo inteiro (EP4).
+- **Mãe Dôra:** abrigou Sofia, cobriu Kalila e viu Sofia sair com Marlene.
+- **Formiga:** deu o alarme da caminhonete e foi calado. Saiu da esquina por ordem falsa. Duas culpas.
+- **Henrique:** sabe que Renato anda com Romildo e tem a foto da placa.
+- **Iolanda:** sabe que o vídeo foi editado e quer o original.
+- **Inspetora Solange:** foi passada para trás pelo titular. A cópia lacrada dela foi requisitada.
+- **Vânia:** afastada.
+- **Dona Nilza:** achou o salão.
+- **Dona Zezé:** viu a gaveta cheia e não engole o "assalto".
+
+---
+
+### 8. Pendências para o EP7 — "O Cofre" (sexta, 23/10)
+- **O salto de cinco dias.** Sofia está com Romildo desde domingo à noite e o cofre só abre na sexta. Definir **onde ela fica**. Sugestão: num apartamento vazio da própria torre ou num flat da Barra, com **Beka contratada como vigia** (a bíblia põe Beka "do lado de dentro" no EP7). A mentira de Beka a Tom ("quatro fuzis") e o corte de Tarso são o motor de tensão entre o casal.
+- **Por que Romildo espera até sexta:** o dinheiro precisa descer para a reta final, e o jantar de doadores no salão da torre é a cobertura para movimentar gente e carrinhos. Abrir antes é arriscar barulho com a Federal em cima. Dizer isso numa linha, sem explicar demais.
+- **A mecânica do cofre.** Regra fixada até agora:
+  1. Fechadura de **oito dígitos**, que trava de vez na **terceira** tentativa errada (EP3).
+  2. Os dígitos: **7, 6, 5, 9** à vista entre dois traços e **3, 1, 8, 4** escondidos na quantidade de raios dos quatro feixes do farol, 16 raios no total (EP4, §5, item 1).
+  3. **A ordem não está na letra da cantiga.** Está no **toque**: na parte sem palavras do vídeo, a mão de Dandara marca nas costas da filha um ritmo que não é o da música (EP5, §5, item 4).
+  4. **No EP6, Kalila reproduziu dois toques**, em dois pontos diferentes das costas, e o corpo de Sofia reconheceu (cena 28). A arte não fixou quais pontos.
+  
+  **Proposta para a sala:** a mão de Dandara toca **oito pontos, um de cada vez**, cada um sobre um elemento da tatuagem (um dos quatro feixes ou um dos quatro números visíveis). **A ordem dos toques é a ordem dos dígitos.** O ritmo alterna entre o desenho e os números, e é isso que o verso sugere sem dizer ("um de noite, dois de sol"). Exemplo de sequência, só para a sala validar: feixe de 3, número 7, feixe de 8, número 6, feixe de 1, número 5, feixe de 4, número 9, o que dá **3-7-8-6-1-5-4-9**. Nesse caso, os dois toques de Kalila seriam o feixe de 3 (alto, à esquerda) e o 7.
+  
+  **Por que Romildo não consegue sem ela:** Marlene criou a menina e certamente tem fotos das costas dela, então Romildo pode ter os oito dígitos. Faltam a ordem (são 40.320 permutações) e as três tentativas. A memória está no corpo de Sofia, e ela **não consegue ver as próprias costas** (EP3, cena 32).
+  
+  **Como encenar sem revelar a ordem a Romildo:** Sofia pede a foto impressa das costas. Com a cantiga em voz baixa e de olhos fechados, toca com o dedo, sobre a foto, os pontos que o corpo lembra. Assim a ordem fica na mão dela, e não na boca. As duas tentativas erradas (o passo à frente da bíblia) devem ter os mesmos oito dígitos em ordem errada, verossímeis para quem assiste, para ganhar tempo até a luz do drone de Gabriel.
+- **O vídeo de Dona Lourdes amarrada** (sinopse do EP7): Romildo disse "Se ela não vier com a dupla, vem com a mãe". O barraco do alto do Farol é dado por Paulão. Lourdes está sozinha em casa desde domingo.
+- **Bruno descobre que Sofia sumiu** na madrugada de segunda, quando subir pela mata. Quem conta: Mãe Dôra, Gabriel ou Formiga. A culpa de Formiga e a de Gabriel (o LED na mureta) apontam para a ordem falsa de Paulão.
+- **Paulão:** Matias pode descobrir a "reunião" falsa no EP7. Pela bíblia, Paulão só morre no EP8, traído pela Firma. Sugestão: Matias desconfia sem provar, ou Paulão se antecipa e passa para o lado da Firma de vez no EP7, o que explica a ocupação do EP8.
+- **Renato no EP7:** está na escolta e é vigiado. Romildo sabe que ele vaza e pode usá-lo para passar uma informação falsa (o plano de saída da torre), enquanto Renato descobre a emboscada verdadeira no estacionamento e avisa Camila (bíblia). Henrique viu Renato com Romildo e pode procurá-lo; Renato pode dar a Henrique o paradeiro da câmera corporal de Pacheco antes de morrer.
+- **O apartamento de Laranjeiras corre risco** (o chaveiro do Bonfim, o aluguel no nome de Pacheco). A noite de Bruno e Camila "num quarto de Laranjeiras que não é de nenhum dos dois" (sinopse do EP7) **é este apartamento**: o colchão no plástico, a rede e o "JÔ" no dia 26. Decidir se Romildo chega lá antes ou depois.
+- **O Barão e o vídeo de Kalila:** ele não mostrou a Bruno. No EP7 ele trai o grupo e leva o dinheiro. O vídeo é a moeda dele para o EP8.
+- **Roberto:** ainda não sabe, em cena, que Kalila morreu e que foi ele quem a entregou. O jantar de doadores de sexta é o lugar natural para ele descobrir e desmoronar em público.
+- **Iolanda** quer o "bruto" do vídeo do drone. Gabriel tem o cartão, e a cópia do FAROL.hc está na Bíblia de Dona Celeste. Pode ser o primeiro contato direto de Iolanda com o grupo.
+- **Gabriel precisa de um drone novo** (pendência do EP5, ainda aberta).
+- **A pista do rádio de 2021** ("Ninguém atira. Eu quero a mochila") **continua aberta.** Opções: Renato, antes de morrer no EP7, conta que havia um segundo canal; ou Tom, preso, no EP8.
+- **A câmera corporal de Pacheco** continua com a Firma.
+- **Joana:** grávida e testemunha. Matias não sabe. Pela bíblia, ela entra no assalto do EP7.
+- **Sofia sabe que é "só chave"** e viu o rosto limpo de Marlene. Quando Marlene mostrar no EP7 o vídeo de Dona Lourdes amarrada, Sofia já não acredita em nada dela. A tensão é saber se aquele vídeo também é encenação. Não é.
+- **O canivete** está com Sofia. Romildo vai mandar revistá-la? Se o canivete sumir, ela perde a ferramenta; se ficar, é um risco para os captores.
