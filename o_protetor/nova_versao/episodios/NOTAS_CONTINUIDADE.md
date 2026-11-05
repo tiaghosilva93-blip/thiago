@@ -892,3 +892,271 @@ A fonte de verdade continua sendo a `BIBLIA_NINGUEM_TOCA_NELA.md`. Aqui está o 
 - **Os filhos da mulher de uniforme** (Kauã e Vitória, portão azul): o destino não foi mostrado. Pode virar uma linha de uma cena no EP5 ("as crianças do portão azul passaram o dia escondidas debaixo da cama") ou ficar em aberto.
 - **Dona Lourdes** não sabe que o homem que apagou a vela da neta é o homem que a matou. Pode saber no EP5.
 - **O número dos raios** (16, em feixes 3-1-8-4) precisa entrar na arte e no plano da tatuagem antes das filmagens. A cantiga define a ordem (EP7).
+
+> O EP5 resolveu as pendências acima, com estas exceções: a câmera de Pacheco continua com a Firma (o Major aponta Henrique para ela); Lemos não aparece; Dona Lourdes sabe que "não foi o Matias", mas não sabe quem apagou a vela; a gravidez de Joana fica plantada, sem confirmação (a bíblia guarda o teste para o EP6). Ver a seção "EP5", §5 e §8.
+
+---
+---
+
+## EP5 — "Laudo" (`EP05_LAUDO.fountain`)
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–4 | 2021: no IML, o fragmento pesa 2,9 g e recebe o lacre 0045812; a mão de um PM sem rosto assina e, no carro, tem um lacre novo e um projétil inteiro no porta-luvas. 2026: o enterro de Pacheco no São João Batista, com honras. Renato carrega o caixão. Joana fica na grade e o Barão para ao lado dela. Romildo e o Barão se cumprimentam de longe, e Iolanda fotografa os dois. Henrique jura "de farda ou sem farda" e mostra a Camila a última ligação do irmão: "RENATO — 07:21". |
+| Ato Um | 5–13 | A cocada e o vômito de Joana. Bruno manda Camila levar o vídeo à DH ("Leva assim mesmo"). O Barão e Clovis no Mercedes ("Ele piscou primeiro"). O Farol depois da operação. Dona Zezé enfrenta o Homem da Firma. Na DH, Renato é o "elo" posto por Romildo e grava com o celular o trecho de Bruno armado. Matias pressiona Paulão sobre a mata e Paulão avisa a Firma. Gabriel e Sofia abrem o FAROL.hc com o primeiro verso da cantiga: as páginas do livro ("Padrinho") e o vídeo. "É a minha mãe." |
+| Ato Dois | 14–21 | O vídeo inteiro: a cantiga, a mão que marca um ritmo nas costas de ninguém, "Quem te chama de passarinho guarda o resto". Sofia pede uma cópia. Romildo visita Dona Lourdes com uma orquídea ("Agora o senhor perguntou"), e Marlene espera no sedã. Iolanda na oficina. O luto de Joana, com o teste fechado. Beka e o recorte. Renato envia o trecho a Romildo. No ICCE, a contraperícia: 2,9 g contra 11,6 g, o fuzil 5.56, os lacres trocados e a assinatura "3º SGT PM RENATO MOURA". "Imprime." |
+| Ato Três | 22–38 | Camila leva o laudo a Bruno ("Me dá a noite"). Joana conta a Sofia, com o flashback de 2013 em que Dandara aparece grávida. Joana conta a Matias que contou. Bruno vê a orquídea na porta da mãe ("Agora ele perguntou") e leva o laudo a Matias, que desaba. Flashbacks de 2021: Matias foi ao Leblon buscar Dandara e, três semanas depois, entregou o esconderijo dela pondo uma condição: "Ninguém toca." "Ninguém aqui tá quite, verme." Sofia diante de Matias: o gesto e "Eu odeio criança". Na escadaria, Sofia conta a Bruno e ele diz que não vai matar Matias: "Porque não foi ele." |
+| Ato Quatro | 39–46 | Romildo recebe o alerta de acesso ao arquivo do ICCE e manda Tom editar o vídeo. O Major Freitas aponta Henrique para a câmera do irmão. Joana deixa a cocada na mureta enquanto Matias monta guarda lá embaixo. Gabriel esconde a cópia na capa da Bíblia de Dona Celeste. Na cozinha, Camila arma a mesa (o termo, a tabela de chamadas, a polo) e Bruno espera na escada de serviço. Renato admite tudo e Camila põe o anel em cima da polo. Bruno entra desarmado: "Quem mandou trocar a bala?" |
+
+46 cenas, cerca de 9.500 palavras (1.329 linhas com texto; as linhas são em média mais longas que as do EP4). Estimativa: 50 a 52 páginas.
+
+**Gancho:** Renato, de olhos no chão, diante de Bruno e Camila: "Não fui eu que mandei. Foi o seu padrinho." O celular dele, de tela para baixo, acende de novo. (cena 46)
+
+---
+
+### 1. Cronologia fixada
+| Data e hora | O quê |
+|---|---|
+| ~maio de 2013 | Flashback: a foto na laje. Dandara (23) grávida de cinco meses, Matias (31) e Joana (16) tirando a foto com o celular. |
+| 12/10/2013 | Nascimento de Sofia. Matias passa a noite do lado de fora da maternidade (Joana, cena 25). |
+| 2019 | Renato mata um rapaz desarmado no Jacarezinho; o processo "some" em troca da assinatura de 2021. |
+| Terça, 05/10/2021 | O Leblon, agora visto de dentro do Corolla (cenas 31 e 32). |
+| Quarta, 06/10/2021 | Exame no IML: fragmento de 2,9 g, lacre 0045812. Renato (3º sgt) retira o envelope e troca o projétil e o lacre no carro (cenas 1 e 2). Três meses depois é promovido a 2º sargento. |
+| Quinta, 21/10/2021, 23h48 | Dandara grava o vídeo "pra_ela.mp4" com Sofia dormindo do outro lado da parede, dias depois da tatuagem. |
+| ~26/10/2021 | Matias diz à VOZ onde Dandara está ("na casa velha da avó, atrás da caixa d'água grande") e exige: "Ninguém toca" (cena 34). Ela é morta logo depois. |
+| Quarta, 14/10/2026 | A DH pede a quebra de sigilo do celular de Pacheco. Não pede a de Jotapê. |
+| Quinta, 15/10/2026, ~23h | Camila liga para Vânia. Bruno já tinha levado o vídeo a Camila (fora de quadro). |
+| **Sexta, 16/10/2026** | **Todo o presente do EP5.** Faltam nove dias para o 2º turno. Rádio: Roberto encosta em Prates, **dois pontos** de diferença depois da operação (cena 8). |
+| Manhã | Enterro de Pacheco no Cemitério São João Batista. |
+| Fim da manhã | Camila entrega a cópia do vídeo na DH e Renato grava o trecho. |
+| Tarde | Gabriel abre o FAROL.hc. Romildo visita Dona Lourdes. Iolanda vai à oficina. Renato envia o trecho a Romildo. |
+| 14h52 | Vânia acessa o acervo de 2021 do ICCE com a própria senha (o alerta chega a Romildo, cena 39). |
+| Entardecer | Camila e Bruno na oficina. Joana conta a Sofia e depois a Matias. |
+| Noite | Bruno e Matias; Sofia e Matias; Sofia e Bruno na escadaria. |
+| 21h40 | Camila arma a mesa da cozinha. |
+| ~22h | O confronto com Renato e o gancho. |
+
+---
+
+### 2. Personagens novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Henrique** (com rosto) | 22 | Primeira aparição física. Soldado PM, farda de passeio nova "com o vinco da loja". Jura: "Quem fez isso com o meu irmão, de farda ou sem farda, eu vou achar." Tem o celular de Pacheco e viu a ligação para "RENATO" às 7h21. Abriu o armário do irmão no quartel. | 3, 4, 5, 40 |
+| **Dona Zélia** | 62 | Mãe de Pacheco, de Cachoeira. Recebe a bandeira de Romildo: "Ele era um menino." | 3, 4 |
+| **Vânia Alcântara** | 52 | Perita criminal do ICCE. Devia a Camila "uma conversa com o promotor". Fez a contraperícia e avisou: "Eu entrei nesse arquivo com a minha senha. Fica registrado." | 21 |
+| **Delegada Iolanda Prado** | 50 | Primeira aparição. Polícia Federal, crimes eleitorais e lavagem. Parda, nordestina ("visse"). Fotografou o Barão e Romildo no mesmo quadro. Chama o Barão de "André". "Eu não quero o Matias. O Matias é troco." Quer o papel original. | 3, 5, 6, 17 |
+| **Perito do IML** | — | Só a voz, em 2021. | 1 |
+| **Renato Moura** | 37 | **Sobrenome fixado.** Em 2021 era 3º sargento. | 1, 21, 45 |
+| Matias (31), Dandara (23), Joana (16) | — | Flashback de 2013. | 24 |
+| Rose (a Mulher de uniforme), Vitória e Kauã | — | O destino das crianças do portão azul (EP4) foi resolvido: "Passaram o dia debaixo da cama." / "A gente brincou de quem fica mais quieto. Eu ganhei." | 7 |
+| PM do cordão, Professora, Vizinha, Defensora Pública (35), Investigador da DH, primo com cartaz | — | Figurantes, com ou sem fala. | 3, 7, 8, 20 |
+
+**Recorrentes com informação nova**
+- **Romildo:** faz a entrega da bandeira e diz a Henrique "Conta comigo, soldado. Pro que for". Visita a casa de Dona Lourdes e **abaixa a cabeça** sob o batente. Monitora o acesso ao arquivo de 2021 do ICCE. Manda Tom editar o vídeo. É o "Padrinho" do livro-caixa.
+- **Barão:** primeira aparição pública desde 2017, de linho branco. Fica na grade com Joana. Cumprimenta Romildo tirando o chapéu. Sabe que Iolanda é "Federal" e que ela "vai querer o que é meu".
+- **Matias:** foi ele quem escolheu o dia 5 para o envelope. Chama Bruno pelo nome pela primeira vez. Sabe que Sofia sabe que é filha dele. Monta guarda de longe para Joana na laje da creche.
+- **Dona Celeste:** a Bíblia dela guarda agora, na capa, o cartão de memória com a cópia.
+- **Major Freitas:** vira aliado discreto de Henrique.
+
+---
+
+### 3. Locais novos
+- **IML, sala de exames (2021):** azulejo branco, bancada de inox, balança de precisão, régua de escala, câmera em tripé e livro de protocolo no balcão de saída. **A mesa de necropsia nunca aparece.**
+- **Cemitério São João Batista (enterro de Pacheco):** o mesmo cemitério da filha de Bruno. Há uma **quadra de sepulturas pequenas** onde Bruno para e não entra. Tem portão com corda de isolamento e um jazigo com anjo de mármore (de onde Iolanda fotografa).
+- **Delegacia de Homicídios, sala de análise:** sem janela, dois monitores, ar-condicionado pingando num balde.
+- **ICCE, sala de balística:** prateleiras de arquivo até o teto, comparador balístico coberto, servidor com a pasta "IML_2021_10_FOTOS_ORIGINAIS".
+- **Casa de Joana:** quarto pequeno com janela para a mata e cama de casal estreita "arrumada demais".
+- **Casa de Gabriel, sala:** sofá com capa de crochê, quadro de Jesus de moldura dourada. A Bíblia de Dona Celeste fica em cima da TV.
+- **Quartel do BOPE, vestiário:** o armário de Pacheco (fita preta, "CB PACHECO"), com a foto de Joana cortada no queixo e uma lata de cocada.
+- **Laje da casa do Matias em 2013:** dois andares, ainda no tijolo; a torre de São Conrado coberta de andaime.
+- **Prédio de Camila, escada de serviço do 4º andar:** a lâmpada que pisca, a lixeira e a porta da cozinha do 403.
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP5 | Pagamento previsto |
+|---|---|---|---|
+| **A cantiga no vídeo de Dandara** (mapa: EP5) | 13, 14 | **Paga.** O primeiro verso, digitado com espaços, é a senha do FAROL.hc. No vídeo, Dandara canta a cantiga inteira: "Conta os raios do farol, um de noite, dois de sol... quem contar até o fim, volta sempre para mim." Na parte sem palavras, a mão dela, **fora do quadro**, toca um ritmo que não é o da música. Sofia leva a mão às costas. "Se alguém te perguntar dessa música, tu diz que sempre soube" paga o "Sei lá. Sempre soube" do EP1. | EP7: a ordem dos oito dígitos. Ver §5, item 4. |
+| **A contraperícia** (mapa: EP5) | 1, 2, 21, 22 | **Paga.** O IML registrou 2,9 g (fragmento encamisado, deformado) e o ICCE recebeu 11,6 g (.40 íntegro). As fotos originais do fragmento ficaram no servidor. É **fuzil 5.56**. Lacre de saída do IML **0045812**; lacre aberto no ICCE **0045821**. | Prova para a PF/MP (EP8). "O laudo não diz de quem. Diz de quê": falta ligar o fuzil a Tom. |
+| **A assinatura de Renato na cadeia de custódia** (mapa: EP5) | 1 (a mão, a caneta clicada três vezes), 21, 22, 43, 45 | **Paga.** "3º SGT PM RENATO MOURA — BOPE", no campo "RETIRADO POR" do termo de saída do IML. Renato confessou. | EP7 (redenção). |
+| **A ligação das 7h21** | 4 (celular de Pacheco, com Henrique), 21 (quebra de sigilo por e-mail da DH), 43, 45 | **Paga.** Duração 02:03. | Henrique sabe o nome "Renato" (EP6). |
+| **"Foi o seu padrinho"** (mapa: gancho) | 46 | Bruno e Camila ouviram. | EP6. |
+| **Codinomes do livro-caixa** | 13 | Nas páginas escaneadas: "Pastor... trezentos. Sentinela... cento e vinte. Padrinho... quatrocentos." Sofia: "Parece batizado." **Romildo = Padrinho, Roberto = Pastor, Tom/Firma = Sentinela.** Só Gabriel e Sofia viram. | Cruzar com o original no cofre (EP7) e com a PF (EP8). |
+| **"Quem te chama de passarinho guarda o resto"** | 14 | Ninguém entendeu. Gabriel perguntou e Sofia não ouviu. O público tem a pista do EP3 (cena 13: Kalila diz "Passarinho"). | EP6 (Sofia decifra: Kalila). |
+| **"Um dia você vai entender, filha"** e "Tuas costas vão arder uns dias" | 14 | Confirma que a tatuagem foi feita dias antes do vídeo. | — |
+| **O trecho do vídeo do drone copiado por Renato** (sinopse) | 10, 20, 39 | Renato filmou o monitor da DH com o celular (cerca de 40 s: Bruno de costas, ajoelhado, de pistola na cintura) e enviou a Romildo, que mandou Tom cortar "tudo que não é o Bruno". | **EP6:** Bruno foragido. |
+| **A cópia do vídeo na DH** (sinopse) | 5, 9 | Lacrada pela Inspetora Solange. Mostra a tatuagem de Tom, mas não o rosto. Bruno mandou levar sabendo do risco. | EP6 e EP8. |
+| **Alerta de acesso ao ICCE** | 21, 39 | Romildo sabe que Vânia abriu o arquivo de 2021 às 14h52. | **Vânia está exposta.** EP6. |
+| **A orquídea de Romildo** | 15, 16, 28 | Posta por Dona Lourdes do lado de fora, no degrau. Bruno a reconheceu. | Imagem para o EP6. |
+| **"Você não tá indo à escola, Sofia?" / "Agora o senhor perguntou."** | 15, 28 | Paga o "Ele não perguntou" do EP2. Bruno, na porta da mãe: "Agora ele perguntou." | A dúvida sobre Romildo vira certeza no gancho. |
+| **O pingente** | 13, 15, 23, 27 | Sofia o escondeu debaixo da colcha antes de abrir a mão vazia para Romildo. A foto de Dandara continua dentro; o fundo falso, vazio. | EP8. |
+| **Cópia do FAROL.hc** | 14, 42 | Num cartão de memória costurado na capa da Bíblia de Dona Celeste. O pen-drive original continua com Gabriel. | Livre (segurança extra; pode servir à PF). |
+| **O drone** | 14 | "O drone morreu." / "Então arruma outro." O LED solto agora é o sinal noturno de Gabriel (cena 27). | EP7 (drone novo). |
+| **A foto dobrada de Matias** | 24, 37 | O público viu o momento em que a foto foi tirada (Dandara grávida). Sofia sabe que a foto existe ("fui eu que tirei a foto"), mas não a viu. Matias a segurou fechada no terraço. | EP8 (Joana entrega a Sofia). |
+| **O gesto da sobrancelha** | 11, 14, 24, 25, 33, 37 | Dandara em 2013: "Quando tu pensa demais, dá errado." Joana usa o gesto como prova. Sofia o faz de propósito diante de Matias. | EP8. |
+| **O carregador da pistola de Pacheco** (faltam três) | 11, 30, 33 | Com Matias. | Livre. |
+| **A gravidez de Joana** | 5 (vômito), 18 (teste fechado), 25 ("Luto não enjoa, Joana"), 41 | **Plantada, não confirmada.** A caixa do teste continua fechada na bolsa, ao lado da chave de Laranjeiras. Dona Lourdes desconfia. | EP6 (bíblia). |
+| **A cocada** | 5, 18, 41 | Henrique deu a Joana. Ela deixou o resto na mureta da creche. | — |
+| **A câmera corporal de Pacheco** | 40 | Continua com a Firma. O Major Freitas a Henrique: "Se você quer achar alguém, começa pela câmera." | EP6–EP7 (Henrique). |
+| **Placa da caminhonete da Firma** | 8 | Anotada por Dona Zezé num caderninho. Ela foi ameaçada: "A senhora fala muito pra quem mora sozinha lá no alto." | EP6 (Zezé alvo). |
+| **Paulão e a Firma** | 11, 12 | Matias perguntou da mata e Paulão mentiu. Paulão escreveu à Firma "Ele desconfia da mata" e recebeu "Então anda mais rápido". | EP6 (a venda do morro). |
+| **O recorte de Beka** | 19 | Atrás do documento, na carteira. "É do porteiro." Tarso: "Quem dobrou foi tu." | EP7. |
+| **A pistola de Bruno** | 29 (deixada com Formiga na boca), 44 | **Ficou no degrau da escada de serviço do prédio de Camila.** Bruno entrou desarmado na cozinha. | **EP6, logo na abertura:** recuperar ou perder. |
+| **A polo "SGT. RENATO"** | 43, 45 | Paga. Lavada, dobrada em quatro, com o anel de noivado em cima do nome bordado. | — |
+| **O anel de noivado** | 21 (Camila gira o anel), 45 | Tirado. "O vestido eu devolvo na segunda." | O casamento de 26/10 acabou. |
+| **Os dois cartões na gaveta da oficina** | 17 | O de Iolanda por cima do de Romildo. | EP8 (a escolha de Bruno). |
+| **"Eu conto, coronel. Eu conto tudo."** | 15 | Duplo sentido de Dona Lourdes. | — |
+
+---
+
+### 5. Decisões tomadas além da bíblia e da sinopse
+1. **Sobrenome de Renato: Moura.** Em 2021 era 3º sargento e foi promovido a 2º três meses depois da assinatura. A "morte anterior" da bíblia é **um rapaz desarmado morto por ele no Jacarezinho em 2019**. Disseram a ele que a menina era vítima de Matias e que "era só arrumar o papel". "Eu quis" (acreditar).
+2. **Como a adulteração foi feita e descoberta.** Renato retirou o envelope lacrado no IML e, no carro, trocou o fragmento de 5.56 (2,9 g) por um .40 íntegro (11,6 g) e o lacre 0045812 por um 0045821. Ninguém apagou as fotos originais do IML. A contraperícia cruza **peso, foto e número de lacre**, sem descrever ferimento. A violência contra a criança fica só na ficha ("S. DA C. — 12 ANOS").
+3. **A senha do FAROL.hc é o primeiro verso da cantiga**, digitado com espaços ("ela cantava devagar").
+4. **A ordem do código não está na letra da cantiga.** Para preservar a regra da bíblia (a foto da tatuagem mais o vídeo não podem bastar para abrir o cofre), o vídeo mostra Dandara cantando inteira, mas a ordem está no **toque**: na parte sem palavras, a mão dela marca um ritmo nas costas da filha, fora do quadro. **A sala precisa definir como o toque vira ordem no EP7** (por exemplo, a sequência em que os feixes 3-1-8-4 e o 7659 eram tocados).
+5. **Codinomes no livro-caixa:** Padrinho (Romildo), Pastor (Roberto) e Sentinela (Tom/Firma, o mesmo nome da operação do EP4 e do salmo do galpão). O gancho "Foi o seu padrinho" ganha um segundo sentido para o público.
+6. **"Ninguém toca" nasceu como condição de Matias**, na ligação em que ele entregou Dandara em 2021 ("E a filha dela? Ninguém toca." / "Combinado."). Só depois o seguro tornou a regra interesse de Romildo também. Bruno **não sabe** da entrega; só o público.
+7. **Matias foi ao Leblon para tirar Dandara de lá** (sinopse): "Encosta. Eu desço, ela entra." Ela balançou a cabeça, recusando. Pelo vidro estourado, Matias viu a menina cair; acreditou cinco anos que tinha sido ele.
+8. **Matias escolheu o dia 5** para o envelope mensal de Marlene por causa da filha de Bruno ("Fui eu que escolhi o dia").
+9. **Bruno contou a Matias o segredo da noite do enterro.** Agora só a mãe e Matias sabem. É a base da aliança do EP6.
+10. **Joana tirou a foto de 2013.** Dandara dizia a todos que o pai era "um rapaz da faculdade, de fora". Matias passou a noite do nascimento do lado de fora da maternidade. A prova que Joana dá a Sofia é o gesto.
+11. **Sofia sabe que Marlene é tia** ("Ela me chamava de filha na frente dos outros." / "Na frente dos outros."). Isso não contradiz o EP6: Sofia sai do terreiro porque Marlene a criou, não porque acredita que seja a mãe.
+12. **Sofia contou a Bruno que Matias é o pai**, e Bruno disse que não vai matar Matias: "Porque não foi ele." **O desejo de Bruno muda neste episódio.**
+13. **Sofia confrontou Matias sem palavras:** fez o gesto de propósito, e ele respondeu "Eu odeio criança". Ela: "Eu sei." Ela não o chama de pai.
+14. **Joana contou a Matias que contou** ("Tu odeia é tu, Alexandre"). Matias sabe que Sofia sabe.
+15. **A gravidez foi plantada, não confirmada:** vômito, ânsia, teste fechado e Dona Lourdes ("Luto não enjoa"). Cumpre o pedido de "luto com gravidez" sem antecipar a descoberta que a bíblia põe no EP6.
+16. **Romildo visitou a casa de Dona Lourdes** com uma orquídea (o "lobo em pele de cordeiro" do EP9 original) e abaixou a cabeça sob o batente. Perguntou pela escola e notou a mão fechada de Sofia. Marlene esperava no sedã, de lenço e óculos. Romildo: "Me olhou como quem sabe alguma coisa."
+17. **Romildo pôs Renato como "elo do batalhão" no inquérito da DH** sobre Pacheco. Foi assim que Renato teve acesso ao vídeo.
+18. **Bruno escolheu deixar o vídeo ir à DH** sabendo que o mostrava armado ("Leva assim mesmo"). O golpe do EP6 nasce de uma escolha dele.
+19. **A quebra de sigilo** do celular de Pacheco foi pedida pela DH na quarta e chegou na sexta por e-mail. A de Jotapê não foi pedida ("Morte de policial anda rápido").
+20. **Iolanda já segue o Barão** (o carro prata, cena 6) e o conhece pelo primeiro nome. Ela sabe do mandado e da "equipe sem nome", mas não do cofre. Disse com todas as letras que cópia não serve, o que prepara a escolha do EP8.
+21. **O Barão e Romildo** aparecem pela primeira vez no mesmo quadro: um cumprimento à distância. "Ele piscou primeiro."
+22. **O Major Freitas** passa a apontar o caminho para Henrique (a câmera).
+23. **O enterro foi no São João Batista**, o mesmo cemitério da filha de Bruno. Bruno para diante da quadra das sepulturas pequenas e não entra.
+24. **Renato carregou o caixão e dobrou a bandeira.** Bruno, na cozinha: "Pesava?"
+25. **Bruno deixou a pistola no degrau da escada de serviço** e entrou desarmado. Escolheu ouvir em vez de atirar.
+26. **"Depois" de Seu Geraldo** virou o argumento de Bruno para não esperar: "Eu falei 'depois' pro seu Geraldo. Não me fala 'amanhã'."
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Só família e corporação, senhora." | PM do cordão | 3 | Eco de "Só família" (EP4, rabecão). |
+| "A gente fica daqui, então." | Barão | 3 | — |
+| "Conta comigo, soldado. Pro que for." | Romildo | 4 | Terceira geração do bordão. |
+| "De farda ou sem farda, eu vou achar." | Henrique | 4, 40 | O Major o cita. |
+| "Luto pega no estômago." / "Luto não enjoa, Joana." | Barão e Dona Lourdes | 5, 25 | As duas leituras da náusea. |
+| "O laudo dizia o que mandaram dizer." | Bruno | 5 | — |
+| "Leva assim mesmo." | Bruno | 5 | — |
+| "Ele piscou primeiro." | Barão | 6 | — |
+| "Aquela vai querer o que é meu." | Barão | 6 | Eco de "O que é meu" (EP3). |
+| "A gente brincou de quem fica mais quieto. Eu ganhei." | Vitória | 7 | — |
+| "Eu moro em casa de tijolo. Quem levantou fui eu." | Dona Zezé | 8 | — |
+| "O braço não tem rosto." | Solange | 9 | — |
+| "Morte de policial anda rápido." / "Não pedi." | Solange | 9 | — |
+| "Tudo junto não. Ela cantava devagar." | Sofia | 13 | — |
+| "Parece batizado." | Sofia | 13 | Planta "padrinho". |
+| "É a moça que ri." / "É a minha mãe." | Gabriel e Sofia | 13 | Fim do Ato Um. |
+| "Oi, filha." / "Um dia você vai entender, filha." | Dandara | 13, 14 | Sinopse. |
+| "Se alguém te perguntar dessa música, tu diz que sempre soube." | Dandara | 14 | Paga "Sempre soube" (EP1). |
+| "Quem te chama de passarinho guarda o resto." | Dandara | 14 | Pista do EP6. |
+| "Pra ter duas." / "Onde ninguém procura." | Sofia | 14 | Mais um "passo à frente". |
+| "Na minha casa entra de cabeça baixa." / "Eu não preciso abaixar." / "Precisa." | Dona Lourdes e Romildo | 15 | Eco do EP3. |
+| "Eu batizei essa menina." / "E eu enterrei." | Romildo e Dona Lourdes | 15 | — |
+| "Aí pega fogo." | Dona Lourdes | 15 | A orquídea ao lado da vela. |
+| "Agora o senhor perguntou." / "Agora ele perguntou." | Sofia e Bruno | 15, 28 | Paga "Ele não perguntou" (EP2). |
+| "O Bruno tem sorte." / "O Bruno tem mãe." | Romildo e Dona Lourdes | 15 | — |
+| "Eu conto, coronel. Eu conto tudo." | Dona Lourdes | 15 | — |
+| "O Matias é troco." | Iolanda | 17 | — |
+| "Cópia, advogado de senador derruba numa tarde." | Iolanda | 17 | Prepara o EP8. |
+| "Jô, tô na trilha. Abre a janela que eu tô levando cocada. E medo." | Pacheco (áudio) | 18 | Eco de "Com cocada e com medo" (EP2). |
+| "É do porteiro." / "Quem dobrou foi tu." | Beka e Tarso | 19 | — |
+| "Bala não engorda no envelope." | Vânia | 21 | — |
+| "Imprime." | Camila | 21 | Fim do Ato Dois. |
+| "O laudo não diz de quem. Diz de quê." | Camila | 22 | — |
+| "Eu falei 'depois' pro seu Geraldo. Não me fala 'amanhã'." | Bruno | 22 | Eco do EP2. |
+| "Eu soltei a mão dela na porta do meu prédio. Preciso." | Camila | 22 | Eco de "Dessa vez eu não soltei" (EP2). |
+| "Porque tu é dele." / "Filha." | Joana | 23 | A virada. |
+| "A Marlene mente com a boca inteira." | Joana | 23 | Responde "Graças a Deus, não" (EP1). |
+| "Quando tu pensa demais, dá errado." | Dandara (2013) | 24 | — |
+| "Ele sabe tudo que acontece nesse morro." | Joana | 25 | Eco de Matias (EP3, cena 1). |
+| "Isso prova." | Joana | 25 | O gesto. |
+| "Eu passei um ano escondendo um homem. Ele morreu escondido." | Joana | 25 | — |
+| "Tu odeia é tu, Alexandre." | Joana | 26 | — |
+| "Isso aqui não é de polícia. É contra." | Bruno | 30 | — |
+| "Fui eu que escolhi o dia." | Matias | 30 | — |
+| "A tia." | Matias | 30 | — |
+| "Ninguém toca." / "Combinado." | Matias e a VOZ (2021) | 34 | A origem da regra da série. |
+| "Ninguém aqui tá quite, verme." | Matias | 35 | Responde "Agora a gente tá quite" (Sofia, EP3). |
+| "Ela correu pra ti. Eu vi pelo vidro." | Matias | 35 | — |
+| "Ninguém pode me segurar." | Sofia | 37 | A regra do toque usada por ela. |
+| "Eu odeio criança." / "Eu sei." | Matias e Sofia | 37 | Bíblia e sinopse. |
+| "Porque não foi ele." / "Que matou a minha filha." | Bruno | 38 | Fim do Ato Três. |
+| "O resto não existe." | Romildo | 39 | — |
+| "Me liga antes de chegar em casa." | Romildo | 39 | — |
+| "Marcando um salmo pra senhora." / "Se o Senhor não guardar a cidade, em vão vigia a sentinela." | Gabriel | 42 | O salmo do galpão da Firma (EP2), lido por acaso. |
+| "Dois gramas e nove." / "No meio, tu." | Camila | 45 | — |
+| "Eu quis." | Renato | 45 | — |
+| "Eu não perguntei." | Renato | 45 | Bíblia: "sem querer saber". |
+| "Tu tá falando como quem ainda tá vivo, Renato." | Camila | 45 | — |
+| "Pesava?" | Bruno | 46 | — |
+| "Não fui eu que mandei. Foi o seu padrinho." | Renato | 46 | **Gancho do mapa.** |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP5 (sexta, 16/10, cerca de 22h)
+- **Bruno:** na cozinha de Camila, desarmado (a pistola ficou no degrau da escada de serviço). Sabe que a filha foi morta por um fuzil 5.56 da polícia, que Renato trocou a bala e que o mandante é Romildo, o "padrinho". Desconfiava desde a orquídea ("Agora ele perguntou"). Já não quer matar Matias. Sabe que Matias é o pai de Sofia. Contou a Matias da noite do enterro. Não sabe que Matias entregou Dandara. Tem o cartão de Iolanda na gaveta. Segurou a mão de Camila.
+- **Sofia:** sabe que Dandara é a mãe (o vídeo), que Marlene é tia e que Matias é o pai. Confrontou Matias com o gesto. Ouviu a cantiga inteira na voz da mãe e sentiu a mão nas costas. Não decifrou "passarinho". Escondeu o pingente de Romildo. Pediu a cópia a Gabriel. Pôs os dedos na xuxinha de Bruno.
+- **Camila:** rompeu o noivado sem gritar e tirou o anel. Fez a contraperícia, com o acesso registrado no nome de Vânia. Tem a tabela de chamadas, o termo e o laudo. Ouviu "Foi o seu padrinho". Tocou a xuxinha e teve a mão segurada por Bruno.
+- **Renato:** confessou tudo a Camila e deu o nome a Bruno. Não atendeu a três chamadas de "NÚMERO PRIVADO" (Romildo). Gravou e entregou o trecho do vídeo antes de ser descoberto.
+- **Romildo:** tem o trecho do vídeo e mandou Tom editá-lo. Sabe que Vânia abriu o arquivo de 2021. Esteve na casa de Dona Lourdes e desconfia que Sofia "sabe alguma coisa". Cumprimentou o Barão no cemitério diante da PF. Não conseguiu falar com Renato. **Ainda não sabe que Renato confessou.**
+- **Marlene:** no sedã de Romildo, no Farol. Diz que a menina "não sabe de nada".
+- **Tom:** recebeu a ordem de editar o vídeo. Não aparece em quadro.
+- **Matias:** sabe que não matou a filha de Bruno e que Sofia sabe que é filha dele. Carrega a entrega de Dandara sozinho. Desconfia de Paulão. Monta guarda para Joana. Tem o carregador de Pacheco e a foto dobrada.
+- **Paulão:** mentiu sobre a mata e foi pressionado pela Firma: "Então anda mais rápido."
+- **Joana:** enterrou o namorado da grade. Contou a Sofia e a Matias. Tem o teste de gravidez fechado na bolsa, a chave de Laranjeiras e o lenço do Barão.
+- **Henrique:** tem o celular do irmão e sabe o nome "Renato" (não sabe quem é). Ouviu do Major que deve começar pela câmera. Guardou a foto de Joana.
+- **Dona Lourdes:** recebeu Romildo e pôs a flor para fora. Sabe que "não foi o Matias". Desconfia da gravidez de Joana. Ouviu Joana contar a Sofia quem é o pai.
+- **Gabriel:** abriu o FAROL.hc, guardou uma cópia na Bíblia da mãe e está sem drone. Leu o livro sem entender ("Padrinho").
+- **Dona Celeste:** guarda sem saber o cartão de memória.
+- **Barão:** apareceu em público. Sabe que a Federal o segue.
+- **Clovis:** viu o carro prata.
+- **Iolanda:** abordou Bruno e deixou o cartão. Segue o Barão e tem a foto dele com Romildo.
+- **Vânia:** fez a contraperícia e está exposta.
+- **Inspetora Solange:** tem o vídeo do drone lacrado e o inquérito de Pacheco. Não pediu a quebra de Jotapê.
+- **Major Freitas:** aliado discreto de Henrique.
+- **Beka:** ainda guarda o recorte e começa a rachar com Tarso.
+- **Tarso:** sem mudança.
+- **Kalila:** passou a tranca nos fundos do salão. Não aparece falando.
+- **Dona Zezé:** anotou a placa da Firma e foi ameaçada.
+- **Dona Cida:** esfregou o degrau. O pastor recolhe dinheiro para o enterro do filho.
+- **Formiga:** guardou e devolveu a pistola de Bruno.
+- **Roberto:** encostou em Prates (dois pontos). Aparece só na TV, de mão enfaixada.
+
+---
+
+### 8. Pendências para o EP6 — "Intocável" / "Ninguém Toca Nela"
+- **A abertura.** O gancho deixa os três na cozinha às 22h, com o celular de Renato acendendo ("NÚMERO PRIVADO") e a pistola de Bruno no degrau da escada de serviço. Decidir na primeira cena:
+  - o que Renato faz com a ligação de Romildo;
+  - se Romildo descobre que Renato falou;
+  - como Renato volta à escolta de Romildo no EP7 (pela bíblia). Sugestão: Camila e Bruno o mandam voltar como se nada tivesse acontecido, e ele vira um agente duplo frágil.
+- **O golpe de Romildo** (sinopse): o trecho editado do vídeo, somado à ocorrência de subtração de incapaz de Marlene e à caderneta de Seu Geraldo na DH, torna Bruno foragido. O vídeo editado precisa contradizer a cópia lacrada na DH. Decidir o que acontece com essa cópia (some? Solange resiste?).
+- **Vânia** acessou o arquivo com a própria senha. Romildo sabe. Ela pode ser afastada, ameaçada ou virar testemunha.
+- **Henrique sabe o nome "Renato"** pela ligação das 7h21 e ouviu do Major que deve começar pela câmera. Ele pode chegar a Renato antes de todos.
+- **"Passarinho" → Kalila** (EP6). O público tem a pista do EP3. Sofia tem o vídeo. Kalila trancou os fundos do salão.
+- **Joana confirma a gravidez** (o teste fechado na bolsa). Dona Lourdes já desconfia.
+- **Bruno e Matias:** a aliança do EP6 ("inimigo do meu inimigo") já tem base: o laudo, o segredo da noite do enterro, o "Bruno" dito pela primeira vez. Matias guarda a entrega de Dandara em segredo; não revelar a Bruno antes da hora (ou nunca).
+- **Sofia e Matias:** ela sabe e ele sabe que ela sabe. Nenhum dos dois disse "pai". Manter assim até o EP8.
+- **Sofia sabe que Marlene é tia.** A encenação do portão do terreiro no fim do EP6 precisa funcionar apesar disso: Sofia sai por quem a criou, sabendo que não é mãe.
+- **Paulão** foi pressionado pela Firma ("Então anda mais rápido"): a venda do morro no EP6.
+- **Dona Zezé** anotou a placa e foi ameaçada.
+- **Iolanda** deixou o cartão e quer "papel original". Bruno ainda não ligou.
+- **O livro-caixa escaneado** mostra o codinome "Padrinho". Ninguém além de Gabriel e Sofia viu. A sala pode usar no EP6 para confirmar o nome dito por Renato.
+- **A ordem do código** está no toque da mão de Dandara (§5, item 4). Definir antes do EP7.
+- **A pista do EP1** "Ninguém atira. Eu quero a mochila" (a ordem oficial contra a ordem real) **continua sem pagamento.** Renato pode completar no EP6 ("no rádio aberto ele mandou não atirar; no outro canal..."), ou fica para Tom no EP8.
+- **A câmera corporal de Pacheco** continua com a Firma.
+- **O casamento acabou.** O vestido vai ser devolvido na segunda (19/10). Romildo era convidado: como Camila justifica o fim do noivado a ele e ao batalhão sem se expor?
+- **Gabriel precisa de um drone novo** para o EP7.
+- **Beka** começa a rachar com Tarso por causa do vestido dobrado e do recorte.
