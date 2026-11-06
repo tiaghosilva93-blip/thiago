@@ -99,6 +99,12 @@ Escolha a imagem que conta a história da pauta:
 - **Nunca escreva no texto avisos como "imagem pendente", "capa a definir", "crédito a confirmar".** O crédito vai sempre preenchido.
 - Se a pauta inteira não se confirmar, **não grave o post** (devolva ao editor com o motivo); não grave como rascunho.
 
+**Enquadramento (regra obrigatória) — nada de rosto cortado:** o site mostra a capa em formato horizontal (16:9) e corta o que sobra, pelo centro. Foto vertical (retrato) perde a cabeça ou o queixo da pessoa. Por isso:
+- **Só use foto horizontal**: largura pelo menos 1,4 vez a altura (ex.: 1600 × 1000, 1920 × 1080). A página do arquivo no Commons e o resultado do WebSearch mostram o tamanho original ("Original file (L × A pixels)"); se a altura for maior que a largura, **descarte**.
+- Quando a pauta é sobre uma pessoa, o **rosto inteiro** tem que aparecer, perto do centro e com espaço acima da cabeça. Nada de close extremo, nada de foto em que a pessoa está na borda.
+- Se só existir foto vertical da pessoa, procure outra: foto horizontal de evento ou painel com ela, foto de divulgação horizontal (still, pôster em formato paisagem, foto de elenco), ou uma imagem horizontal do tema (palco, set, estúdio). Prefira uma imagem do tema a um rosto cortado.
+- No relato, informe o tamanho da imagem escolhida (L × A).
+
 **Capa única (regra obrigatória):** cada post tem uma capa diferente. Antes de gravar, confira que a URL não foi usada em outro post: `select slug from posts where cover_image = '<url>' or og_image = '<url>';` — tem que voltar vazio. Se a mesma obra já tem post com aquela imagem (ex.: o mesmo trailer), use outra: outro trailer/teaser oficial, outro still ou pôster de divulgação, ou outra foto do Commons.
 
 Coloque o crédito em itálico logo após o primeiro parágrafo ou abaixo do trailer: `<p><em>Imagem: Divulgação/Netflix</em></p>`. Confirme que a URL da imagem abre (HTTP 200) antes de gravar.

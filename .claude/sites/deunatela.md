@@ -92,6 +92,7 @@ Sempre que possível, confirme na fonte oficial (Netflix, Prime Video, Disney+, 
 
 - **Todo post tem imagem de destaque e sai publicado (obrigatório).** `cover_image` e `og_image` nunca ficam vazios e **nenhum post fica em rascunho** — rascunho prejudica o site. Rede bloqueada não é motivo para rascunho: se a página do arquivo do Commons aparece no WebSearch, a imagem vale. Sem foto específica, use uma foto genérica do tema (sala de cinema, palco, estúdio de TV, claquete, microfone) do Commons. Toda execução faz a faxina: publica qualquer rascunho que encontrar, com capa.
 - **Capas variadas.** Nada de capa de trailer em todo post: no máximo 1 por horário e 1 em cada 4 posts do dia. Prefira foto de divulgação oficial (estúdio, plataforma, emissora, gravadora, artista), Agência Brasil, Commons/Flickr CC. Pode buscar no Google Imagens, mas só usar imagens cuja origem seja uma dessas; nunca Getty/AP/Reuters/AFP/Shutterstock, fotos de outros veículos ou de paparazzi.
+- **Capa horizontal, sem rosto cortado.** O site exibe a capa em 16:9 e corta pelo centro. Use só fotos horizontais (largura ≥ 1,4 × altura); com pessoa, o rosto inteiro perto do centro. Foto vertical de pessoa é proibida como capa.
 - **Cada post, uma capa diferente.** Nunca repetir `cover_image` de outro post. Conferir com `select slug from posts where cover_image = '<url>';` antes de gravar.
 
 ## Formato do conteúdo
