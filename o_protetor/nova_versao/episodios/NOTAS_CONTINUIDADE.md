@@ -1436,3 +1436,282 @@ Título na bíblia: "Intocável". Título final: "Ninguém Toca Nela", o mesmo d
 - **Joana:** grávida e testemunha. Matias não sabe. Pela bíblia, ela entra no assalto do EP7.
 - **Sofia sabe que é "só chave"** e viu o rosto limpo de Marlene. Quando Marlene mostrar no EP7 o vídeo de Dona Lourdes amarrada, Sofia já não acredita em nada dela. A tensão é saber se aquele vídeo também é encenação. Não é.
 - **O canivete** está com Sofia. Romildo vai mandar revistá-la? Se o canivete sumir, ela perde a ferramenta; se ficar, é um risco para os captores.
+
+> O EP7 resolveu as pendências acima, com estas exceções: a pista do rádio de 2021 continua aberta; a câmera corporal de Pacheco continua com a Firma, mas agora Henrique sabe onde ela está (mensagem de Renato); Romildo não chega ao apartamento de Laranjeiras. Ver a seção "EP7", §5 e §8.
+
+---
+---
+
+## EP7 — "O Cofre" (`EP07_O_COFRE.fountain`)
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–4 | Domingo, 18/10, à noite: o sedã entra na torre; a cobertura, a porta de aço que espelha o Farol, "Oito números. Três chances."; Beka revista Sofia, fica com o canivete e devolve a lanterna ("Pilha fraca"). Segunda de madrugada: Bruno chega ao terreiro tarde demais; Gabriel admite que saiu da laje. Terça à noite: a luz pisca no alto da torre e Gabriel responde. "Ela tá na torre." |
+| Ato Um | 5–16 | Quarta: Sofia pede a Marlene a foto das costas ("Eu tinha o quarto pequeno"); de noite, o dedo desenha o X sobre o farol; Beka devolve o canivete; a luz na varanda; Beka engana Tarso e conversa com Sofia ("Matar é rápido"). O plano na laje da creche: Clovis pela mata, o drone novo, o Barão no viva-voz, "Viúvo paga meia", e Joana conta a Matias que está grávida. Quinta: Romildo e Tom marcam a garagem, vistos por Renato; Romildo mostra a Sofia, pelo binóculo, Dona Lourdes costurando; Henrique em Laranjeiras ("Tem fila"); a noite de Bruno e Camila (o plástico do colchão, "Não fala 'amanhã'"). Sexta: Camila sai primeiro ("Dessa vez fui eu"); Paulão leva Dona Lourdes; Formiga corre até Matias sem usar o rádio; o vídeo de Lourdes amarrada e o prazo das 22h30. "Eu abro." |
+| Ato Dois | 17–26 | O baú do caminhão: Matias avisa do sequestro e assume o resgate ("A tia é minha"), e a mensagem muda. Renato vê Camila na doca e não diz nada. O drone deixa o celular na varanda; Beka o guarda e passa o recado no banheiro. O jantar: o Barão diante de Romildo e de Roberto ("A Kalila mandou lembrança"); Roberto alcança Romildo no elevador ("Eu agradeci"); o segurança na cozinha e Joana. A Firma monta a emboscada na garagem; Renato manda a Henrique o paradeiro da câmera. 22h00 diante da porta de aço. |
+| Ato Três | 27–37 | 22h03, a primeira tentativa errada. Fogos no morro; Formiga acende o primeiro; Henrique sabe da gravidez no beco. Tarso vê o celular no bolso de Beka ("Pra falar com outro homem"). O resgate na casa velha atrás da caixa d'água grande ("Tu sabia o caminho") e o rojão verde. Marlene implora; 22h14, a segunda errada; Romildo perde a calma ("Tu tá brincando comigo, menina?"); o barraco não atende; "Você está esperando alguma coisa." Roberto esquece o texto no palco. 22h24: o LED no reflexo do aço, a cantiga inteira, a luz verde. |
+| Ato Quatro | 38–50 | A sala-cofre; Sofia fotografa o livro atrás da porta. Os carrinhos sobem; Romildo reconhece a xuxinha ("Boa noite, Bruno"); o tiroteio diante do Farol; Romildo sai pelo elevador social ("Agora você lembrou"). Beka entrega o recorte, Sofia deixa o livro ("Papel distrai homem"), e Tarso mata Beka. Renato avisa Camila, vai buscar a menina e é morto por Tom. Beka morre ("Eu devolvi o dinheiro"); Bruno pega o livro. Na escada, o pingente estala. O caminhão sai com o dinheiro; Clovis vê a menina no espelho e engata. Romildo recolhe Sofia e pisa no celular. Bruno chega à avenida tarde; Camila e Renato. A travessia a pé; Iolanda fotografa e pede a busca. No barracão, "O que é meu"; Clovis larga a gravata. 3h: a ligação para o fixo de Dona Lourdes. |
+
+50 cenas e cerca de 9.200 palavras (2.280 linhas, contra 2.224 do EP6). Estimativa: 51 a 53 páginas.
+
+**Gancho:** às 3h de sábado, o telefone fixo de Dona Lourdes toca. Romildo, parado com Sofia num mirante da Estrada das Canoas, deixa a menina falar ("Tu é muito ruim de resgate") e retoma o aparelho: "O livro pela menina. No Farol. Ao nascer do sol." (cena 50)
+
+---
+
+### 1. Cronologia fixada
+| Data e hora | O quê |
+|---|---|
+| **Domingo, 18/10, ~21h30** | Sofia é levada à cobertura da torre (cena 1). |
+| **Segunda, 19/10, madrugada** | Bruno sobe pela mata e encontra o terreiro sem Sofia (2–3). |
+| **Terça, 20/10, ~22h** | Primeira troca de luz entre a varanda da cobertura e a laje de Gabriel (4). A partir daí, toda noite às dez (8). |
+| **Quarta, 21/10** | De dia, Sofia recebe a foto impressa das costas (5). À noite, acha a ordem (6), troca luz com Gabriel (7), e o plano é feito na laje da creche (8). Joana conta a Matias que está grávida. |
+| **Quinta, 22/10** | De dia, Romildo e Tom percorrem a garagem (9). À tarde, o binóculo (10) e Henrique em Laranjeiras (11). À noite, Bruno e Camila (12). |
+| **Sexta, 23/10** | Faltam dois dias para o 2º turno (Roberto, cena 33). |
+| Amanhecer | Camila sai de Laranjeiras (13). |
+| Manhã | Paulão e a Firma levam Dona Lourdes para a casa velha (14–15). |
+| Tarde | O vídeo de Lourdes amarrada. Romildo dá o prazo: "até as dez e meia" (16). |
+| Fim de tarde | O baú do bufê, a caminho; Matias avisa (17). |
+| ~19h | O bufê encosta na doca; Renato vê Camila (18). |
+| ~20h | Começa o jantar de doadores. |
+| ~20h30 | O drone deixa o celular na varanda (19–20). |
+| 21h50 | A revista na cozinha (24). |
+| 21h52 | Renato manda a Henrique a mensagem sobre a câmera (25, 50). |
+| 21h58 / 22h00 | Romildo chega à cobertura (26). |
+| 22h03 | 1ª tentativa errada (27). |
+| 22h04 | Fogos e baile no Farol (28). |
+| ~22h10 | Dona Lourdes é solta; o rojão verde (30–31). |
+| 22h14 | 2ª tentativa errada (32). |
+| 22h24 | O LED duas vezes; a porta abre (36–37). |
+| ~22h30 | Tiroteio na cobertura. Beka e Renato morrem (40–42). |
+| ~22h35 | O caminhão sai com o dinheiro. Romildo leva Sofia (46). |
+| ~22h40 | A travessia a pé até o Farol; Iolanda pede a busca (48). |
+| **Sábado, 24/10, 3h** | A ligação de Romildo (50). |
+| Sábado, nascer do sol (~5h15) | A troca, no Farol (EP8). |
+
+---
+
+### 2. Personagens novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Seu Otávio** | 60 | Dono do bufê do senador "há doze anos". Deve ao Barão a casa onde mora. | 24, 35, 39 |
+| **Carlinhos** | 30 | Homem do Barão, de uniforme de bufê. Carrega o dinheiro durante o tiroteio. | 17, 24, 39, 40, 45, 46 |
+| **Tuco** | 40 | Idem. Fecha o baú. | 17, 24, 39, 40, 45, 46, 49 |
+| **Segurança da Campanha** | 35 | Pede a Bruno que abaixe a máscara; Joana o despacha. | 24 |
+| **Recepcionista** | — | Do jantar. | 22 |
+| **Homens da Firma 1 e 2** | — | Guardam a casa velha. Neutralizados por Matias e Henrique. | 30 |
+| **Homem da Firma 3** | — | Na garagem. | 42, 47 |
+| Dois homens da Firma na cobertura | — | Um é baleado no ombro por Bruno; o outro desce com Romildo. | 26, 40 |
+
+**Recorrentes com informação nova**
+- **Beka:** desde domingo é a vigia de Sofia na cobertura. Fica com o canivete na revista e o devolve na quarta; deixa a lanterna com a menina. Não tem filhos ("O Tarso queria"). Guarda o celular do drone, passa o recado e entrega o aparelho a Sofia dentro da sala-cofre. Entrega o recorte com o rosto de Tom. **Morta por Tarso** no corredor de serviço da cobertura (cenas 41 e 43). Última fala: "Eu devolvi o dinheiro."
+- **Tarso:** desconfia do celular de Beka e entende "outro homem" ao pé da letra. Atira nela e fica de joelhos, abraçado ao corpo. Bruno o deixa vivo. Paradeiro desconhecido.
+- **Renato:** vê Camila na doca e não a entrega (18). Manda a Henrique o paradeiro da câmera de Pacheco (25). Avisa Camila da emboscada, sai do carro para buscar Sofia e é morto por Tom a um metro da porta da escada, com a ligação aberta (42). **Morto.**
+- **Romildo:** fala "tu" pela primeira vez na série, ao perder a calma (32). Reconhece Bruno pela xuxinha. Sobre Sofia, a Marlene: "Agora ela viu o que tem dentro." Sabe que as duas tentativas erradas foram de propósito (50).
+- **Marlene:** fotografou as costas de Sofia uma vez por mês durante cinco anos. Primeira rachadura: "Ela é minha sobrinha, Romildo." / "Agora você lembrou."
+- **Tom:** comanda a emboscada na garagem, mata Renato e dirige o sedã de Romildo.
+- **Matias:** sabe da gravidez de Joana (8) e conta a Henrique (28). Volta à casa velha onde Dandara foi pega. Dona Lourdes: "Tu sabia o caminho."
+- **Henrique:** entra em ação de farda ao lado de Matias. Sabe do sobrinho. Recebe a mensagem de Renato depois da morte dele. Fica com a caneca "SALVADOR" e a dá a Joana.
+- **Joana:** trabalha de garçonete no bufê ("Servi bufê três anos pra pagar a faculdade") e salva Bruno da revista.
+- **Formiga:** larga o rádio no degrau, avisa Matias pessoalmente e acende o primeiro rojão.
+- **Clovis:** dirige o caminhão de gravata por baixo do uniforme. Vê Sofia no retrovisor e engata. No barracão, deixa a gravata em cima do dinheiro e sai a pé.
+- **Barão:** vai ao jantar sozinho ("Viúvo paga meia"). Conta a Roberto que Kalila morreu. Dá a ordem "Vai, Clovis". Fica com o dinheiro no barracão da escola de samba.
+- **Roberto:** descobre a morte de Kalila e que foi a informação dele que a matou ("Fui eu"). Esquece o texto no palco e recita o Neemias. É retirado pelos seguranças.
+- **Iolanda:** fotografa a placa do caminhão e Bruno com o caderno. Pede a busca na cobertura e o endereço de Dona Lourdes.
+- **Dona Celeste:** sabe que o filho voa "pra uma menina". "Então reza antes."
+
+---
+
+### 3. Locais novos
+- **Torre espelhada (São Conrado), 25 andares.**
+  - **Garagem G1:** pilares, carros de luxo com capa, a **doca** de carga ("BUFÊ AUTORIZADO — SEXTA, 19H") junto ao **elevador de serviço**, a porta corta-fogo "ESCADA DE SERVIÇO" e a **rampa** para a avenida.
+  - **Cobertura:** o elevador social abre direto num hall de mármore. A sala tem **parede de vidro do chão ao teto, de frente para o Farol**; ao fim do EP7 o vidro está trincado em teia de aranha. Na parede do fundo, de frente para o vidro, a **porta de aço escovado** com o teclado. O aço reflete, borrado, o vidro e o morro: é o espelho por onde Sofia vê a luz sem virar a cabeça. Há uma cozinha americana com **relógio digital no forno** (o relógio do Ato Três), o quarto de hóspedes com varanda (vaso de planta onde o celular pousa), um banheiro de mármore com torneira dourada e o **corredor de serviço** de mármore branco até a escada.
+  - **Sala-cofre:** estreita, de luz branca, com prateleiras de metal até o teto e tijolos de notas de 100 e 200 embalados em plástico. O **livro-caixa** fica sozinho numa prateleira baixa, no fundo. A porta é "grossa como um colchão".
+  - **Salão de festas (térreo):** faixa "ROBERTO GOVERNADOR — JANTAR DE AMIGOS", pequeno palco com teleprompter, **cozinha** com porta vaivém ligada ao elevador de serviço e **hall dos elevadores** com portas de aço.
+- **Casa velha atrás da caixa d'água grande** (alto do Farol): reboco caído, janela gradeada, porta baixa, colchão velho. **É a "casa velha da avó" onde Dandara foi pega em 2021** (EP5, cena 34). Paulão a entregou à Firma.
+- **Terraço da casa do Matias:** ponto de partida dos fogos.
+- **Caminhão do bufê:** baú com lâmpada no teto, carrinhos de inox presos com cinta e toalhas brancas.
+- **Barracão da escola de samba do Barão:** galpão de carros alegóricos pela metade (um leão dourado de isopor, uma escadaria de plumas, uma coroa). **Lá está o dinheiro.**
+- **Mirante da Estrada das Canoas:** de onde Romildo liga, com vista para o Farol e a torre.
+
+---
+
+### 4. Pistas e objetos
+| Pista ou objeto | Cena(s) | Estado ao fim do EP7 | Pagamento previsto |
+|---|---|---|---|
+| **A tatuagem e o código** (mapa: EP7) | 1, 5, 6, 27, 32, 37 | **Pago.** O cofre abriu na terceira tentativa. O código **nunca é dito nem mostrado**: o visor só tem asteriscos. Ver §5, item 1. | — |
+| **A cantiga como ordem** (mapa: EP7) | 6, 27, 37 | **Paga.** A ordem vem do toque (EP5 e EP6) reconstruído pelo dedo sobre a foto: um X que alterna feixe e número. Na abertura, Sofia canta a cantiga inteira, baixo. | — |
+| **"Esteja sempre um passo à frente"** (mapa: Sofia erra duas de propósito) | 27, 32, 37, 50 | **Pago.** As duas erradas são deliberadas para ganhar tempo até a luz. Marlene desconfia (27); Romildo percebe (32: "Você está esperando alguma coisa") e confirma (50: "Duas erradas. De propósito."). | EP8 (o pingente). |
+| **O fundo falso do pingente / a cópia** (bíblia: EP8) | 38 (fotos), 44 (o pingente estala) | **Plantado sem revelar.** Sofia fotografa as páginas atrás da porta de aço. Na escada, no 9º andar, tira "alguma coisa pequena demais para se ver" da lateral do celular e o pingente estala. Romildo pisa no celular (46) e acredita que as fotos morreram. | **EP8:** o cartão microSD com as fotos (o celular de Gabriel gravava no cartão). |
+| **O livro-caixa original** | 35 do EP3; 38, 41, 43, 47, 50 | **Com Bruno**, em cima da máquina de costura de Dona Lourdes. Sofia o deixou de propósito no corredor ("Papel distrai homem", fala de Kalila no EP6). | EP8: a troca. |
+| **O recorte de Seu Geraldo** com o rosto de Tom (EP2 → EP7) | 41, 50 | **Pago.** Com Sofia, dobrado na mão. | EP8 (prova do rosto de Tom em 2021). |
+| **O celular do drone** | 19, 20, 21, 29, 38, 44, 46 | Destruído por Romildo na garagem. | — |
+| **A lanterna e o LED** (EP6: sem resposta) | 1, 4, 7, 36, 37 | **Pago.** A lanterna devolvida por Beka abre a linha entre a torre e o morro, e o LED do drone na janela é o sinal final. | — |
+| **O aço que espelha** | 1, 26, 27, 32, 37 | **Plantado e pago.** Sofia vê a luz no reflexo da porta sem virar a cabeça. | — |
+| **O relógio do forno** | 26, 27, 32, 37 | Relógio diegético do Ato Três (22:00 → 22:24) contra o prazo das 22h30. | — |
+| **O canivete** | 1, 6 | Beka o tirou na revista e o devolveu. **Com Sofia**; não foi revistada de novo. | EP8. |
+| **A xuxinha amarela** | 12, 40 | Ainda no pulso de Bruno. Foi por ela que Romildo o reconheceu debaixo da máscara. Camila a tocou de novo. | **EP8:** Bruno a dá a Sofia no hospital ("Pra você lembrar de voltar"). |
+| **O plástico do colchão** (EP6) | 12 | **Pago.** Camila o rasga. | — |
+| **O calendário "JÔ" no 26** | 11, 12 | Visto por Henrique e na noite de Bruno e Camila. | EP8 (segunda, 26/10). |
+| **"Eu já tenho gravata"** (EP6) | 8, 25, 46, 49 | **Pago.** Clovis dirige de gravata por baixo do uniforme e a deixa em cima do dinheiro. | T2 (a dívida de Clovis com a menina). |
+| **O jantar de doadores** (EP6) | 8, 22, 23, 24, 33, 48 | **Pago** como cobertura. | — |
+| **O dinheiro** (~R$ 80 mi) | 38, 40, 45, 46, 49 | **Com o Barão**, no barracão da escola de samba. Iolanda tem a **placa do caminhão**. | EP8 e T2. |
+| **A gravidez de Joana** | 8, 28 | Matias, Henrique, o Barão (pelo viva-voz), Camila, Bruno e Gabriel sabem. | EP8 (depoimento e exílio). |
+| **A casa velha** (EP5) | 15, 17, 30 | Lourdes: "Foi aqui que pegaram a mãe dela." / "Tu sabia o caminho." Matias não responde. | **EP8:** Lourdes sabe ou intui que Matias entregou Dandara. Bruno ainda não sabe. |
+| **A câmera corporal de Pacheco** | 11, 25, 50 | Renato: "no galpão de Campo Grande, na sala do Vieira". Henrique tem a mensagem. | EP8 ou T2. |
+| **Paulão vendido à Firma** | 14, 15, 30 | **Aberto.** Levou Lourdes e está "na pista, com o pessoal do Vieira". Matias sabe. | EP8 (bíblia: morto pela Firma). |
+| **Roberto sabe de Kalila** (EP6, pendência) | 22, 23, 33 | "Fui eu." Perdeu o texto no palco. | EP8 (o vídeo e a prisão). |
+| **O vídeo de Kalila** | — | Com o Barão. Não aparece. | EP8. |
+| **Iolanda** | 48 | Fotos da placa e de Bruno com o caderno. Pediu a busca e o endereço de Lourdes da Costa. | **EP8:** "Iolanda encontra Bruno antes do sol." |
+| **A pista do rádio de 2021** ("Ninguém atira. Eu quero a mochila") | 40 (eco: "Ninguém atira nela. Eu quero ela inteira") | **Continua aberta.** Só o eco. | EP8 (Tom) ou T2. |
+| **Corpos e feridos na torre** | 40–43, 47 | Beka (corredor de serviço), Renato (G1). Um homem da Firma baleado no ombro e Zé desacordado na cobertura. Tarso com o corpo de Beka. | EP8: o que a PF e a PM encontram. |
+
+---
+
+### 5. Decisões tomadas além da bíblia e da sinopse
+1. **A mecânica do cofre, validada.**
+   - **Código: 3-7-8-6-1-5-4-9.** É a proposta das notas do EP6, mantida.
+   - **Regra do toque:** a mão alterna entre feixe e número. Os números visíveis entram na ordem em que se leem (7, 6, 5, 9). Os feixes entram **em X**: alto à esquerda (3), baixo à direita (8), alto à direita (1), baixo à esquerda (4). Pela leitura horária do EP4, a partir do alto à esquerda, os feixes são 3 (alto-esq.), 1 (alto-dir.), 8 (baixo-dir.) e 4 (baixo-esq.); o X dá 3, 8, 1, 4. Intercalados com 7, 6, 5, 9, dão 3-7-8-6-1-5-4-9.
+   - Os **dois toques de Kalila** (EP6) eram o feixe de 3 e o 7: os dois primeiros.
+   - O verso "um de noite, dois de sol" marca a alternância entre a luz e o número; não diz os números.
+   - **As tentativas erradas**, nunca mostradas em cena e só para a sala: 1ª, **7-6-5-9-3-1-8-4** (a ordem de quem lê: visíveis, depois feixes em sentido horário); 2ª, **3-1-8-4-7-6-5-9** (feixes, depois visíveis). São as duas permutações que qualquer pessoa com a foto tentaria primeiro, e por isso Romildo não pode acusá-la de imediato.
+   - **Encenação:** Sofia pede a Marlene a foto impressa das costas ("Ninguém consegue ver as próprias costas") e, de olhos fechados e cantando, deixa o dedo achar a ordem sobre a folha. O público vê o X, não os números. Diante do teclado, ela **digita**; nunca diz o código.
+   - **Arte:** os quatro feixes precisam estar visivelmente separados na folha impressa, e a coreografia do dedo (cena 6) precisa mostrar o X.
+2. **Conciliação do mapa com a sinopse:** os dois erros são deliberados e servem para ganhar tempo até o sinal. **O sinal tem dois sentidos:** "a tia está solta" (o rojão verde de Matias dispara o drone) e "estamos na porta" (o bufê espera, na cozinha, a chamada de Romildo). A mensagem no celular ("NÃO ABRE ANTES") vem de Bruno; a decisão de queimar duas tentativas é de Sofia. Ninguém mandou.
+3. **Por que a porta precisa abrir:** o golpe ao contrário só funciona se Romildo chamar o bufê, e ele só chama depois de aberto. Quem defende isso é o Barão, que tem o próprio interesse no dinheiro.
+4. **O bufê é a logística de Romildo** ("O coronel adora uma toalha branca"), e o Barão a sequestra: o dono do bufê lhe deve a casa, e o caminhão que deveria levar o dinheiro à campanha (e Sofia aos heróis) leva o dinheiro ao barracão.
+5. **Onde Sofia ficou de domingo a sexta:** no quarto de hóspedes da própria cobertura, com Beka como vigia. É uma locação só; a menina vê o Farol de frente, e a linha de luz com Gabriel começa na terça.
+6. **Como os heróis souberam:** Sofia piscou a lanterna da varanda, e Gabriel, de vigia toda noite por culpa, respondeu.
+7. **Dona Lourdes foi presa na casa velha da avó**, onde Dandara foi pega em 2021. Matias a resgata entrando de cabeça baixa pela porta baixa. Dona Lourdes liga os pontos ("Tu sabia o caminho"), mas Bruno não ouve.
+8. **Henrique de farda** é a tática do resgate: a Firma relaxa diante de PM ("Farda é farda"). É a resposta do episódio ao "Tem fila" de Bruno.
+9. **Joana conta a Matias que está grávida** diante de todos, no planejamento. Matias conta a Henrique no beco: "É meu também."
+10. **Renato, em dois gestos de redenção:** não entrega Camila na doca e manda a Henrique o paradeiro da câmera. A ligação para Camila é o último telefonema dele. Morre tentando chegar à menina antes da Firma, com a ligação aberta (4min12s). Paga "Ele vai acabar morrendo disso" (EP6).
+11. **Romildo reconhece Bruno pela xuxinha.** A peça que o padrinho viu no enterro é o que denuncia o afilhado.
+12. **Romildo nunca troca tiro.** Sai pelo elevador social no primeiro disparo e espera na garagem. Recebe Sofia "inteira" e pisa no celular.
+13. **Beka morre de pé diante da porta da escada.** Tarso atira por contrato e por ciúme: "outro homem", "Tu trocou eu por uma criança". A fala final dela paga "Ainda não devolvi o dinheiro" (EP6).
+14. **Sofia deixa o livro de propósito** ("Papel distrai homem", herança de Kalila). Assim Bruno sai com o original e ela, com a cópia nas fotos.
+15. **Clovis escolhe o patrão vendo a menina no retrovisor.** A traição do Barão se cumpre com custo: Clovis abandona a gravata e sai a pé. O Barão: "Então ela viu um motorista."
+16. **Roberto sabe de Kalila no jantar**, pela boca do Barão, e desmonta no palco: sem o texto de Romildo, só sabe dizer o Neemias.
+17. **Bruno e Camila:** a noite é quinta, 22/10, no apartamento de Pacheco. Ela rasga o plástico do colchão, conta 31 fios brancos e não o deixa dizer "amanhã". De manhã, sai primeiro ("Dessa vez fui eu"), invertendo a noite de 2021.
+18. **Iolanda viu tudo de fora** e escolhe seguir Bruno (o endereço de Dona Lourdes), e não o caminhão. Prepara a abertura do EP8.
+19. **A ligação do gancho** é para o **telefone fixo** de Dona Lourdes, às 3h, de um mirante. Sofia fala antes ("Tu é muito ruim de resgate", eco de "ruim de sequestro", EP6). A troca é "ao nascer do sol" desse mesmo sábado.
+20. **A bíblia diz "véspera do segundo turno"** para o EP7. Segue-se a sinopse: sexta, 23/10, dois dias antes.
+21. **"Viúvo paga meia":** é piada do Barão; ele nunca foi dado como casado ou viúvo. A sala pode fixar ou deixar como mentira.
+22. **Bordão preservado:** "Isso não é resposta" não foi usado. Continua guardado para a inversão final no EP8.
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Sete minutos a pé." | Romildo, Joana | 1, 48 | Eco do Barão (EP3, "A pé, sete minutos"). |
+| "Eu contratei." | Romildo | 1 | Sobre Dandara. |
+| "Oito números. Três chances." | Romildo | 1 | — |
+| "Porta aberta é dinheiro exposto." | Romildo | 1 | O porquê da sexta. |
+| "Pilha fraca." / "Tua luz é fraca, menina. Mas chega." | Beka | 1, 7 | — |
+| "De qualquer lugar." | Gabriel | 3 | — |
+| "Fala pro verme. Ela tá na torre." | Gabriel | 4 | Fim do teaser. |
+| "Ninguém consegue ver as próprias costas." | Sofia | 5 | Eco do EP3. |
+| "Eu tinha o quarto pequeno." | Marlene | 5 | — |
+| "Um de noite. Dois de sol." | Sofia | 6 | A chave do toque. |
+| "Ladrão não dobra." | Sofia, citando Dona Lourdes | 6 | Eco do EP4. |
+| "Agora eu tô fumando." | Beka | 7 | — |
+| "Matar é rápido." | Beka | 7 | — |
+| "O coronel adora uma toalha branca." | Barão | 8 | — |
+| "Viúvo paga meia." | Barão | 8, 22 | — |
+| "Eu tô grávida, Alexandre. Não tô aleijada." / "Do baiano." / "Do Paulo." / "Tu vai. E volta." | Joana e Matias | 8 | — |
+| "Eu também durmo pouco." | Romildo | 10 | — |
+| "Prende depois." / "Tem fila." | Bruno | 11 | — |
+| "Agora não faz barulho." | Camila | 12 | Paga o plástico do EP6. |
+| "Da outra vez tu fingiu que tava dormindo." | Camila | 12 | 2021. |
+| "Não fala 'amanhã'." | Camila | 12 | Eco do EP6. |
+| "Dessa vez fui eu." | Camila | 13 | Eco de "Dessa vez eu não soltei" (EP2). |
+| "Tu entrava aqui pra comer bolo, Paulo." / "Eu sei andar." | Dona Lourdes | 14 | — |
+| "O rádio agora é do Paulão." | Matias | 15 | — |
+| "Tu tá filmando torto, meu filho." / "Não abre nada pra esse homem." | Dona Lourdes | 16 | — |
+| "A Dona Lourdes vai dormir mais cedo." | Romildo | 16 | — |
+| "Eu não bato em ninguém, filhinha." / "Eu abro." / "Eu sei." | Romildo e Sofia | 16 | Fim do Ato Um. |
+| "A tia é minha." / "Subi uma vez." | Matias | 17 | — |
+| "Então reza antes." | Dona Celeste | 19 | — |
+| "Escova direito." | Beka | 21 | — |
+| "No que paga." / "Branco lava." | Barão | 22 | — |
+| "A Kalila mandou lembrança." | Barão | 22 | — |
+| "Eu não disse nada, Roberto. Eu agradeci." | Romildo | 23 | Eco de "Obrigado, Roberto" (EP6). |
+| "Então dá licença que o camarão esfria." | Joana | 24 | — |
+| "O bufê é do coronel." | Tom | 25 | — |
+| "Tu saiu da esquina domingo. Hoje tu fica do meu lado." | Matias | 28 | — |
+| "Então é meu sobrinho." / "É meu também." | Henrique e Matias | 28 | — |
+| "Comprei outro. Pra falar com outro homem." | Beka | 29 | Arma o ciúme de Tarso. |
+| "Farda é farda." | Homem da Firma 1 | 30 | — |
+| "Demorou, Alexandre." / "Entrou de cabeça baixa?" / "Entrei, tia." | Dona Lourdes e Matias | 30 | Eco do EP3. |
+| "Tu sabia o caminho." | Dona Lourdes | 30 | — |
+| "Tu tá brincando comigo, menina?" | Romildo | 32 | O primeiro "tu" dele. |
+| "Você está esperando alguma coisa." | Romildo | 32 | — |
+| "Ela sabia. Ela sempre soube." / "Eu sei." | Marlene e Romildo | 37 | Eco de "Sempre soube" (EP1, EP5). |
+| "Boa noite, Bruno." | Romildo | 40 | — |
+| "Ninguém atira nela. Eu quero ela inteira." | Romildo | 40 | Eco do rádio de 2021 ("Ninguém atira. Eu quero a mochila"). |
+| "Agora você lembrou." | Romildo | 40 | — |
+| "Papel distrai homem." | Sofia | 41 | Herança de Kalila (EP6). |
+| "O contrato é ninguém encostar nela. Eu li." / "Nem tua." | Beka | 41 | — |
+| "Eu pego ela." | Renato | 42 | — |
+| "Eu devolvi o dinheiro." | Beka | 43 | Paga o EP6. |
+| "Vai, Clovis." | Barão | 46 | — |
+| "Entra, filhinha." | Romildo | 46 | Eco de "Oi, filhinha" (EP6). |
+| "Ele desceu pra pegar ela." | Camila | 47 | — |
+| "Visse." | Iolanda | 48 | — |
+| "O que é meu." / "Então ela viu um motorista." | Barão | 49 | — |
+| "Duas erradas. De propósito." / "A tua mãe também me fazia esperar." | Romildo | 50 | — |
+| "Tu é muito ruim de resgate." | Sofia | 50 | Eco de "Tu é muito ruim de sequestro" (EP6). |
+| "Tu comeu?" | Bruno | 50 | Eco de Dona Lourdes (EP6, EP7). |
+| **"O livro pela menina. No Farol. Ao nascer do sol."** | Romildo | 50 | **Gancho do mapa.** |
+
+---
+
+### 7. Estado de cada personagem ao fim do EP7 (sábado, 24/10, 3h)
+- **Bruno:** na casa da mãe, no Farol, com o **livro-caixa original** em cima da máquina de costura e a pistola de Pacheco. Foragido. Viu Beka e Renato mortos. Perdeu Sofia por segundos na garagem. Recebeu a proposta de troca. Ainda usa a xuxinha. Não sabe que Matias entregou Dandara, nem que Sofia tem uma cópia.
+- **Sofia:** com Romildo, Marlene e Tom, num carro parado no mirante da Estrada das Canoas. Tem o **pingente com o cartão** (o público não sabe), o recorte com o rosto de Tom e o canivete. Viu Renato morto e o caminhão a abandonar. Abriu o cofre. Agora é testemunha, e não chave.
+- **Camila:** com Bruno. Ouviu Renato morrer na linha e fechou os olhos dele. Trocou tiro e derrubou Zé na cobertura, de uniforme de bufê, máscara e touca. Romildo não a reconheceu em cena, mas a viu ao lado de Bruno e pode deduzir. Ela está exposta para o EP8.
+- **Renato:** **morto** na garagem G1, com a boina no peito.
+- **Beka:** **morta** no corredor de serviço da cobertura.
+- **Tarso:** com o corpo de Beka quando Bruno saiu. Paradeiro desconhecido.
+- **Romildo:** sem o dinheiro e sem o livro original. Tem Sofia, a cópia de Kalila (EP6) e o celular destruído, que acredita ser a única cópia. Sabe que Bruno tem o livro e que a menina errou de propósito. Propôs a troca.
+- **Marlene:** com Romildo. Primeira rachadura ("Ela é minha sobrinha").
+- **Tom:** matou Renato. Dirige o sedã de Romildo. Tem homens na pista do Farol (dois mandados ao alto, mais os de Paulão).
+- **Matias:** tirou Dona Lourdes da casa onde Dandara foi pega. Sabe da gravidez. Está fora da casa de Lourdes, no patamar, sem entrar. Sabe que Paulão é da Firma.
+- **Paulão:** com a Firma, na pista. Levou Dona Lourdes.
+- **Dona Lourdes:** livre, com os pulsos machucados. Desconfia do papel de Matias em 2021.
+- **Henrique:** no Farol. Sabe do sobrinho, tem a mensagem de Renato sobre a câmera e agiu ao lado de Matias. Sabe pela cara de Camila que Renato morreu.
+- **Joana:** grávida, no Farol, com a caneca "SALVADOR".
+- **Gabriel:** seguiu o sedã até o túnel e a bateria acabou. Tem o drone novo.
+- **Formiga:** redimido diante de Matias.
+- **Barão:** com cerca de R$ 80 milhões no barracão da escola de samba e o vídeo de Kalila. Perdeu Clovis, ou quase.
+- **Clovis:** saiu a pé do barracão. A gravata ficou em cima do dinheiro.
+- **Carlinhos e Tuco:** com o Barão.
+- **Roberto:** sabe que entregou Kalila. Saiu do jantar escoltado.
+- **Iolanda:** tem a placa do caminhão e a foto de Bruno com o livro. Pediu a busca na cobertura e o endereço de Dona Lourdes.
+- **Seu Otávio:** cúmplice do Barão, na cozinha do salão.
+- **Zé:** desacordado na cobertura.
+
+---
+
+### 8. Pendências para o EP8 — "Farol" (sábado, 24/10 → segunda, 26/10)
+- **Iolanda encontra Bruno antes do sol** (bíblia e sinopse). Ela já pediu o endereço de Dona Lourdes (cena 48) e tem a foto dele com o caderno. A oferta é o livro à PF.
+- **A troca** é "no Farol, ao nascer do sol" (~5h15). A bíblia a põe na **escadaria do Cruzeiro**, sob a operação "de resgate de menor sequestrada". Romildo sabe que Bruno tem o livro **original**.
+- **O cartão no pingente:** Sofia o tirou do celular na escada (cena 44). Romildo destruiu o aparelho. No EP8, explicar numa linha que o celular de Gabriel gravava as fotos no cartão (Gabriel pode dizer que configurou assim). A revelação continua guardada para a última cena.
+- **O recorte** com o rosto de Tom está com Sofia: é a prova física de 2021 para Camila prender Tom (e para a PF).
+- **O canivete** está com Sofia.
+- **A xuxinha** continua no pulso de Bruno, guardada para o hospital.
+- **"É minha."** Bruno ainda não respondeu "Então eu sou o quê?" (EP6). A resposta é da escadaria.
+- **Matias e a casa velha:** Dona Lourdes sabe ou intui que ele sabia o caminho. Decidir se Bruno descobre antes de Matias morrer, ou nunca.
+- **Paulão** está do lado da Firma, na pista; a bíblia o mata na ocupação, traído.
+- **Tarso:** a sinopse o faz sumir na fumaça da ocupação. Ele precisa sair da torre antes de a PM chegar (fora de quadro).
+- **Os corpos na torre** (Beka, Renato), Zé desacordado e o homem da Firma baleado: o que a PM encontra e como Romildo explica. Sugestão: "assalto ao jantar do senador", atribuído ao "sequestrador" Bruno, o que piora a situação dele e justifica a operação de resgate.
+- **O dinheiro e a placa:** o Barão no barracão; Iolanda tem a placa do caminhão. A bíblia deixa o dinheiro com o Barão (T2): a PF não deve chegar a ele no EP8, ou chega e não acha.
+- **Clovis** saiu a pé. Decidir se volta ao patrão no EP8 (a festa, o envelope a Sofia) ou fica de fora até a T2.
+- **O vídeo de Kalila:** o Barão o vaza no EP8. Roberto já está desmontado (cena 33).
+- **Henrique e a câmera de Pacheco:** a mensagem de Renato aponta "o galpão de Campo Grande, sala do Vieira". Pode virar prova no EP8 (Henrique e o Major Freitas) ou ficar para a T2.
+- **A morte de Renato** precisa de luto breve no EP8 (Camila). Ela ouviu os 4min12s da ligação.
+- **A pista do rádio de 2021** ("Ninguém atira. Eu quero a mochila") continua aberta; Romildo a ecoou na cobertura. Últimas chances: Tom preso, ou T2.
+- **"Isso não é resposta"** continua guardado para a última inversão (EP8).
+- **Romildo sabe que Sofia o enganou duas vezes.** É a razão dramática para ele não a querer viva depois da troca e para Tom "trair" a troca mirando nela.
+- **O casamento cancelado de 26/10:** pela sinopse, é o dia em que o governador eleito anuncia Romildo secretário. A foto com Camila de farda atrás dele vem depois. O "JÔ" do calendário de Laranjeiras pode voltar.
