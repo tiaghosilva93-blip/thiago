@@ -1,59 +1,77 @@
-# O Pai da Minha Melhor Amiga
+# O PAI DA MINHA MELHOR AMIGA
 
-*Novela vertical em 40 capítulos de 2 minutos — comédia romântica*
+**Sinopse**
 
-> Tem fim de semana que muda uma vida. O da Marina mudou duas, e uma delas era a da melhor amiga.
+Novela vertical de comédia romântica em 40 capítulos de 2 minutos
 
-## Logline
+Criada e escrita por Thiago Silva
 
-Traída pelo noivo a dez mil pés de altura, uma madrinha de casamento afoga a raiva num quiosque de Búzios e passa a noite com um desconhecido irresistível. Na manhã seguinte, de ressaca e de chinelo emprestado, descobre que ele é o pai da noiva e o dono do resort onde ela vai passar os três dias mais constrangedores da sua vida.
+*"Tem fim de semana que muda uma vida. O da Marina mudou duas, e uma delas era a da melhor amiga."*
 
-## Formato
+## Apresentação
 
-São 40 capítulos de cerca de dois minutos, escritos para a tela vertical do celular. A ação cabe num fim de semana de casamento, de quinta à noite a domingo de manhã, mais um epílogo, e esse relógio curto mantém a pressão alta.
+Toda mulher já ouviu, pelo menos uma vez, que não se mexe com o pai da melhor amiga. Marina sempre achou isso uma regra fácil de cumprir. Até o dia em que foi traída a dez mil pés de altura, bebeu o carrinho de espumante inteiro do avião e passou a noite com um desconhecido charmoso num bangalô de Búzios, sem perguntar o sobrenome dele. Na manhã seguinte, de ressaca, de vestido amassado e com um chinelo masculino três números maior que o pé, ela descobre o sobrenome: Montenegro. O mesmo da noiva. O mesmo do resort onde vai passar os três dias mais constrangedores da sua vida.
 
-A espinha da novela são os ganchos. Nenhum capítulo termina em suspense genérico: cada final traz uma virada que a plateia não viu chegar, e o capítulo seguinte abre desmontando esse gancho de um jeito igualmente inesperado, muitas vezes com uma piada que vira o susto do avesso.
+*O Pai da Minha Melhor Amiga* é uma comédia romântica sobre um segredo que não cabe num fim de semana. É a história de uma madrinha que precisa sorrir nas fotos, segurar o buquê e dançar a valsa fingindo que nada aconteceu, enquanto o homem por quem está se apaixonando serve o champanhe a dois metros dela. E é, por baixo do riso, a história de um pai que tenta recuperar a filha que deixou para trás, e de uma amizade de doze anos posta à prova no lugar mais improvável: o altar.
 
-## A história
+A novela se passa inteira entre a quinta à noite e o domingo de manhã, num resort pé na areia de Búzios. Cada capítulo de dois minutos termina numa virada que ninguém espera, e o seguinte abre desmontando essa virada, quase sempre com uma piada. É uma escada de ganchos feita para a tela vertical, para ser assistida no ônibus e às duas da manhã, com a promessa de "só mais um".
 
-Tudo começa num avião. Marina Teles, 31 anos, arquiteta de interiores paulistana, embarca sozinha para Búzios, onde vai ser madrinha do casamento da melhor amiga. O noivo dela, Rodrigo, ficou em São Paulo por causa de "uma reunião com investidor". No meio do voo, o tablet velho que ele emprestou para a viagem se conecta ao wi-fi de bordo e começa a receber as mensagens dele. São mensagens para uma tal de "Thaís Academia", e vêm com foto, emoji e planos para aquele mesmo fim de semana. Marina faz um escândalo na fileira 14, ganha a solidariedade de uma senhora da igreja e de três garrafinhas de espumante, e desembarca decidida a não chorar. Chora mesmo assim, num quiosque pé na areia, e joga o anel de noivado no mar. O anel cai dentro da caipirinha de um desconhecido, que vira o copo num gole só: "Moça... acho que eu acabei de engolir o seu noivado".
+Que tal conhecer a Marina?
 
-Não engoliu. Ele se apresenta só como Rique: barba grisalha, humor seco, o jeito de quem também está fugindo de alguma coisa. A conversa vira dança, a dança vira beijo, e o beijo vira uma noite num bangalô à beira-mar. Só a plateia vê o porta-retrato no criado-mudo antes de ele cair de bruços: a formatura da Bia, com Marina ao lado, de cara enfiada no bolo. Marina acorda sem um pé da sandália, de cabelo em pé e com um bilhete gentil no travesseiro. Sai de fininho pela areia usando um chinelo masculino três números maior que o dela e chega ao Resort Montenegro, onde a festa começa. No brunch das madrinhas, Bia corre para abraçá-la: "Amiga, até que enfim você vai conhecer meu pai!". O homem se vira, e é o Rique, segurando a sandália dourada que ela perdeu. Ele olha para ela e diz, na frente de todo mundo: "A gente já se conhece". Já se conhecem, sim... pela foto da formatura.
+## A História
 
-A partir daí a novela vira uma operação de guerra. O nome dela é "não aconteceu nada". Marina e Henrique Montenegro fazem um pacto dentro da rouparia e são flagrados por Dona Zezé, a governanta que sabe de tudo e não conta nada (quase nada). Atrás da pilha de toalhas está o noivo, Caio, escondido para ensaiar em segredo a valsa da surpresa. Agora todo mundo guarda o segredo de todo mundo. Lívia e Patty, as madrinhas venenosas da faculdade, sentem cheiro de mistério de longe. E Bia, romântica incurável, faz o pior favor possível: convida Rodrigo, que chega à piscina com um buquê de girassóis querendo "conversar". Ele se apresenta a Henrique como "o noivo da Marina", e Henrique, que mente muito mal, corrige sem pensar: "Ex". Bia quer saber como o pai sabe disso.
+### Fileira 14
 
-No miolo da trama, cada tentativa de fugir piora a situação. Para se livrar do ex, Marina inventa um namoro com Tadeu, o barman, que topa a farsa por vocação de cupido. Henrique morre de ciúme em silêncio, de um jeito muito digno e muito engraçado. Os dois passam a se encontrar escondidos no bar da praia depois da meia-noite e se esbarram em todo corredor e ensaio do resort. Thaís, a amante, aparece no resort contratada como personal da semana, e a primeira aluna da agenda dela é Marina. Mas ela não é a vilã: não sabia que Rodrigo era noivo. Ela e Marina viram aliadas improváveis numa vingança deliciosa.
+**Marina Teles**, trinta e um anos, arquiteta de interiores paulistana, é o tipo de mulher que faz planilha até para a própria despedida de solteira, com aba colorida e aba de "plano B". Embarca sozinha para Búzios, onde vai ser madrinha da melhor amiga. O noivo, **Rodrigo Saldanha**, ficou em São Paulo por causa de "uma reunião com investidor", e emprestou o tablet velho para ela ver filme no voo.
 
-O coração da história é a Bia. Os pais se separaram quando ela tinha oito anos, e ela cresceu em São Paulo com a mãe, longe de um pai que trocou a família pelo sonho de construir um hotel. Por isso Marina nunca o tinha conhecido. A mãe morreu há dois anos, e casar no resort dele é a tentativa de Bia de recuperar o pai. É por isso que o segredo pesa: o que está em jogo não é um caso, é um pai e uma filha se reencontrando.
+É no meio do voo, claro, que o tablet se conecta ao wi-fi de bordo e começa a receber as mensagens de Rodrigo para uma tal de "Thaís Academia". Vêm com foto, emoji e planos para aquele mesmo fim de semana. Marina dá um escândalo na fileira 14, ganha a solidariedade de uma senhora da igreja ("Hoje o Senhor entende, minha filha") e desembarca com três garrafinhas de espumante na cabeça.
 
-Na metade da novela, perto do capítulo 20, Lívia revê um story gravado no nascer do sol e encontra, ao fundo, Marina saindo do bangalô do dono, de chinelo. A partir daí a vilã tem a prova, e a contagem regressiva começa. Na mesma noite, Henrique e Marina têm a conversa que muda tudo. Ele conta o quanto falhou com a filha, e ela entende que está se apaixonando de verdade. Por amor à amiga, Marina termina o que nem tinha começado.
+### O homem do quiosque
 
-O sábado do casamento é um desastre em câmera lenta. O vestido rasga, Caio, o noivo, tem uma crise de pânico, e as alianças somem. Henrique tira do bolso a única aliança que tem, a de Marina, que ele guardava desde a caipirinha. Rodrigo a reconhece na hora. Rodrigo e Lívia se juntam para trocar o vídeo de homenagem da festa pela prova do crime. Por volta do capítulo 33, diante de duzentos convidados, o telão mostra a madrinha saindo do quarto do pai da noiva. E o microfone da Bia está ligado quando ela pergunta: "Você dormiu com o meu PAI?!".
+À noite, num quiosque pé na areia, Marina tira o anel de noivado ("Dois anos. E um anel que ele parcelou em dez vezes") e, aconselhada por **Tadeu**, o barman poeta, joga tudo no mar. O anel faz uma curva errada e cai dentro da caipirinha de um homem sentado na ponta do balcão, que vira o copo num gole só. Ele se vira devagar, barba grisalha, camisa de linho aberta no peito: "Moça... acho que eu acabei de engolir o seu noivado."
 
-O desfecho não perdoa ninguém fácil, e guarda a maior surpresa de todas: Bia já desconfiava desde o chinelo do brunch. Passou o fim de semana esperando que a amiga confiasse nela. Ela não fica magoada pelo que aconteceu, e sim pela mentira e pelo medo antigo de que o pai, mais uma vez, escolha outra coisa no lugar dela. Marina vai embora de madrugada. Pela primeira vez, pai e filha têm a conversa que adiaram por vinte anos. Rodrigo acaba vestido de noiva dentro da piscina, que é exatamente onde ele merece estar. E Bia, ainda com a roupa da lua de mel, atravessa Búzios correndo para alcançar a amiga antes do embarque. Ela abençoa o casal e ainda dita as regras: nunca, jamais, chamá-la de enteada. No último avião da história, a mesma poltrona do lado de Marina tem dono outra vez. O epílogo, seis meses depois, deixa uma promessa no ar e entrega à Marina um par de chinelos do tamanho certo, com o nome dela gravado.
+Não engoliu. Ele se apresenta só como Rique, de humor seco e jeito de quem também está fugindo de alguma coisa. A conversa vira forró na areia molhada, o forró vira beijo, e o beijo vira uma noite num bangalô à beira-mar. Só o público vê, antes de a luz apagar, o porta-retrato no criado-mudo: a formatura da Bia, com Marina ao lado, de cara enfiada no bolo.
 
-## A escada de ganchos
+### A gente já se conhece
 
-Alguns pontos da escada, para dar o tamanho da coisa. No capítulo 1, o anel "engolido". No 2, o porta-retrato que entrega o segredo só à plateia. No 3, o "a gente já se conhece". No 5, o "ex" que escapa da boca de Henrique. No 12, o namoro de mentira com Tadeu ganha um pedido de casamento de verdade, feito por Tadeu, no microfone do luau. No 14, a amante chega com uniforme do resort. No 20, o story ao nascer do sol. No 29, a aliança errada brilhando no altar. No 33, o telão. No 36, a frase que ninguém espera ouvir da noiva: "Eu sei desde sexta". E no 39, a poltrona do avião.
+Marina acorda sem a sandália dourada e atravessa a praia, atrasada para o brunch das madrinhas, de vestido da véspera e chinelo emprestado com um "M" dourado bordado na tira.
 
-## Personagens
+No deck da piscina do Resort Montenegro, **Bia Montenegro**, trinta anos, noiva radiante de tiara de pérolas, se joga nos braços da amiga: "Até que enfim você vai conhecer meu pai!". O homem perto do bufê se vira. É o Rique, segurando a sandália dourada. É **Henrique Montenegro**, quarenta e nove anos, dono do resort. Ele olha para Marina, depois para o chinelo nos pés dela, e diz, na frente de todo mundo: "A gente já se conhece."
 
-**Marina Teles, 31.** Arquiteta de interiores, faz planilha até para a própria despedida de solteira. Em pânico, fala sem parar e explica demais. É leal a ponto de abrir mão do amor para não ferir a amiga.
+### Operação "Não Aconteceu Nada"
 
-**Henrique Montenegro, 49.** Dono do Resort Montenegro, divorciado, cozinha de madrugada para fugir da insônia. Construiu um império e perdeu a filha no caminho. Mente muito mal, um problema sério quando é preciso fingir que nada aconteceu.
+A partir daí, o fim de semana vira uma operação de guerra. Marina e Henrique selam um pacto dentro da rouparia do resort e são flagrados por **Dona Zezé**, sessenta e três anos, a governanta que sabe de tudo antes de todo mundo. Atrás da pilha de toalhas está o noivo, **Caio Bastos**, ensaiando escondido a valsa-surpresa com a própria Zezé, campeã estadual de bolero em 1989. Agora todo mundo guarda o segredo de todo mundo.
 
-**Beatriz "Bia" Montenegro, 30.** A noiva. Romântica, intensa, chora em comercial de margarina. Quer um casamento perfeito e o pai de volta, não necessariamente nessa ordem.
+Do outro lado da piscina, **Lívia Prado** e **Patty Lobo**, as madrinhas cobras, sentem cheiro de mistério e não param de filmar. E Bia, romântica incurável, faz o pior favor possível: convida Rodrigo, que chega com girassóis querendo "conversar". Ele se apresenta a Henrique como "o noivo da Marina", e Henrique, que mente muito mal, corrige sem pensar: "Ex." Bia se vira devagar para o pai e quer saber como ele sabe disso.
 
-**Caio Bastos, 33.** O noivo, veterinário doce e desastrado. Nunca percebe nada e acaba sendo o mais sábio de todos.
+Para se livrar do ex, Marina inventa um namoro com Tadeu, e Henrique morre de ciúme em silêncio, de um jeito muito digno e muito engraçado. Os dois passam a se encontrar no bar da praia depois da meia-noite. E a confusão aumenta quando **Thaís Rocha** chega contratada como personal da semana, e a primeira aluna da agenda é Marina. Mas Thaís não sabia que Rodrigo era noivo, e as duas enganadas viram aliadas numa vingança deliciosa.
 
-**Rodrigo Saldanha, 34.** O ex de Marina, "consultor financeiro" de frase motivacional. Não aceita perder, só "ressignificar".
+O coração da novela, porém, não é o caso. É a Bia, que cresceu longe de um pai que trocou a família pelo sonho de construir um hotel, e que escolheu casar no resort dele para tentar recuperá-lo. É por isso que o segredo pesa tanto.
 
-**Thaís Rocha, 27.** Personal trainer, a outra, tão enganada quanto Marina.
+### O story do nascer do sol
 
-**Lívia Prado, 31, e Patty Lobo, 30.** As madrinhas cobras. Lívia é influenciadora de bem-estar com veneno em dose diária, e Patty é o eco dela ("Grave." "Gravíssimo.").
+Perto do capítulo 20, Lívia revê um story gravado ao amanhecer e encontra, lá no fundo, Marina saindo do bangalô do dono, de chinelo na mão. A vilã tem a prova, e a contagem regressiva começa. Na mesma noite, Henrique conta a Marina o quanto falhou com a filha, e ela entende que está se apaixonando de verdade. Por amor à amiga, Marina termina o que nem tinha começado.
 
-**Dona Zezé, 63, Tadeu, 25, e Val Ribeiro, 52.** A governanta que sabe de tudo antes de todo mundo, o barman cupido e a cerimonialista de headset que trata casamento como lançamento de foguete.
+### O casamento
 
-## Tom e por que funciona no vertical
+O sábado é um desastre em câmera lenta. O vestido rasga, o noivo entra em pânico e as alianças desaparecem. Henrique tira do bolso a única aliança que tem: o anel de Marina, guardado desde a caipirinha. Rodrigo o reconhece na hora e se junta a Lívia para trocar o vídeo de homenagem da festa pela prova do crime. Diante de duzentos convidados, o telão mostra a madrinha saindo do quarto do pai da noiva, e o microfone da Bia ainda está ligado quando ela pergunta: "Você dormiu com o meu PAI?!"
 
-O que move a novela é o constrangimento. O público sabe o segredo desde o fim do capítulo 2 e passa os 38 seguintes vendo Marina tentar escondê-lo, numa ironia dramática que rende riso em cada esbarrão. São poucas locações (avião, quiosque, bangalô, piscina, rouparia, salão), boas para o close, que é onde a comédia acontece. O celular é personagem: mensagens, stories e vídeos movem a trama na mesma tela em que o espectador assiste. Por baixo do riso há uma amizade e um pai tentando consertar o passado, e é isso que faz a gente torcer.
+### Eu sei desde sexta
+
+O desfecho guarda a maior surpresa de todas: Bia já desconfiava desde o chinelo do brunch. Passou o fim de semana esperando que a amiga confiasse nela. O que dói não é o que aconteceu, é a mentira, e o medo antigo de que o pai, mais uma vez, escolha outra coisa no lugar dela. Marina vai embora de madrugada. Pai e filha, enfim, têm a conversa adiada por vinte anos. E Bia, ainda com a roupa da lua de mel, atravessa Búzios correndo para alcançar a amiga antes do embarque e dá a bênção com uma única regra: nunca, jamais, chamá-la de enteada.
+
+No último avião da história, a poltrona ao lado de Marina tem dono outra vez. E o epílogo, seis meses depois, entrega a ela um par de chinelos do tamanho certo, com o nome gravado na tira.
+
+## Os Personagens
+
+**Marina Teles**, trinta e um anos. Organizada até o exagero e desastrada até o limite; em pânico, fala sem parar e explica demais. Leal a ponto de abrir mão do amor para não ferir a amiga.
+
+**Henrique Montenegro**, quarenta e nove anos. Construiu um império e perdeu a filha no caminho. Mente muito mal, o que é um problema sério quando é preciso fingir que nada aconteceu.
+
+**Bia Montenegro**, trinta anos. Romântica, intensa, chora em comercial de margarina. Quer um casamento perfeito e o pai de volta, não necessariamente nessa ordem.
+
+Ao redor deles, **Caio**, o noivo que nunca percebe nada e acaba sendo o mais sábio de todos; **Rodrigo**, o ex que não aceita perder, só "ressignificar"; **Thaís**, a outra, tão enganada quanto Marina; **Lívia** e **Patty**, as madrinhas cobras; e, no resort, **Dona Zezé**, **Tadeu** e **Val Ribeiro**, a cerimonialista de headset que trata casamento como lançamento de foguete.
+
+## Mensagem do Autor
+
+*O Pai da Minha Melhor Amiga* nasceu de uma pergunta simples: o que acontece quando o amor chega na hora mais errada e na pessoa mais proibida possível? No fim, Marina descobre que o maior risco nunca foi o pai da melhor amiga. Foi achar que a amiga não aguentaria a verdade.
