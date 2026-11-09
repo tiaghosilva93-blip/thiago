@@ -1715,3 +1715,273 @@ Título na bíblia: "Intocável". Título final: "Ninguém Toca Nela", o mesmo d
 - **"Isso não é resposta"** continua guardado para a última inversão (EP8).
 - **Romildo sabe que Sofia o enganou duas vezes.** É a razão dramática para ele não a querer viva depois da troca e para Tom "trair" a troca mirando nela.
 - **O casamento cancelado de 26/10:** pela sinopse, é o dia em que o governador eleito anuncia Romildo secretário. A foto com Camila de farda atrás dele vem depois. O "JÔ" do calendário de Laranjeiras pode voltar.
+
+> O EP8 resolveu todas as pendências acima. Ver a seção "EP8", §4 e §5.
+
+---
+---
+
+## EP8 — "Farol" (`EP08_FAROL.fountain`)
+
+Último episódio da 1ª temporada. O último marcador é "FIM DA PRIMEIRA TEMPORADA".
+
+### Estrutura
+| Bloco | Cenas | Conteúdo |
+|---|---|---|
+| Teaser | 1–5 | Sábado, 3h50: o rádio chama Bruno de assassino do sargento. Iolanda bate e espera; põe na mesa a placa e a foto de Bruno com o caderno; oferece o caminho da PF ("Eu tenho mandado pro caderno. Pra escada eu não tenho nada."). Bruno recusa: "Quando o Bope sobe pra resgatar, desce saco preto. Eu subia." / "Prende depois." Camila veste a farda ("Não fala nada"). No mirante, a passagem de Marlene para Lisboa, a tatuagem de Tom contra o recorte ("Tu tá mais velho"). O comboio sobe com as caminhonetes atrás; o primeiro sol na torre. |
+| Ato Um | 6–11 | Camila se apresenta a Freitas e pede a Henrique a viatura ligada. Paulão é morto na porta da oficina ("Quem vende um vende dois"). No patamar: a ordem de Matias ("Hoje ninguém atira na farda"), o copo d'água bebido inteiro, a confissão da casa velha a Bruno ("Ela não fica sabendo." / "De mim, não."), a despedida de Joana ("Joana." / "Bota o do baiano."), "Tu comeu?" / "Então volta pra comer". A geografia da escada. No sedã: "Tu nunca perguntou por que eu não ia na escola" / "Quem corre cai". A troca: "Ninguém atira. A menina desce inteira" no rádio aberto, o livro no degrau, "Sua menina é esperta." / **"É minha."** / "Eu sei. Eu batizei a outra." Duas batidas no rádio. Sofia corre; Tom mira; Matias sai do beco. A rajada. |
+| Ato Dois | 12–24 | Matias cai, o estilhaço do corrimão pega Sofia, Bruno derruba Tom com dois tiros, a fumaça, Romildo sai andando com o caderno ("Tenente." / "Coronel."). Na fumaça: a mão, o polegar na sobrancelha, "Tu tá com sede." / "Sempre.", **"Ninguém toca nela."** (a última vez), o copo cheio no degrau. Tom na mira, o canal dois, "Me mata e ninguém escuta nunca mais". "Bruno." A arma abaixa. Camila algema Tom. "A ambulância não sobe." A Senhora de Bobes, Iolanda impotente diante da ambulância, a cozinha e a escada de alumínio, "pré-pré adolescente", Dona Cida e a porta que não abre para a Firma, Mãe Dôra, Dona Zezé na ladeira, a parede de motos, Tarso abaixa o fuzil e some, a cantiga cantada por Bruno, a merendeira, o drone e as portas, Gabriel liga para Henrique, "Tem fila", a viatura. |
+| Ato Três | 25–34 | "Responsável?" / "Sou." Freitas chama Henrique para Campo Grande. Na escada, a Firma ocupa; Joana tira a foto do bolso do irmão; Lourdes cobre o rosto dele com o xale; "O rádio agora é nosso"; "Eu vou falar." Romildo liga para Prates ("Quem paga o senhor está") e manda: "O Tomás vai dormir mais cedo." O Barão dá o nó na gravata de Clovis e envia o vídeo ("Ainda não era. Agora é."). O vídeo de Kalila na sala de espera ("Ela tá bonita"). A busca em Roberto, o flagrante ("Ocultação é crime permanente"), "Abaixa a cabeça, senador. O carro é baixo." O estilhaço retirado ("Mais uma"). O quarto: o pingente pedido de volta, "Tu vai voltar?" / "Dorme." / "Isso não é resposta." / a xuxinha / "Pra você lembrar de voltar." / "É a que eu tenho." Bruno preso no corredor por Solange. |
+| Ato Quatro | 35–54 | Sábado à noite: Camila entrega o recorte a Iolanda no BEP e conta o canal dois; o depoimento fica para segunda, às sete. Camila no vidro do quarto; Lourdes conta a Sofia o menino das goiabas ("Ele era teu."). Domingo: a Firma na porta da seção eleitoral; Gabriel e as 73 portas ("Valeu, Gabriel."); Prates eleito e "Rosto se troca"; Marlene e o localizador que não existe ("Eu só falo com proteção"). Segunda: o terço arrebentado na cela sete; Freitas e Henrique acham a câmera debaixo da Bíblia; a lâmpada da boca desatarraxada e o "sargento novo"; o depoimento de Joana ("Hoje eu ia me mudar"); Camila no gabinete ("Vinte e seis era um dia bonito" / "Mas vai ficar atrás"); Prates anuncia Romildo na TV da triagem. Terça: o enterro, a foto aberta inteira ("Tu faz igual a ele." / "Eu sei."). A guarda provisória. Quarta: o parlatório ("Não veio."). Quinta: Bruno solto ("Ninguém pede nada pro titular. Ele obedece."), a foto da equipe com Camila atrás de Romildo, "Ela tá bem?" / "Então valeu." O envelope do Barão; a segunda vela e o segundo copo ("No último dia bebeu"). A laje: o cartão no fundo falso, "Agora ninguém consegue", "Você me ensinou a estar sempre um passo à frente", o sorriso inteiro. O gabinete: a gavetinha vazia do celular, o (61), "A menina tem uma cópia." |
+
+54 cenas e cerca de 9.700 palavras (2.200 linhas, contra 2.276 do EP7). Estimativa: 50 a 52 páginas.
+
+**Gancho da temporada:** no gabinete do secretário, com dois homens de terno na antessala, Romildo olha a gavetinha vazia do cartão no celular que ele mesmo pisou, atende uma ligação de Brasília e diz: "Não. Não acabou. A menina tem uma cópia." (cena 54)
+
+---
+
+### 1. Cronologia fixada
+| Data e hora | O quê |
+|---|---|
+| **Sábado, 24/10, 3h50** | Iolanda na casa de Dona Lourdes (1–2). O rádio já atribui a Bruno a morte de Renato no jantar. |
+| ~4h10 | Romildo comunica o MP (dito ao telefone, cena 4). |
+| ~5h | Comboio sobe: caveirão, quatro viaturas do BOPE, três caminhonetes brancas sem placa (5). Camila se apresenta (6). Paulão é morto (7). |
+| ~5h15 (nascer do sol) | A troca na escadaria do Cruzeiro (11). Matias morre (13). Tom é preso (14). |
+| ~5h30–6h | A descida pelos becos (17–23). Henrique tira os dois pela Rua Um, do lado da Gávea. |
+| Manhã | Hospital (25). Ocupação da escada (26). Romildo liga para Prates (27). O Barão vaza o vídeo (28). |
+| Tarde | Busca e prisão em flagrante de Roberto (30–31). O estilhaço é retirado (32). Bruno é preso (34). |
+| Noite | Camila e Iolanda no BEP (35). Camila no vidro do hospital (36). |
+| **Domingo, 25/10** | 2º turno. **Augusto Prates eleito, 52,8%** (39). Gabriel no hospital (38). Marlene presa no Galeão; o voo seria às 23h10 (40). |
+| **Segunda, 26/10, madrugada** | Tom morto na cela sete do BEP (41). |
+| Amanhecer | Freitas e Henrique no galpão de Campo Grande (42). A Firma pinta a parede da boca (43). |
+| Manhã | Depoimento de Joana à PF (44). Sofia recebe alta nesse dia (fora de quadro). |
+| Dia | Camila no gabinete de Romildo (45). Prates anuncia Romildo secretário de Segurança (46). Era o dia do casamento de Camila e o da mudança de Joana para Laranjeiras. |
+| **Terça, 27/10** | Enterro de Matias e de Paulão (47). Guarda provisória no Conselho Tutelar (48, mesmo dia ou no seguinte). |
+| Quarta, 28/10 | Dona Lourdes no parlatório (49). À noite, o titular da DH pede a revogação da temporária. |
+| **Quinta, 29/10** | Bruno solto (50). A foto da equipe de transição (51). O envelope do Barão (52). O pôr do sol na laje (53). O gabinete, à noite (54). |
+
+---
+
+### 2. Personagens novos e figurantes com nome
+| Nome | Idade | Quem é | Cenas |
+|---|---|---|---|
+| **Socorrista Chefe** | 50 | Da ambulância "de prontidão". "Tem criança sangrando lá em cima todo mês, doutora." | 16 |
+| **Marido da Senhora de Bobes** | — | Segura a escada de alumínio. | 17 |
+| **Seu Neném** | — | Dono da laje por onde Bruno desce (citado). | 17 |
+| **Médica** | 40 | Emergência do Hospital Municipal da Gávea. | 25, 32 |
+| **Advogado de Roberto** | — | Invoca os quinze dias. | 30 |
+| **Atendente** | — | Balcão da companhia aérea no Galeão. | 40 |
+| **Guarda** | — | BEP, cela sete. | 41 |
+| **Escrivão** | — | PF. | 44 |
+| **Preso** | — | Triagem de Benfica. "Esse aí vai mandar em tudo." | 46 |
+| **Mãe de Paulão** | — | No enterro, com dois meninos. | 47 |
+| **Neta de Romildo** | 6 | Dorme no sofá (antes só citada pelo velocípede). | 39 |
+| **Homens de terno escuro** (2) | — | Na antessala do gabinete, com uma pasta. Sem fala. Brasília. | 54 |
+| **Voz de Brasília** | — | Ao telefone, número (61). Ininteligível. Não creditar. | 54 |
+
+**Recorrentes com informação nova**
+- **Augusto Prates:** primeira aparição física, na TV, anunciando Romildo (46). Romildo lhe diz que ele "não está" no caderno, mas que "quem paga" está (27).
+- **Major Freitas:** aceita Camila "na minha" equipe, não segura a viatura de Henrique, vai sem mandado ao galpão e dá a ordem: "Não entrega pra ninguém de farda."
+- **Inspetora Solange:** prende Bruno sem apertar as algemas e o recebe na saída. Foi ela quem entendeu que a revogação veio de cima.
+- **Conselheira Tutelar:** a mesma do mandado de domingo (EP6).
+
+---
+
+### 3. Locais novos
+- **Patamar do alto da escadaria do Cruzeiro:** a lâmpada da boca, o fim da estradinha que corta o alto do morro (por onde o sedã chega). Depois da ocupação, a lâmpada é desatarraxada e a parede é pintada de branco com o Salmo 127 (43).
+- **Beco lateral** uns dez degraus acima do patamar da casa de Dona Lourdes: o esconderijo de Matias.
+- **Casa da Senhora de Bobes:** porta direto para a escadaria; a janela dos fundos dá para a laje de Seu Neném.
+- **Beco do poste torto**, **quintal de Dona Cida**, **fundos do barracão do terreiro**, **ladeira da associação**, **cozinha e fundos da creche:** o caminho da descida.
+- **Saída da Rua Um (lado da Gávea):** a rua de asfalto do outro lado do morro, longe do posto de comando. É onde Henrique espera.
+- **Hospital Municipal (Gávea):** emergência, corredor, quarto com porta de vidro, sala de espera com TV.
+- **Casa de Roberto (Barra da Tijuca):** closet com sacolas de supermercado cheias de notas de duzentos.
+- **Batalhão Especial Prisional (Niterói):** portão, corredor das celas, **cela sete**.
+- **Galpão da Firma (Campo Grande), por dentro:** a salinha de compensado "SGT. VIEIRA", com a mesa e a Bíblia.
+- **Cadeia Pública de Benfica:** galeria de triagem com TV atrás de grade, parlatório com grade baixa e portão.
+- **Aeroporto do Galeão:** balcão e saguão.
+- **Gabinete do secretário:** é o mesmo gabinete da Subsecretaria, com a vista para a torre do relógio da Central do Brasil e a orquídea, e agora com antessala de vidro. O porta-retrato com Roberto foi virado para baixo (45).
+
+---
+
+### 4. Pistas e objetos: pagamentos
+| Pista ou objeto | Cena(s) | Pagamento |
+|---|---|---|
+| **A pista do rádio de 2021** ("Ninguém atira. Eu quero a mochila") | 11, 14, 35 | **Paga.** Romildo repete a fórmula no rádio aberto ("Ninguém atira. A menina desce inteira") e bate duas vezes no rádio. Tom, na mira de Bruno, conta que em 2021 havia um **canal dois** com outra ordem: "Derruba antes do ponto." A filha de Bruno "saiu correndo no meio". Tom morre antes de depor. A informação existe só na boca de Bruno, de Camila e de Iolanda (a quem Camila conta, cena 35): palavra de um morto. |
+| **"Isso não é resposta"** (EP1, EP2) | 33 | **Última inversão.** Sofia pergunta "Tu vai voltar?", Bruno responde "Dorme" (o mesmo do EP1), ela diz "Isso não é resposta", e a resposta é a xuxinha. "É a que eu tenho" passa a significar o objeto: é a única coisa que ele tem. **Bordão encerrado.** |
+| **"Não é minha" → "É minha"** (EP2, EP3, EP4; "Então eu sou o quê?", EP6) | 11, 53 | **Pago.** Na escada, diante de Romildo, que diz "Sua menina é esperta" (a mesma frase do EP2). Romildo: "Eu sei. Eu batizei a outra." Na laje: "Era pra todo mundo ouvir." / "O coronel principalmente." |
+| **"Ninguém toca nela"** | 13 | **A última vez, na boca de Matias**, morrendo, para os meninos da boca e para as botas da Firma ao mesmo tempo. Não aparece mais no roteiro. O eco final é "Agora ninguém consegue" (Sofia, 53), depois de "Querer, todo mundo sempre quis" (o slogan "Todo mundo quer"). |
+| **A xuxinha amarela** | 14, 24, 29, 33, 34, 36, 46, 47, 53 | **Paga.** Na mira de Tom, está na mão da arma. Encharcada na viatura ("Lava"). No hospital passa para o pulso de Sofia; "Pra você lembrar de voltar" é dito **por Sofia**, invertendo o "Pra você lembrar de me buscar" de 2021. No pulso de Bruno fica uma marca clara. Sofia a usa no enterro e na laje e não a devolve. |
+| **A vela de Dona Lourdes** | 1, 9, 52 | **Paga.** A vela da neta está acesa na hora da troca (vista pela porta). No fim há **uma segunda vela e um segundo copo, sem retrato**: são para Matias. |
+| **O copo d'água de Matias** (EP1–EP7: sempre deixava cheio) | 8, 13, 26, 52 | **Pago.** De manhã, pela primeira vez, ele bebe o copo inteiro ("Hoje deu sede, tia"). Morrendo, o copo chega cheio e Sofia o põe no degrau sem derramar. O copo fica ali durante a ocupação. Lourdes enche o segundo copo: "Ele nunca bebia tudo." / "No último dia bebeu." |
+| **O gesto do polegar** (EP4) | 13, 33, 36, 47, 53 | **Pago.** Matias passa o polegar na sobrancelha da filha, de dentro para fora: é o mais perto de "pai" que os dois chegam. Sofia repete o gesto no hospital, no enterro (Joana: "Tu faz igual a ele." / "Eu sei.", invertendo o "Igual a quem?" / "Nada." do EP4) e na laje, antes da última fala. |
+| **"Um passo à frente"** | 53 | **Pago.** É a última fala de Sofia na temporada. |
+| **"Pré-pré adolescente"** (EP1, EP2) | 18 | **Pago.** Bruno, carregando Sofia ferida, a faz falar para não apagar, e os dois repetem o diálogo inteiro da manhã de 2021 ("Isso existe?" / "Existe. Eu."). |
+| **A cantiga** | 21 | **Paga.** Bruno canta, mal e fora do tom, para manter Sofia acordada. Ela canta "dois de sol" e "quem contar até o fim"; ele termina sozinho: "volta sempre para mim". |
+| **O pingente e o cartão** | 33, 38, 53, 54 | **Pago.** No hospital Sofia pede o pingente antes de qualquer outra coisa. A Gabriel ela mente ("Morreu tudo"), e ele vê o pingente e não pergunta. Na laje: foto da mãe, fundo falso, cartão microSD. "O Gabriel botou pra salvar no cartão. Pra não encher a memória." |
+| **A gavetinha vazia** | 54 | **Nova.** O celular pisado está num saco de prova na mesa de Romildo, com a gavetinha do cartão aberta e vazia. É assim que ele sabe da cópia. |
+| **O recorte de Seu Geraldo** | 4, 15, 35 | **Pago.** Sofia compara o recorte com o braço de Tom no sedã ("Tu tá mais velho"), entrega-o a Bruno na escada, e Camila o entrega a Iolanda num saco de prova. Está com a PF. |
+| **A abertura com Iolanda** (placa, foto, endereço) | 1–2 | **Paga.** Ela segue o endereço de Lourdes da Costa. A placa levou a um barracão vazio ("um leão de isopor e marca de rodinha no chão"). A foto de Bruno com o caderno fica em cima da máquina de costura: "Pro senhor lembrar o que entregou." |
+| **A câmera corporal de Pacheco** | 25, 42, 44, 50 | **Paga.** Achada por Henrique e Freitas na sala "SGT. VIEIRA", debaixo de uma Bíblia, e entregue à PF, não à PM. Ela tira de Bruno a acusação de homicídio. |
+| **O vídeo de Kalila** | 28, 29 | **Pago.** O Barão o manda às redações: "Ainda não era. Agora é." Kalila de batom: "Ela tá bonita." |
+| **A casa velha** (EP7: "Tu sabia o caminho") | 8 | **Paga a Bruno.** Matias confessa antes da troca que deu o endereço de Dandara. Bruno: "Eu dei o visual dela no rádio." / "Eu sei. Eu tava no carro." Pacto: "Ela não fica sabendo." / "De mim, não." **Sofia não sabe.** Lourdes ouviu. |
+| **Paulão** | 7 | **Pago.** Morto pela Firma na porta da oficina, ao lado da sombra cor-de-rosa do "X9": "Quem vende um vende dois." |
+| **Tarso** | 2, 20 | **Pago.** Fugiu da cobertura deixando sangue até o elevador. Na ocupação, de colete da Firma, tem Bruno e Sofia na mira, abaixa o fuzil e some na fumaça de uma lixeira. |
+| **O dinheiro** | 2, 28 | Fica com o Barão, em lugar desconhecido. O barracão estava vazio às três da manhã. |
+| **A gravata de Clovis** | 28 | O Barão a põe no próprio pescoço. "O Clovis volta. Ninguém larga uma gravata dessa." Clovis não aparece. |
+| **"JÔ" no dia 26** | 44 | **Pago.** "Hoje eu ia me mudar." |
+| **O casamento de 26/10** | 45 | **Pago.** "Vinte e seis era um dia bonito." / "Ainda é, coronel." |
+| **A morte de Renato** | 1, 14, 35 | Luto breve de Camila: o registro "4 MIN 12 S", "O Renato também quis falar" (Tom), "Ex. Ele me ligou antes." O rádio atribui a morte dele a Bruno. |
+| **O canivete** | 33 | Com Dona Lourdes, na bolsa (o saco do hospital). |
+
+---
+
+### 5. Decisões tomadas além da bíblia e da sinopse
+1. **Por que Tom atira na menina:** a ordem real de Romildo vem por gesto (duas batidas no rádio), enquanto o rádio aberto grava "Ninguém atira". É a mesma estrutura de 2021, e paga a pista do EP1. A versão oficial seria "a menina morreu em confronto com o sequestrador". Romildo a quer morta porque "agora ela viu o que tem dentro" (EP7) e porque o enganou duas vezes.
+2. **Matias confessa a Bruno a entrega de Dandara** de manhã, antes da troca, e não a Sofia. Os dois firmam um pacto de silêncio. A morte dele é uma escolha consciente de pagamento ("Porque amanhã não dá").
+3. **Sofia não diz "pai" nem "Alexandre".** Diz "Tu tá com sede" e grita "ÁGUA!". O gesto do polegar faz o papel da palavra.
+4. **O estilhaço é um pedaço do corrimão de ferro**, arrancado pela rajada que atravessa Matias. Nunca mostramos o ferimento: só a palma vermelha, o moletom levantado "um palmo" fora de quadro e a frase da médica ("Não pegou nada que importa"). Fica uma cicatriz ("Mais uma", Lourdes).
+5. **A tentação de Bruno é dupla:** Tom oferece a verdade ("Me leva vivo e eu falo isso na Federal. Me mata e ninguém escuta nunca mais"). Matar Tom seria vingança e também apagaria a prova. Bruno abaixa a arma por Sofia, não pela prova, e o sistema mata Tom de qualquer jeito.
+6. **A Federal não salva ninguém:** Iolanda não tem mandado para a escada e não consegue fazer a ambulância subir. O que tira Sofia do morro é a comunidade (as portas) e um soldado que abandona o posto (Henrique). Freitas vê e não o chama de volta.
+7. **A descida tem duas metades:** as portas que **abrem** para Bruno e a porta que **não abre** para a Firma (Dona Cida sentada contra a porta). Gabriel conta 73 portas.
+8. **Roberto é preso em flagrante** porque candidato não pode ser preso nos quinze dias anteriores à eleição, salvo em flagrante. As sacolas de dinheiro no closet configuram ocultação, crime permanente. A busca é da PF (Iolanda).
+9. **A troca de lado de Romildo** aparece em três ligações: a Prates com o caderno no colo ("Quem paga o senhor está"), a ordem de queima de arquivo ("O Tomás vai dormir mais cedo", eco de "A Dona Lourdes vai dormir mais cedo", EP7) e "Rosto se troca", dito ao próprio Prates na noite da vitória.
+10. **Romildo fica com o caderno original.** Não o queima: guarda-o como poder. A cópia de Kalila (EP6) também está com ele. O gancho é que a terceira cópia, a de Sofia, ele não controla.
+11. **Como Romildo sabe da cópia:** pela gavetinha vazia do cartão no celular que ele pisou (EP7). Ninguém contou a ele.
+12. **O acordo de Camila é mostrado em parte** (cena 45): o titular da DH "vai se lembrar" de Romildo, ela começa no dia seguinte, a soltura é na quinta porque "se sair amanhã, fica feio", e "Na foto você fica atrás de mim". Camila: "O senhor sabe que eu não vim pra ficar do seu lado." / "Mas vai ficar atrás." A ambiguidade espiã ou convertida fica para a T2. **Bruno não ouve nada disso:** descobre pela foto na TV. O único diálogo dos dois depois da escada é por telefone: "Ela tá bem?" / "Tá." / "Então valeu."
+13. **A posse:** como governador eleito só toma posse em 1º de janeiro, a "foto oficial" da sinopse é a **foto da equipe de transição** diante do Palácio Guanabara, com Romildo secretário anunciado e Camila "chefiando a assessoria do gabinete".
+14. **A prisão de Bruno:** é feita pela Inspetora Solange, com base na temporária do EP6 (homicídio e subtração de incapaz). A câmera de Pacheco tira o homicídio; a revogação do resto vem "de cima", pelo titular. Bruno fica de sábado a quinta na triagem de Benfica e **perde o enterro de Matias**.
+15. **Tom morre na cela sete do BEP, de madrugada.** Só se vê o terço arrebentado no chão ("Não precisa de médico"). Ia depor às sete.
+16. **Marlene é abandonada duas vezes:** o localizador não existe e o número de Romildo "não existe". Pergunta primeiro se a menina está viva.
+17. **O Barão manda o envelope pelo correio, sem remetente:** a foto de carnaval com Dandara de prancheta no barracão e o bilhete "Sua mãe foi a pessoa mais honesta que eu conheci. Eu não. — A."
+18. **A festa** do original (EP12, no Covil) virou uma festa pequena na laje no dia da volta de Bruno, que só se vê pelos restos: farofa, guaraná, a gambiarra que acende no timer de Gabriel. **Os homens de terno** do original estão na antessala do gabinete, e Brasília liga pelo (61).
+19. **Henrique** abandona o posto ("Tem fila", eco do EP7) e entra na T2 como testemunha da câmera e aliado de Freitas.
+20. **Joana** depõe e é levada sob proteção no dia do enterro, com a caneca "SALVADOR". Pede a Matias, por ordem dele, que o filho se chame Paulo.
+21. **A Firma ocupa o Farol** já no fim da manhã de sábado: tira o rádio de Formiga, fica na porta da seção eleitoral, cobra R$ 110 pelo botijão, apaga a boca com o Salmo 127 e espera um "sargento novo" que "ainda não chegou".
+
+---
+
+### 6. Bordões e ecos
+| Fala | Quem | Cena | Observação |
+|---|---|---|---|
+| "Quem bate e espera é educado." | Dona Lourdes | 1 | Eco de "Aqui ninguém bate sem pedir licença" (EP1) e do Matias que bate e espera (EP2). |
+| "Pra quem bebe sentado." | Dona Lourdes | 1 | — |
+| "Sei ler." | Bruno | 2 | — |
+| "Eu tenho mandado pro caderno. Pra escada eu não tenho nada." | Iolanda | 2 | — |
+| "Quando o Bope sobe pra resgatar, desce saco preto. Eu subia." | Bruno | 2 | A escolha. |
+| "Prende depois." | Bruno | 2 | Eco do EP7. |
+| "Visse." | Iolanda | 2 | — |
+| "Não fala nada." | Camila | 3 | Eco de "Não fala 'amanhã'" (EP6, EP7). |
+| "De quem ganhar." | Romildo | 4 | — |
+| "Tu tá mais velho." | Sofia | 4 | — |
+| "Eu peço." | Camila | 6 | — |
+| "Quem vende um vende dois." | Homem da Firma | 7 | — |
+| "Hoje ninguém atira na farda." | Matias | 8 | — |
+| "Porque amanhã não dá." | Matias | 8 | — |
+| "Ela não fica sabendo." / "De mim, não." | Matias e Bruno | 8 | — |
+| "Joana." / "Bota o do baiano." / "Paulo." | Matias | 8 | Primeira vez que ele não diz "Jojô". |
+| "Bebeu tudo, Alexandre." / "Hoje deu sede, tia." | Lourdes e Matias | 8 | — |
+| "Tu comeu?" / "Então volta pra comer." | Dona Lourdes | 8, 34, 49, 53 | Na última vez, quem pergunta é Sofia. |
+| "Tu nunca perguntou por que eu não ia na escola." / "Eu sabia." / "Eu sei que tu sabia." | Sofia e Romildo | 10 | Paga o EP2. |
+| "Quem corre cai." | Romildo | 10 | Ironia com 2021. |
+| "Ninguém atira. A menina desce inteira." | Romildo | 11 | Eco do rádio de 2021 e do EP7. |
+| "Sua menina é esperta." / **"É minha."** / "Eu sei. Eu batizei a outra." | Romildo e Bruno | 11 | — |
+| "Vai, filhinha." | Romildo | 11 | Eco de "Oi, filhinha" (EP6) e de "Entra, filhinha" (EP7). |
+| "Tenente." / "Coronel." | Romildo e Camila | 12 | — |
+| "Tu tá com sede." / "Sempre." | Sofia e Matias | 13 | — |
+| **"Ninguém toca nela."** | Matias | 13 | **A última vez.** |
+| "O melhor atirador do batalhão." | Tom | 14 | Eco do EP2. |
+| "Derruba antes do ponto." | Romildo, citado por Tom | 14 | O canal dois. |
+| "Por quem, tenente?" / "Por mim." | Tom e Camila | 14 | — |
+| "O Renato também quis falar." | Tom | 14 | — |
+| "Por aqui, menino." / "Bebe uma água quando chegar, ouviu?" | Senhora de Bobes | 15, 17 | Eco de "Bebe uma água, Lourdes" (EP4). |
+| "Tem criança sangrando lá em cima todo mês, doutora." | Socorrista Chefe | 16 | — |
+| "Pré-pré adolescente." / "Isso existe?" / "Existe. Eu." | Sofia e Bruno | 18 | Eco do EP1 e do EP2. |
+| "Tá com a guia?" / "Então vai." | Mãe Dôra | 19 | — |
+| "De vocês eu ainda não sei se saio." | Dona Zezé | 20 | — |
+| "Olha o tanto de porta, Gabriel." | Dona Celeste | 22 | — |
+| "Tem fila." | Henrique | 23 | Eco de Bruno (EP7). |
+| "Tua xuxinha tá suja." / "Lava." / "Tu manda muito." | Sofia e Bruno | 24 | — |
+| "Responsável?" / "Sou." | Médica e Bruno | 25 | — |
+| "O rádio agora é nosso." | Homem da Firma | 26 | Eco de "O rádio agora é do Paulão" (EP7). |
+| "Eu vou falar." | Joana | 26 | — |
+| "Quem paga o senhor está." | Romildo | 27 | — |
+| "O Tomás vai dormir mais cedo." | Romildo | 27 | Eco do EP7. |
+| "Ainda não era. Agora é." | Barão | 28 | Paga o "Ainda não" (EP6). |
+| "Ninguém larga uma gravata dessa." | Barão | 28 | — |
+| "Ela tá bonita." | Dona Lourdes | 29 | Sobre Kalila. |
+| "Ocultação é crime permanente." | Iolanda | 30 | — |
+| "Abaixa a cabeça, senador. O carro é baixo." | Iolanda | 31 | Eco de "cabeça baixa" (EP3, EP7). |
+| "Mais uma." | Dona Lourdes | 32 | A cicatriz. |
+| "Tu vai voltar?" / "Dorme." / "Isso não é resposta." / "Pra você lembrar de voltar." / "É a que eu tenho." | Sofia e Bruno | 33 | Última inversão do bordão. |
+| "Ex. Ele me ligou antes." | Camila | 35 | — |
+| "Depois aprendeu a abaixar." / "Ele era teu." | Dona Lourdes | 36 | — |
+| "Em quem tu não mandar." | Dona Lourdes | 37 | — |
+| "Setenta e três porta." / "Valeu, Gabriel." | Gabriel e Sofia | 38 | Sofia o chama pelo nome. |
+| "Rosto se troca." | Romildo | 39 | Eco do EP6, agora dito a Prates. |
+| "Ele deu passagem pra muita gente." / "Eu só falo com proteção." | Iolanda e Marlene | 40 | — |
+| "Não precisa de médico." | Guarda | 41 | — |
+| "Não entrega pra ninguém de farda." / "Por isso mesmo." | Freitas | 42 | — |
+| "O sargento novo." / "Ainda não chegou." | Homem da Firma | 43 | T2. |
+| "Morto também se investiga." | Iolanda | 44 | — |
+| "Tem o meu irmão." | Henrique | 44 | — |
+| "Hoje eu ia me mudar." | Joana | 44 | O "JÔ" do dia 26. |
+| "Vinte e seis era um dia bonito." / "Ainda é, coronel." | Romildo e Camila | 45 | Eco do EP6. |
+| "Mas vai ficar atrás." | Romildo | 45 | — |
+| "Esse aí vai mandar em tudo." / "Já mandava." | Preso e Bruno | 46 | — |
+| "Tu faz igual a ele." / "Eu sei." | Joana e Sofia | 47 | Inverte o EP4. |
+| "E enfio agulha sem óculos." | Dona Lourdes | 48 | — |
+| "Revistaram a farofa." / "Não veio." | Dona Lourdes | 49 | — |
+| "Ninguém pede nada pro titular, sargento. Ele obedece." | Solange | 50 | — |
+| "Ela tá bem?" / "Tá." / "Então valeu." | Camila e Bruno | 51 | — |
+| "Eu não." | O Barão, no bilhete | 52 | — |
+| "No último dia bebeu." / "Farinha é por último." | Dona Lourdes | 52 | Eco do EP3. |
+| "Era pra todo mundo ouvir." / "O coronel principalmente." | Bruno | 53 | — |
+| "Querer, todo mundo sempre quis." / "Agora ninguém consegue." | Sofia | 53 | **Eco do slogan e da última linha da sinopse.** |
+| **"Você me ensinou a estar sempre um passo à frente."** | Sofia | 53 | Bíblia e sinopse. |
+| "Não. Não acabou. A menina tem uma cópia." | Romildo | 54 | **Gancho da temporada.** |
+
+---
+
+### 7. Estado final de cada personagem (quinta, 29/10, à noite)
+- **Bruno:** solto, sem acusação de homicídio (a câmera de Pacheco) e com a temporária revogada "de cima". Perdeu a justiça (entregou o caderno), a vingança (abaixou a arma diante de Tom, que o sistema matou), o enterro de Matias e Camila, que agora trabalha para Romildo. Não usa mais a xuxinha: ficou a marca no pulso. Sabe que Matias entregou Dandara e prometeu não contar a Sofia. Sabe do canal dois. Sabe que Sofia tem a cópia. De volta à oficina e à laje, com uma filha.
+- **Sofia:** 13 anos, com uma cicatriz nova no flanco, sob a guarda provisória de Dona Lourdes. Usa a xuxinha, o pingente com o **cartão microSD** (todas as páginas do livro-caixa) e a guia de Oxum. Tem a foto inteira de Matias e Dandara grávida e a foto de carnaval com o bilhete do Barão. Sabe que Matias era o pai e não chegou a chamá-lo assim. **Não sabe** que ele entregou a mãe dela. Mentiu a Gabriel sobre as fotos.
+- **Camila:** tenente, na assessoria do gabinete do secretário de Segurança Romildo das Neves, por acordo, em troca da soltura de Bruno. Prendeu Tom. Ouviu o canal dois e contou a Iolanda. Disse a Romildo que não está do lado dele. Espiã ou convertida: T2.
+- **Matias:** **morto** na escadaria do Cruzeiro com tiros nas costas, protegendo a filha. Enterrado na terça pelo morro inteiro. Dona Lourdes acende uma vela e enche um copo para ele.
+- **Romildo:** secretário de Segurança anunciado do governador eleito Augusto Prates. Tem o **livro-caixa original** e a cópia de Kalila. Mandou matar Tom. Abandonou Marlene. Sabe, pela gavetinha vazia, que Sofia tem uma cópia, e Brasília já sabe que ele sabe. Tem Camila "atrás" dele.
+- **Roberto:** preso em flagrante pela PF no sábado, véspera da eleição, depois do vídeo de Kalila. Perdeu a eleição. Saiu recitando o Neemias.
+- **Tom:** **morto** na cela sete do BEP, de madrugada, antes de depor ("dormir mais cedo"). O terço ficou no chão.
+- **Marlene:** presa pela PF no Galeão no domingo à noite. Diz que só fala com proteção. Perguntou se a menina estava viva.
+- **Joana:** grávida de Pacheco (quer o nome Paulo), testemunha da PF sob proteção, fora do Farol. Depôs sobre a morte de Pacheco. Levou a caneca "SALVADOR". Guardou a foto do irmão até o enterro e a entregou a Sofia.
+- **Dona Lourdes:** guardiã provisória de Sofia. Ouviu a confissão de Matias. Visitou Bruno na cadeia. Duas velas na prateleira. Está com o canivete de Sofia.
+- **Henrique:** soldado PM que abandonou o posto para levar Sofia ao hospital. Achou a câmera do irmão com Freitas e a entregou à PF. Candidato ao BOPE na T2.
+- **Major Freitas:** aliado discreto. Foi ao galpão sem mandado e acoberta Henrique.
+- **Iolanda:** tem Marlene, a câmera de Pacheco, o recorte de 2021 e o depoimento de Joana. Não tem o caderno, nem Tom, nem o dinheiro. Sabe da existência de um canal dois só pela palavra de Camila. Não sabe da cópia de Sofia.
+- **Barão:** rico (cerca de R$ 80 milhões em lugar desconhecido) e vingado (Roberto preso). Usa a gravata de Clovis. Mandou o envelope a Sofia.
+- **Clovis:** fora de quadro desde o EP7. O Barão acha que ele volta.
+- **Tarso:** sumiu na fumaça da ocupação depois de abaixar o fuzil. Paradeiro desconhecido.
+- **Paulão:** **morto** pela Firma na porta da oficina. Enterrado ao lado de Matias, com quase ninguém.
+- **Gabriel:** filmou as 73 portas. Configurou o celular do drone para salvar no cartão. Sabe ou desconfia do pingente e não perguntou. Foi chamado de "Gabriel" por Sofia.
+- **Formiga:** sem rádio (tomado pela Firma), no Farol ocupado. Levou o copo d'água a Matias.
+- **Dona Zezé:** negocia com a Firma, que ainda não tem chefe ("o sargento novo"). Anota tudo no caderno da associação.
+- **Dona Cida, Senhora de Bobes, Mãe Dôra, mototaxistas, merendeira:** abriram as portas. Dona Cida fechou a dela à Firma.
+- **Inspetora Solange:** prendeu e soltou Bruno. Sabe que a revogação veio de cima.
+- **O Farol:** ocupado pela Firma: a lâmpada da boca apagada, o Salmo 127 na parede, o botijão a R$ 110, a internet "sem queda" e homens de colete na porta da seção eleitoral.
+- **Augusto Prates:** governador eleito com 52,8%, Romildo na equipe. "Quem paga" Prates está no caderno.
+
+---
+
+### 8. Sementes da 2ª temporada
+1. **A cópia de Sofia:** o cartão no pingente, com todas as páginas do livro-caixa, que ninguém além de Bruno sabe que existe. Romildo sabe pela gavetinha, e Brasília sabe por Romildo. A menina volta a ser a pessoa mais perigosa do Rio, agora sem seguro, a não ser que ela mesma faça um.
+2. **Brasília:** os dois homens de terno na antessala e o número (61). São os financiadores do Consórcio e quem "paga" Prates.
+3. **Camila dentro do gabinete:** "não vim pra ficar do seu lado" / "mas vai ficar atrás". Ela sabe do canal dois.
+4. **Marlene disposta a delatar:** "só falo com proteção". Ela sabe de oito anos de Romildo.
+5. **O canal dois de 2021:** só existe como palavra de um morto. Se houver uma gravação (do batalhão, da operadora, de alguém da equipe de Tom), ela derruba Romildo. Pergunta da T2.
+6. **O caderno original** na mesa de Romildo e a cópia de Kalila com ele.
+7. **O Barão** rico, armado e sem inimigos à altura. O dinheiro está em lugar desconhecido, e Iolanda tem a placa e o barracão vazio. Clovis e a gravata.
+8. **Joana e o bebê** (Paulo), sob proteção. A caneca. O apartamento de Laranjeiras, com o aluguel vencido em 25/10.
+9. **O Farol sob a Firma** e o "sargento novo" que ainda não chegou. Bruno de volta ao morro, agora contra a milícia, com Formiga sem rádio e a boca desfeita.
+10. **O segredo que Bruno guarda:** Matias entregou Dandara. Sofia não sabe. Dona Lourdes ouviu.
+11. **Henrique e Freitas**, com a câmera de Pacheco na PF. Henrique abandonou o posto: processo disciplinar ou porta de entrada para o BOPE.
+12. **Tarso** desaparecido, em luto por Beka, com uma dívida estranha com a menina que ele não matou.
+13. **A guarda provisória** de Dona Lourdes, aos 68 anos, num morro ocupado: a Vara da Infância ainda vai decidir. "Tudo é provisório."
+14. **Bruno e Sofia:** a temporada termina com o primeiro sorriso inteiro de Bruno desde 2021.
