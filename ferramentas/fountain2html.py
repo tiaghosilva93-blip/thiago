@@ -48,7 +48,7 @@ def inline(t):
 
 CSS = """
 @page { size: A4; margin: 1in 1in 1in 1.5in; }
-body { font-family: 'Courier Prime','Courier New','Liberation Mono','FreeMono',monospace; font-size: 12pt; line-height: 1.0; color:#000; margin:0; }
+body { font-family: 'Courier Prime','Courier New','Liberation Mono','FreeMono',monospace; font-size: 12pt; line-height: 1.2; color:#000; margin:0; }
 .page { break-after: page; }
 .page:last-child { break-after: auto; }
 .cap { text-align:center; font-weight:bold; text-decoration: underline; margin: 0 0 24pt; }
