@@ -76,13 +76,19 @@ Se a pauta não se sustentar na apuração (não confirmada, velha, já publicad
 
 **Varie as capas — nada de capa de trailer em todo post.** Thumbnail de trailer é o último recurso, não o padrão: no máximo **1 capa de trailer por horário** e no máximo **1 em cada 4 posts do dia**. Antes de escolher, veja as capas dos posts do dia (`select slug, cover_image from posts where published_at::date = current_date;`) e prefira um tipo de imagem que ainda não apareceu.
 
-Escolha a imagem que conta a história da pauta:
-- **Elenco/escalação:** foto do ator ou da atriz (evento, première, tapete vermelho).
-- **Música:** foto do artista ao vivo ou em evento, capa oficial do álbum/single divulgada pelo artista ou pela gravadora.
-- **TV e novelas:** foto de divulgação da emissora (cena, elenco, apresentador), foto de bastidor divulgada pela produção.
-- **Bastidores:** foto de set ou de produção divulgada pelo estúdio, foto do diretor/produtor.
-- **Prêmios e números:** foto da cerimônia, do vencedor, do evento.
-- **Lançamentos:** pôster oficial ou still de divulgação antes do trailer.
+**A FOTO TEM QUE TER RELAÇÃO DIRETA COM A NOTÍCIA (regra obrigatória).** Foto genérica ou sem sentido (prédio aleatório, sala de cinema vazia, paisagem, palco qualquer, sede de outra emissora) deixa o site feio e é proibida. Antes de escolher, responda: "quem ou o que é o assunto principal deste post?" — e mostre isso:
+- **Post cita uma pessoa** (ator, atriz, cantor, diretor, autor, apresentador, influenciador): **foto dessa pessoa**. Se cita várias, a principal (a do título).
+- **Post é sobre uma produtora, estúdio, emissora ou plataforma** (Netflix, Globo, Warner, A24, SBT…): **foto ligada a ela** — sede, estúdio, logotipo oficial, evento da marca.
+- **Post é sobre um filme**: foto de **alguém do elenco** (de preferência o protagonista), do **diretor**, ou pôster/still oficial do filme.
+- **Post é sobre uma série**: foto de alguém do elenco principal ou do criador/showrunner, ou still/pôster oficial.
+- **Post é sobre novela**: foto de **alguém do elenco da novela** (protagonistas primeiro), do autor, ou divulgação oficial da emissora com cena/elenco.
+- **Post é sobre música**: foto do **cantor, cantora ou banda** (ao vivo ou em evento) ou a capa oficial do álbum/single.
+- **Post é sobre reality ou programa**: foto do apresentador ou de participante citado, ou divulgação oficial do programa.
+- **Prêmios e números**: foto do vencedor, do destaque citado ou da cerimônia.
+
+Ordem de tentativa quando a primeira opção não tem foto liberada: outra pessoa central da mesma pauta (outro protagonista, o diretor, o autor) → material oficial da obra (pôster, still, divulgação) → a produtora/emissora/plataforma responsável → thumbnail do trailer/clipe oficial. **Foto genérica do tema só como último caso**, e o relato precisa dizer por que nenhuma das anteriores foi possível.
+
+**Confira se a foto é mesmo da pessoa/obra certa** (nome do arquivo, descrição da página do Commons, legenda oficial). Homônimos e pessoas parecidas são erro grave. A legenda/crédito deve nomear quem aparece ("Fulana, protagonista de X. Foto: …").
 
 **Pode buscar no Google Imagens (e em qualquer buscador)** para encontrar opções — mas só use a imagem se a origem dela for uma destas:
 1. **Divulgação oficial:** site de imprensa, perfil oficial ou página do estúdio, plataforma, emissora (ex.: Globo, Netflix, Prime Video, Disney, HBO, Globoplay), gravadora ou do próprio artista. Crédito: "Foto: Divulgação/Globo", "Imagem: Divulgação/Netflix", "Foto: Divulgação/Universal Music".
@@ -95,7 +101,7 @@ Escolha a imagem que conta a história da pauta:
 
 **Capa obrigatória — e post NUNCA fica em rascunho:** todo post sai `published` e com imagem de destaque (`cover_image` e `og_image`). Rascunho prejudica o site e é proibido.
 - **Rede bloqueada não é motivo para rascunho.** A rede da sessão costuma bloquear o Wikimedia e outros sites de imagem, então muitas vezes você não vai conseguir abrir a imagem. Tudo bem: se a página do arquivo apareceu no WebSearch (ex.: `commons.wikimedia.org/wiki/File:Nome.jpg`), use `https://commons.wikimedia.org/wiki/Special:FilePath/Nome.jpg?width=1200` e publique.
-- **Fallback garantido:** se não achar foto específica (do ator, artista, obra), use uma foto genérica do tema no Commons (sala de cinema, plateia, palco de show, estúdio de TV, claquete, câmera, microfone) — busque `commons.wikimedia.org File <tema> jpg` no WebSearch e escolha uma que ainda não esteja em uso.
+- **Fallback (nessa ordem):** outra pessoa central da pauta → pôster/still/divulgação oficial da obra → produtora/emissora/plataforma → trailer oficial → só então uma foto genérica do tema, explicando no relato por que nada relacionado serviu.
 - **Nunca escreva no texto avisos como "imagem pendente", "capa a definir", "crédito a confirmar".** O crédito vai sempre preenchido.
 - Se a pauta inteira não se confirmar, **não grave o post** (devolva ao editor com o motivo); não grave como rascunho.
 
