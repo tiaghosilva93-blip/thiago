@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+  <Content>
+    <Paragraph Type="Scene Heading" Number="1">
+      <Text>INT. CASA DE VERÔNIKA - SALA - NOITE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sala de pé-direito duplo. Piso de mármore, sofá de couro claro, uma escada de vidro e aço que sobe para os quartos. Uma parede inteira de vidro. Lá fora, longe, as luzes de um morro cobrem a encosta.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sobre o aparador, uma bandeja de prata e um PORTA-RETRATO grande: Glória, Verônika e Kenya, de vestido de festa, num baile de quinze anos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A porta da frente se abre. VERÔNIKA (40 e poucos), de tailleur, celular colado no ouvido, entra falando.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(no celular)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não, ele não abre a boca sem mim. Fala pra ele que se abrir eu largo o caso. Tchau.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ela joga a chave na bandeja. Tira o salto. Só então vê.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>KENYA (16), de moletom, parada no meio da sala, no escuro. Numa mão, uma FOTO ANTIGA. Na outra, um ENVELOPE AMARELADO.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Por que você mentiu pra mim?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Boa noite pra você também.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Responde, mãe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Kenya, eu tive um dia de merda. Seja lá o que for, amanhã a gente...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(gritando)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Como é que você teve coragem de fazer isso comigo?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Baixa o tom pra falar comigo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>No alto da escada, uma luz se acende. GLÓRIA (60 e poucos), de camisola e robe, aparece. No pescoço, a GUIA: um fio de contas brancas e azuis. Desce devagar, a mão no corrimão.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Gente! Que gritaria é essa? O que tá acontecendo?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Que bom que a senhora acordou, vó. Porque agora eu tô olhando pra duas mentirosas.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika atravessa a sala em três passos e agarra o braço de Kenya. Aperta. A foto cai no mármore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tá maluca, garota? Tá maluca?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória se joga entre as duas. No empurra-empurra, a mão de Verônika, que ia de novo para Kenya, se fecha na guia de Glória. O fio estica no pescoço da mãe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tudo para.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika olha a própria mão. Abre os dedos, um por um. As contas caem de volta no peito de Glória, com um estalo seco.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika recua um passo, como se tivesse se queimado. Leva a mão ao peito e abaixa a cabeça para a mãe, rápido. Um gesto antigo, de menina de terreiro.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória não diz nada. Ajeita a guia. Silêncio. Só o zumbido do ar-condicionado.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(baixo, depois subindo)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quem ela pensa que é? Pra falar assim comigo... comigo ou com a senhora. Quem?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não é assim que a gente vai resolver as coisas, Verônika.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya se abaixa e pega a foto do chão. Levanta na altura dos olhos da mãe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DETALHE DA FOTO: três adolescentes numa laje, o morro atrás. Verônika, menina. Ao lado dela, rindo, o IRMÃO. E um garoto sem camisa com o braço em volta do pescoço dela. No canto, à caneta: "eu, o mano e o Rod".</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quem é o meu pai?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ninguém responde.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Porque um taxista que morreu num acidente é que ele não é.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do que você tá falando, Kenya?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Taxista. Ninguém tinha uma foto dele. Nem do táxi. Nem túmulo. Eu tinha seis anos e perguntei onde ele tava enterrado. Lembra, vó? A senhora foi fazer bolo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória desvia o olho.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu sei que o meu pai é o tal do Rod.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika, encurralada, não reage. Os olhos dela vão para o envelope na mão da filha. Ela reconhece.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Onde você achou isso?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No teu closet. Numa caixa de sapato, embaixo dos teus processos. Onde ninguém mexe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya tira do envelope uma folha de caderno, dobrada em quatro. No envelope, à mão, só uma palavra: "RODRIGO". Sem selo. Sem endereço.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(lendo, a voz falhando)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"Rod. Não sei como te falar isso. Ela nasceu. É tua. Tem a tua boca..."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Para.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>"... e eu não sei o que fazer..."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Para com essa porra!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya abaixa a carta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nunca mandou, né? Tá aqui, ó. Sem selo. Dezesseis anos dentro de uma caixa de sapato.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mas eu quero ouvir de vocês duas. A verdade. Da boca de vocês.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika abaixa a cabeça.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Olha pra mim, mãe. Olha pra mim!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika não olha. Pega a bolsa no sofá e vai saindo na direção da escada. Kenya avança e puxa a mãe pelo braço, com força. A bolsa cai, espalha papel, batom, celular.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Caralho! Tira a porra da mão de cima de mim, senão eu te arrebento na porrada!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya não solta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Arrebenta. Vai. Não é assim que resolve lá no morro?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika congela.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Você saiu de lá, mas lá não saiu de você, né, doutora?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me solta, Kenya.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Passa o dia tirando bandido da cadeia. Ganha uma nota pra isso. Mas o bandido que te comeu você esconde dentro de uma caixa de sapato.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cala a boca.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Você mente pra viver, mãe! Mente pra juiz, mente pra jornal, mente pra cliente... Isso aqui tudo é mentira!</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(aponta a sala)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu sou mentira!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>O tapa vem sem aviso. Estalado. Kenya gira, perde o equilíbrio e bate as costas no aparador. O porta-retrato tomba e explode no mármore. Vidro para todo lado.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silêncio. Kenya com a mão no rosto. Não chora. Encara.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Parou! Chega! Verônika!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(para Glória, tremendo)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu nunca falei assim com a senhora. Nunca. E eu não admito que essa filha da puta fale assim comigo. Ou com a senhora.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ela pega Kenya pelo pulso e arrasta a filha até a parede de vidro. Kenya tenta se soltar. Verônika empurra o rosto dela de frente para as luzes do morro.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Vem aqui! Vem aqui! Olha ali. Olha! Tá vendo? Eu nasci ali. Eu nasci pobre pra caralho. Sem água, sem porta no banheiro, tomando tiro na janela.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu me fodi inteira, Kenya. Inteira. Pra te dar essa vida de luxo. Pra você e pra tua avó. Essa escola, esse quarto, essa porra desse vidro que você tá olhando...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória chega por trás e arranca a mão de Verônika do pulso da neta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Parou! Vai humilhar o caralho! Para com essa porra!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika se vira, assustada com a mãe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Se você quiser, a gente sai da tua casa agora. Não é isso que você quer? Jogar na cara? Fala. Fala que a gente vai embora agora.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika abre a boca. Não sai nada.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Agora sai da minha frente. Sai!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika dá um passo para o lado. Glória se volta para Kenya. A voz baixa, quase pedindo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A gente só quis te proteger, Kenya.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me proteger?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(ri, chorando)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu dispenso essa porra dessa proteção, vó. Eu preferia saber a verdade. Eu preferia...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Não termina. Kenya se senta no sofá e desaba. Chora com a carta amassada na mão.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika vai saindo para o corredor. Pisa descalça num caco de vidro. Não para. Some.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória fica de pé no meio da sala, a mão fechada sobre a guia. Os lábios se mexem sem som. Reza.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CORTA PARA:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" Number="1A">
+      <Text>INT. CASA DE VERÔNIKA - SALA - NOITE - MAIS TARDE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Só um abajur aceso. Os cacos continuam no chão. O porta-retrato virado para baixo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya no canto do sofá, os joelhos encolhidos. Glória numa poltrona, afastada, de guarda.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika volta. Sem o tailleur, de camiseta. A maquiagem borrada. Um curativo mal feito no pé. Senta na outra ponta do sofá. Entre as duas, o envelope sem selo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Longo silêncio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A gente morava lá em cima. No São Jerônimo.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu fui namorada do Rodrigo. Eu tinha a tua idade.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya não olha para ela.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ele era o melhor amigo do teu tio. Desde moleque. Pipa, bola, baile... um não saía sem o outro.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Se não fossem as merdas que o Rodrigo fazia, o teu tio tava vivo até hoje.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>O que ele fazia?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>O que ele faz até hoje. Tráfico.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya passa o dedo na foto, em cima do garoto sem camisa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mas afinal... foi ou não foi o meu pai que matou o meu tio?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>"Meu pai". Verônika sente a palavra. Demora.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não foi.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mas a culpa foi dele.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>E ele sabe?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>O quê?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Que eu sou filha dele.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika olha para o envelope sem selo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória se levanta da poltrona.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>E você quer que ele saiba?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya não responde.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GLÓRIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>É esse o pai que você quer pra você?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Glória espera. Kenya não levanta os olhos. Glória toca a guia, vira as costas e sobe a escada, devagar, a mão no corrimão. Lá em cima, a porta do quarto dela se fecha. Não abre mais.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As duas sozinhas.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não pensa que foi fácil pra mim. Porque não foi.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eu escrevi essa carta umas dez vezes. Essa foi a única que eu não rasguei.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KENYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>E por que você não mandou?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VERÔNIKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Porque eu já tinha enterrado um irmão.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pausa)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Não ia enterrar uma filha.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya olha para a mãe pela primeira vez. Um tempo. Nada se resolve no rosto dela.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ela pega o envelope do sofá, dobra, guarda no bolso do moletom. Verônika vê. Não impede.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kenya se levanta, passa por cima dos cacos e sobe a escada sem olhar para trás. A segunda porta bate lá em cima.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Verônika sozinha. Olha para o bolso vazio do sofá, onde estava o envelope.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ela escorrega do sofá para o chão. De joelhos no mármore, começa a catar os cacos do porta-retrato com a mão. Um corta o dedo. Ela continua. Desvira a foto: as três no baile de quinze anos, o vidro estilhaçado por cima dos rostos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ela aperta a foto contra o peito. Primeiro chora sem som. Depois o som sai, feio, de menina.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>No vidro da janela, por cima do reflexo dela ajoelhada, as luzes do morro continuam acesas.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CORTA PARA PRETO.</Text>
+    </Paragraph>
+  </Content>
+  <TitlePage>
+    <Content>
+      <Paragraph Alignment="Center" Type="General">
+        <Text>VERÔNIKA COM K</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text>EPISÓDIO 06</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text>Cena da discussão entre Verônika, Glória e Kenya: Rod é o pai.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text>Versão reescrita</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" Type="General">
+        <Text>Reescrita a partir da cena original de Thiago Silva Machado.</Text>
+      </Paragraph>
+    </Content>
+  </TitlePage>
+</FinalDraft>
