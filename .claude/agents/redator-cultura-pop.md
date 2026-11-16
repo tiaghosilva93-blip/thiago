@@ -105,10 +105,9 @@ Use a URL direta da imagem na fonte oficial (ou `Special:FilePath` no Commons). 
 - **Nunca escreva no texto avisos como "imagem pendente", "capa a definir", "crédito a confirmar".** O crédito vai sempre preenchido.
 - Se a pauta inteira não se confirmar, **não grave o post** (devolva ao editor com o motivo); não grave como rascunho.
 
-**Enquadramento (regra obrigatória) — nada de rosto cortado:** o site mostra a capa em formato horizontal (16:9) e corta o que sobra, pelo centro. Foto vertical (retrato) perde a cabeça ou o queixo da pessoa. Por isso:
-- **Só use foto horizontal**: largura pelo menos 1,4 vez a altura (ex.: 1600 × 1000, 1920 × 1080). A página do arquivo no Commons e o resultado do WebSearch mostram o tamanho original ("Original file (L × A pixels)"); se a altura for maior que a largura, **descarte**.
-- Quando a pauta é sobre uma pessoa, o **rosto inteiro** tem que aparecer, perto do centro e com espaço acima da cabeça. Nada de close extremo, nada de foto em que a pessoa está na borda.
-- Se só existir foto vertical da pessoa, procure outra: foto horizontal de evento ou painel com ela, foto de divulgação horizontal (still, pôster em formato paisagem, foto de elenco), ou uma imagem horizontal do tema (palco, set, estúdio). Prefira uma imagem do tema a um rosto cortado.
+**Enquadramento — nada de rosto cortado:** o site recorta as capas em 16:9 privilegiando a parte de cima da foto (onde fica o rosto).
+- Prefira foto horizontal. **Retrato vertical da pessoa é aceito** quando o rosto está no terço de cima da foto (foto de evento, tapete vermelho, painel). Nunca troque a foto da pessoa por uma paisagem só por causa da orientação — a relação com a notícia vem primeiro.
+- O rosto tem que aparecer inteiro e identificável; nada de close extremo, nem foto em grupo em que a pessoa citada não se distingue.
 - No relato, informe o tamanho da imagem escolhida (L × A).
 
 **Capa única (regra obrigatória):** cada post tem uma capa diferente. Antes de gravar, confira que a URL não foi usada em outro post: `select slug from posts where cover_image = '<url>' or og_image = '<url>';` — tem que voltar vazio. Se a mesma obra já tem post com aquela imagem (ex.: o mesmo trailer), use outra: outro trailer/teaser oficial, outro still ou pôster de divulgação, ou outra foto do Commons.
