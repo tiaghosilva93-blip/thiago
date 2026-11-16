@@ -197,6 +197,7 @@ async function fetchAll() {
       const videoId = cr.video_id || spec.video_data?.video_id;
       const permalink = videoId ? videoPermalinks.get(videoId) || null : null;
       const embedUrl = adPreviewUrls.get(ad.id) || null;
+      const adFormat = videoId ? 'Vídeo' : format;
 
       creatives.push({
         campaign_id: c.id,
@@ -204,7 +205,7 @@ async function fetchAll() {
         campaign_status: c.status,
         unit,
         kind,
-        format,
+        format: adFormat,
         ad_id: ad.id,
         ad_name: ad.name,
         ad_status: ad.status,
