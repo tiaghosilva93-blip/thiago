@@ -90,14 +90,14 @@ Ordem de tentativa quando a primeira opção não tem foto liberada: outra pesso
 
 **Confira se a foto é mesmo da pessoa/obra certa** (nome do arquivo, descrição da página do Commons, legenda oficial). Homônimos e pessoas parecidas são erro grave. A legenda/crédito deve nomear quem aparece ("Fulana, protagonista de X. Foto: …").
 
-**Pode buscar no Google Imagens (e em qualquer buscador)** para encontrar opções — mas só use a imagem se a origem dela for uma destas:
-1. **Divulgação oficial:** site de imprensa, perfil oficial ou página do estúdio, plataforma, emissora (ex.: Globo, Netflix, Prime Video, Disney, HBO, Globoplay), gravadora ou do próprio artista. Crédito: "Foto: Divulgação/Globo", "Imagem: Divulgação/Netflix", "Foto: Divulgação/Universal Music".
-2. **Agência Brasil** (agenciabrasil.ebc.com.br): fotos livres com crédito "Foto: Nome/Agência Brasil".
-3. **Wikimedia Commons** (`https://commons.wikimedia.org/wiki/Special:FilePath/<Arquivo>?width=1200`) e **Flickr com licença Creative Commons**: crédito com autor e licença.
-4. **Bancos livres** (Unsplash, Pexels) para imagens genéricas (cinema, plateia, palco, controle remoto).
-5. **Thumbnail do trailer/clipe oficial** (`https://i.ytimg.com/vi/<ID>/maxresdefault.jpg`, crédito "Imagem: Reprodução/YouTube <canal>") — só quando as opções acima não existirem, respeitando o limite acima.
+**Busque no Google Imagens à vontade — não fique preso ao Wikimedia.** O Google é a ferramenta principal para achar a foto certa da pessoa/obra. Ao achar uma boa opção, abra a página de origem e veja **de onde ela vem**:
+1. **Divulgação oficial — USE (é o padrão do jornalismo de entretenimento):** site de imprensa, página oficial ou perfil oficial (Instagram, X, YouTube, Facebook) de emissora (Globo/gshow, SBT, Record, Band), plataforma (Netflix, Prime Video, Disney+, HBO Max, Globoplay, Apple TV), estúdio, distribuidora, gravadora, assessoria, do próprio artista ou do festival/premiação. Crédito: "Foto: Divulgação/Globo", "Foto: Reprodução/Instagram @perfil", "Imagem: Divulgação/Netflix". Coloque o link da fonte no crédito.
+2. **Agência Brasil, Wikimedia Commons, Flickr com licença CC** — USE, com autor e licença.
+3. **Pôster, still, capa de álbum e frame de trailer/clipe oficial** — USE, crédito para quem divulgou.
 
-**Não use**, mesmo achando no Google: fotos de agências pagas (Getty Images, AP, Reuters, AFP, Shutterstock, Agência O Globo, Folhapress etc. — costumam ter marca d'água ou crédito da agência), fotos tiradas por outros veículos (Omelete, G1, Splash etc.) e fotos de paparazzi. Essas agências cobram e processam por uso sem licença. Na dúvida sobre a origem, não use. Nunca gere imagem de pessoa real com IA.
+**Não use, mesmo achando no Google:** foto com marca d'água ou crédito de **agência de fotos** (Getty Images, AP, Reuters, AFP, Shutterstock, Agência O Globo, Folhapress, Estadão Conteúdo, AgNews, Brazil News) e foto de **paparazzi**. Dar a fonte não resolve: essas agências cobram por cada uso e processam quem publica sem licença. Se a melhor foto da pessoa for de agência, procure outra da mesma pessoa em fonte oficial (há quase sempre uma de divulgação ou do perfil oficial dela). Nunca gere imagem de pessoa real com IA.
+
+Use a URL direta da imagem na fonte oficial (ou `Special:FilePath` no Commons). Confira que é a pessoa/obra certa.
 
 **Capa obrigatória — e post NUNCA fica em rascunho:** todo post sai `published` e com imagem de destaque (`cover_image` e `og_image`). Rascunho prejudica o site e é proibido.
 - **Rede bloqueada não é motivo para rascunho.** A rede da sessão costuma bloquear o Wikimedia e outros sites de imagem, então muitas vezes você não vai conseguir abrir a imagem. Tudo bem: se a página do arquivo apareceu no WebSearch (ex.: `commons.wikimedia.org/wiki/File:Nome.jpg`), use `https://commons.wikimedia.org/wiki/Special:FilePath/Nome.jpg?width=1200` e publique.
